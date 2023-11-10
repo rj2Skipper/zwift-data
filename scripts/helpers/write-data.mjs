@@ -17,4 +17,8 @@ await writeFile(
     `./src/${name}.ts`,
     await prettier.format(content, { parser: "typescript" }),
   );
+await writeFile(
+    `./src/${name}.json`,
+    JSON.stringify(data, null, 2),
+  );
 }
