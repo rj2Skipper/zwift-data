@@ -1913,31 +1913,6 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/neokyo-crit-course"
   },
   {
-    "id": 1222172801,
-    "name": "Critcade Test",
-    "slug": "1222172801",
-    "world": "crit-city",
-    "eventOnly": false,
-    "distance": 1.966,
-    "elevation": 17,
-    "leadInDistance": 0.065,
-    "leadInElevation": 0,
-    "leadInDistanceFreeRide": 0.024,
-    "leadInElevationFreeRide": 0,
-    "leadInDistanceMeetups": 0.024,
-    "leadInElevationInMeetups": 0,
-    "segments": [],
-    "segmentsOnRoute": [],
-    "levelLocked": false,
-    "lap": false,
-    "supportsTT": false,
-    "supportsMeetups": true,
-    "sports": [
-      "running",
-      "cycling"
-    ]
-  },
-  {
     "id": 1230300449,
     "name": "Leith Hill After Party",
     "slug": "leith-hill-after-party",
