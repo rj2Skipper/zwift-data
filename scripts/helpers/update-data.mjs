@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 import { segments } from "../../data/segments.mjs";
 import { routes } from "../../data/routes.mjs";
 import { worlds } from "../../data/worlds.mjs";
-import { writeData } from "./write-data.mjs";
+import { writeData, writeDataJSON } from "./write-data.mjs";
 import { formatDistance, formatElevation } from "./format.mjs";
 import { findSegmentsOnRoute } from "./find-segments-on-route.mjs";
 import { fetchSegments } from "./fetch-segments.mjs";
@@ -55,8 +55,8 @@ export async function updateData() {
     for (const item of responseExtendedData.ROUTES.ROUTE) {
       if (
         item.map === "" ||
-        item.map === "GRAVEL MOUNTAIN" || // skip until release or map bounds are available
-        item.name === "Critcade Test" // skip test route
+        item.map === "GRAVEL MOUNTAIN"  // skip until release or map bounds are available
+        //item.name === "Critcade Test" // skip test route
       ) {
         continue;
       }
