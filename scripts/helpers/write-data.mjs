@@ -17,12 +17,12 @@ await writeFile(
     `./src/${name}.ts`,
     await prettier.format(content, { parser: "typescript" }),
   );
-await writeDataJSON(data, name, typeName)
+await writeDataJSON(data, name)
 }
 
 
-export async function writeDataJSON(data, name, typeName) {
-  console.log(`Writing JSON data: ${typeName}`);
+export async function writeDataJSON(data, name) {
+  console.log(`Writing JSON data: ${name}`);
 
 await writeFile(
     `./src/${name}.json`,
