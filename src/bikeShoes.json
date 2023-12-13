@@ -21,8 +21,8 @@
   },
   {
     "id": 1335895262,
-    "name": "Dino Shoes",
-    "imageName": "Shoes_Temp"
+    "name": "Dino Power",
+    "imageName": "DinoShoes_thumb"
   },
   {
     "id": 1424136009,
@@ -36,8 +36,8 @@
   },
   {
     "id": 1796607819,
-    "name": "Pop Art Shoes",
-    "imageName": "Shoes_Temp"
+    "name": "Pop Art",
+    "imageName": "CyclingShoes_PopArt_thumb"
   },
   {
     "id": 1982081400,
@@ -61,8 +61,8 @@
   },
   {
     "id": 2538059510,
-    "name": "Rapha Pro Team Shoes",
-    "imageName": "Shoes_Temp"
+    "name": "Rapha Pro Team",
+    "imageName": "RaphaProTeam2023_thumb"
   },
   {
     "id": 2546048809,
@@ -81,8 +81,8 @@
   },
   {
     "id": 2733895182,
-    "name": "Giro Imperial Shoes",
-    "imageName": "Shoes_Temp"
+    "name": "Giro Imperial",
+    "imageName": "GiroImperial2023_thumb"
   },
   {
     "id": 2734175096,
@@ -106,13 +106,13 @@
   },
   {
     "id": 3389594817,
-    "name": "Nimbl FEAT Ultimate Shoes",
-    "imageName": "Shoes_Temp"
+    "name": "Nimbl FEAT ULTIMATE",
+    "imageName": "NimblFEATUltimate_thumb"
   },
   {
     "id": 3505437713,
-    "name": "Mirage Shoes",
-    "imageName": "Shoes_Temp"
+    "name": "Mirage",
+    "imageName": "CyclingShoes_Mirage_thumb"
   },
   {
     "id": 3547687330,

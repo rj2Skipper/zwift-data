@@ -1038,5 +1038,25 @@
     "id": 221,
     "name": "CANOPIES AND COASTLINES",
     "imageName": "RouteComplete"
+  },
+  {
+    "id": 222,
+    "name": "REPACK RUSH",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 223,
+    "name": "SPIRAL INTO THE VOLCANO",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 224,
+    "name": "BIG FLAT 8",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 225,
+    "name": "CASTLE CRIT",
+    "imageName": "RouteComplete"
   }
 ]

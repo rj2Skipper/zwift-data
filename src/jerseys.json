@@ -10,6 +10,11 @@
     "imageName": "TBR2020_thumb"
   },
   {
+    "id": 10145717,
+    "name": "Coalition Alpha Men",
+    "imageName": "CoalitionAlphaMen2023_thumb"
+  },
+  {
     "id": 27953592,
     "name": "Off the Maap 2021 Kit",
     "imageName": "OffTheMaap2021_thumb"
@@ -151,8 +156,8 @@
   },
   {
     "id": 157839058,
-    "name": "Solid Color Kit Pack",
-    "imageName": "Kit_Temp"
+    "name": "Solid Mustard",
+    "imageName": "SolidColorKitPackMustard_thumb"
   },
   {
     "id": 158338255,
@@ -196,8 +201,8 @@
   },
   {
     "id": 179251346,
-    "name": "Alpe du Knit Pack",
-    "imageName": "Kit_Temp"
+    "name": "Alpe du Knit Ice",
+    "imageName": "AlpeduKnit01_thumb"
   },
   {
     "id": 179750023,
@@ -311,8 +316,8 @@
   },
   {
     "id": 279835500,
-    "name": "Level 80 Kit",
-    "imageName": "Kit_Temp"
+    "name": "Level 80",
+    "imageName": "Zwift_LVL80_thumb"
   },
   {
     "id": 281027822,
@@ -576,7 +581,7 @@
   },
   {
     "id": 479486696,
-    "name": "LOC_CYCLING_JERSEY_CLUBS_EZR2023_NAME",
+    "name": "EZ Riders",
     "imageName": "EZR2023_thumb"
   },
   {
@@ -593,6 +598,11 @@
     "id": 493134166,
     "name": "Team 3R",
     "imageName": "Team3R2018_thumb"
+  },
+  {
+    "id": 501269498,
+    "name": "HPL Cycling",
+    "imageName": "HPLCycling2023_thumb"
   },
   {
     "id": 501435498,
@@ -721,8 +731,8 @@
   },
   {
     "id": 605852977,
-    "name": "Outfield Kit",
-    "imageName": "Kit_Temp"
+    "name": "Outfield",
+    "imageName": "Outfield_thumb"
   },
   {
     "id": 608088435,
@@ -781,7 +791,7 @@
   },
   {
     "id": 640236165,
-    "name": "LOC_CYCLING_JERSEY_EVENTS_JanuaryFondo2023_NAME",
+    "name": "New Year’s Kit",
     "imageName": "JanuaryFondo2023_thumb"
   },
   {
@@ -801,7 +811,7 @@
   },
   {
     "id": 664084390,
-    "name": "LOC_CYCLING_JERSEY_CLUBS_TOYOTAELITE2023_NAME",
+    "name": "Toyota Elite Ecycling",
     "imageName": "ToyotaElite2023_thumb"
   },
   {
@@ -946,7 +956,7 @@
   },
   {
     "id": 802834164,
-    "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_TWENTY_24_NAME",
+    "name": "VBR Twenty24 '24",
     "imageName": "TWENTY242024_thumb"
   },
   {
@@ -1056,8 +1066,8 @@
   },
   {
     "id": 872957794,
-    "name": "Solid Color Kit Pack",
-    "imageName": "Kit_Temp"
+    "name": "Solid Olive",
+    "imageName": "SolidColorKitPackOlive_thumb"
   },
   {
     "id": 873713889,
@@ -1086,8 +1096,8 @@
   },
   {
     "id": 881416075,
-    "name": "Island Time Kit",
-    "imageName": "Kit_Temp"
+    "name": "Island Flowers",
+    "imageName": "Hawaiian01_thumb"
   },
   {
     "id": 888463839,
@@ -1181,8 +1191,8 @@
   },
   {
     "id": 971496426,
-    "name": "Gravel Party Kit",
-    "imageName": "Kit_Temp"
+    "name": "Gravel Party",
+    "imageName": "GravelPartyKit_thumb"
   },
   {
     "id": 971980441,
@@ -1411,8 +1421,8 @@
   },
   {
     "id": 1163964223,
-    "name": "London Tube Kit",
-    "imageName": "Kit_Temp"
+    "name": "London Tube",
+    "imageName": "LondonTube_thumb"
   },
   {
     "id": 1164206060,
@@ -1536,8 +1546,8 @@
   },
   {
     "id": 1292849730,
-    "name": "Alpe du Knit Pack",
-    "imageName": "Kit_Temp"
+    "name": "Alpe du Knit Evergreen",
+    "imageName": "AlpeduKnit02_thumb"
   },
   {
     "id": 1294362827,
@@ -1606,8 +1616,8 @@
   },
   {
     "id": 1313408235,
-    "name": "Island Time Kit",
-    "imageName": "Kit_Temp"
+    "name": "Island Pineapples",
+    "imageName": "Hawaiian03_thumb"
   },
   {
     "id": 1314892694,
@@ -1621,8 +1631,8 @@
   },
   {
     "id": 1321735170,
-    "name": "Solid Color Kit Pack",
-    "imageName": "Kit_Temp"
+    "name": "Solid Clay",
+    "imageName": "SolidColorKitPackClay_thumb"
   },
   {
     "id": 1324536719,
@@ -1718,6 +1728,11 @@
     "id": 1420135286,
     "name": "CHPT3 Women",
     "imageName": "CHPT3Women2022_thumb"
+  },
+  {
+    "id": 1421654591,
+    "name": "Sunrise Racing",
+    "imageName": "SunriseRacing2023_thumb"
   },
   {
     "id": 1423767803,
@@ -1835,11 +1850,6 @@
     "imageName": "LaGrange2019_thumb"
   },
   {
-    "id": 1571690316,
-    "name": "LOC_CYCLING_JERSEY_CLUBS_EINTRACHT_FRANKFURT_RADSPORT2023_NAME",
-    "imageName": "EintrachtFrankfurtRadsport2023_thumb"
-  },
-  {
     "id": 1576116423,
     "name": "Zwift Academy Finalist",
     "imageName": "ZARoadFinalist52022_thumb"
@@ -1858,6 +1868,11 @@
     "id": 1589345470,
     "name": "BIGLA UCI",
     "imageName": "BIGLA2019UCI_thumb"
+  },
+  {
+    "id": 1595151118,
+    "name": "Coalition Alpha Women",
+    "imageName": "CoalitionAlphaWmn2023_thumb"
   },
   {
     "id": 1599435973,
@@ -2161,8 +2176,8 @@
   },
   {
     "id": 1886354418,
-    "name": "Alpe du Knit Pack",
-    "imageName": "Kit_Temp"
+    "name": "Alpe du Knit Cozy",
+    "imageName": "AlpeduKnit03_thumb"
   },
   {
     "id": 1893222148,
@@ -2206,8 +2221,8 @@
   },
   {
     "id": 1932078427,
-    "name": "Island Time Kit",
-    "imageName": "Kit_Temp"
+    "name": "Island Palms",
+    "imageName": "Hawaiian02_thumb"
   },
   {
     "id": 1935761488,
@@ -2535,6 +2550,11 @@
     "imageName": "BikeNBeer_thumb"
   },
   {
+    "id": 2287359226,
+    "name": "Base Performance",
+    "imageName": "BasePerformance2023_thumb"
+  },
+  {
     "id": 2291562618,
     "name": "Zwift UCI 2020 Wildcard",
     "imageName": "UCIZwiftWildcard2020_thumb"
@@ -2720,6 +2740,11 @@
     "imageName": "TrekFactoryRacingWomensMTB2021_thumb"
   },
   {
+    "id": 2432581518,
+    "name": "2023 Rapha Festive 500",
+    "imageName": "Rapha5002023_thumb"
+  },
+  {
     "id": 2436486671,
     "name": "Zwift Academy Women",
     "imageName": "ZwiftAcademyWomen2019_thumb"
@@ -2756,8 +2781,8 @@
   },
   {
     "id": 2473670187,
-    "name": "Mirage Kit",
-    "imageName": "Kit_Temp"
+    "name": "Mirage",
+    "imageName": "Mirage_thumb"
   },
   {
     "id": 2474999752,
@@ -2930,6 +2955,11 @@
     "imageName": "Alpentroedler2022_thumb"
   },
   {
+    "id": 2667207033,
+    "name": "Pain Cave Heroes",
+    "imageName": "PainCaveHeroes2023_thumb"
+  },
+  {
     "id": 2668995113,
     "name": "Vattern Rundan",
     "imageName": "VatternRundan2019_thumb"
@@ -2943,6 +2973,11 @@
     "id": 2676979249,
     "name": "Haute Route Ventoux 2020",
     "imageName": "HauteRoutexZwift2020_thumb"
+  },
+  {
+    "id": 2678488193,
+    "name": "ZTBR",
+    "imageName": "ZTBR2023_thumb"
   },
   {
     "id": 2689503371,
@@ -3006,8 +3041,13 @@
   },
   {
     "id": 2729686639,
-    "name": "LOC_CYCLING_JERSEY_CLUBS_ABUSSYNERGYLADIES2023_NAME",
+    "name": "ABUS Synergy Ladies",
     "imageName": "AbusSynergyLadies2023_thumb"
+  },
+  {
+    "id": 2733238306,
+    "name": "Chasing Racing Club",
+    "imageName": "ChasingRacing2023_thumb"
   },
   {
     "id": 2736225678,
@@ -3151,8 +3191,8 @@
   },
   {
     "id": 2813394705,
-    "name": "Astronaut Kit",
-    "imageName": "Kit_Temp"
+    "name": "Out of This World",
+    "imageName": "AstronautKit_thumb"
   },
   {
     "id": 2813571014,
@@ -3266,8 +3306,8 @@
   },
   {
     "id": 2922052122,
-    "name": "Wolf Power Kit",
-    "imageName": "Kit_Temp"
+    "name": "Wolf Power",
+    "imageName": "WolfPower_thumb"
   },
   {
     "id": 2922761319,
@@ -3276,7 +3316,7 @@
   },
   {
     "id": 2926578991,
-    "name": "LOC_CYCLING_JERSEY_CLUBS_ZIRT2023_NAME",
+    "name": "ZIRT",
     "imageName": "ZIRT2023_thumb"
   },
   {
@@ -3313,6 +3353,11 @@
     "id": 2966777958,
     "name": "Aero 2020",
     "imageName": "Aero2020_thumb"
+  },
+  {
+    "id": 2973154296,
+    "name": "Eintracht Frankfurt",
+    "imageName": "EintrachtFrankfurtRadsport2023_thumb"
   },
   {
     "id": 2976426174,
@@ -3480,6 +3525,11 @@
     "imageName": "BlackSheepWhite2019_thumb"
   },
   {
+    "id": 3120306832,
+    "name": "We Like Bike & Beers",
+    "imageName": "WLBB2023_thumb"
+  },
+  {
     "id": 3127040018,
     "name": "CCP Zwift Kit",
     "imageName": "CCP_Zwift_Kit_thumb"
@@ -3591,7 +3641,7 @@
   },
   {
     "id": 3246908253,
-    "name": "LOC_CYCLING_JERSEY_CLUBS_PRIMORRWBESPORTS2023_NAME",
+    "name": "Primór RWB esports",
     "imageName": "PrimorRWBesports2023_thumb"
   },
   {
@@ -3891,8 +3941,8 @@
   },
   {
     "id": 3459764506,
-    "name": "Makuri Blossoms Kit",
-    "imageName": "Kit_Temp"
+    "name": "Makuri Blossoms",
+    "imageName": "MakuriBlossoms_thumb"
   },
   {
     "id": 3459897545,
@@ -3941,7 +3991,7 @@
   },
   {
     "id": 3503400331,
-    "name": "LOC_CYCLING_JERSEY_CLUBS_BL13LADIES2023_NAME",
+    "name": "BL13 Ladies",
     "imageName": "BL13Ladies2023_thumb"
   },
   {
@@ -3983,6 +4033,11 @@
     "id": 3559927551,
     "name": "Hot Tubes",
     "imageName": "HotTubes2019_thumb"
+  },
+  {
+    "id": 3570361772,
+    "name": "5.W.4.T.",
+    "imageName": "5W4T2023_thumb"
   },
   {
     "id": 3571464315,
@@ -4141,8 +4196,8 @@
   },
   {
     "id": 3690012873,
-    "name": "Level 90 Kit",
-    "imageName": "Kit_Temp"
+    "name": "Level 90",
+    "imageName": "Zwift_LVL90_thumb"
   },
   {
     "id": 3694781490,
@@ -4261,8 +4316,8 @@
   },
   {
     "id": 3791339961,
-    "name": "Big Z Kit",
-    "imageName": "Kit_Temp"
+    "name": "Level 70",
+    "imageName": "Zwift_LVL70_thumb"
   },
   {
     "id": 3793210489,
@@ -4435,6 +4490,11 @@
     "imageName": "ZwiftNationalChampions_thumb"
   },
   {
+    "id": 3901053663,
+    "name": "Amani",
+    "imageName": "Amani2023_thumb"
+  },
+  {
     "id": 3901439314,
     "name": "Mandela Day 2021",
     "imageName": "MandelaDay2021_thumb"
@@ -4506,8 +4566,8 @@
   },
   {
     "id": 3970107365,
-    "name": "Dino Power Kit",
-    "imageName": "Kit_Temp"
+    "name": "Dino Power",
+    "imageName": "DinoPower_thumb"
   },
   {
     "id": 3970245639,
@@ -4571,8 +4631,8 @@
   },
   {
     "id": 4002849052,
-    "name": "Confetti Kit",
-    "imageName": "Kit_Temp"
+    "name": "Level 100",
+    "imageName": "Zwift_LVL100_thumb"
   },
   {
     "id": 4021434624,
@@ -4596,8 +4656,8 @@
   },
   {
     "id": 4034215053,
-    "name": "Bike Packer Kit",
-    "imageName": "Kit_Temp"
+    "name": "Bike Packer",
+    "imageName": "BikePacker_thumb"
   },
   {
     "id": 4037333831,
@@ -4716,8 +4776,8 @@
   },
   {
     "id": 4099535182,
-    "name": "Modern Kit",
-    "imageName": "Kit_Temp"
+    "name": "Modern",
+    "imageName": "ModernKit_thumb"
   },
   {
     "id": 4100199100,
@@ -4858,6 +4918,11 @@
     "id": 4225469098,
     "name": "USAC Member",
     "imageName": "USACMember2020_thumb"
+  },
+  {
+    "id": 4226891124,
+    "name": "Metier",
+    "imageName": "Metier2023_thumb"
   },
   {
     "id": 4235392112,

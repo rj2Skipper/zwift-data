@@ -6,13 +6,13 @@
   },
   {
     "id": 9506232,
-    "name": "Scotty Cap",
-    "imageName": "Hat_Temp"
+    "name": "Scotty Squirrel",
+    "imageName": "CyclingCapScottyTheSquirrel_thumb"
   },
   {
     "id": 16032183,
-    "name": "Light Aero Helmet",
-    "imageName": "Helmet_Temp"
+    "name": "Light Aero",
+    "imageName": "LightAero_thumb"
   },
   {
     "id": 202102819,
@@ -121,8 +121,8 @@
   },
   {
     "id": 857849616,
-    "name": "Kask Elemento Helmet",
-    "imageName": "Helmet_Temp"
+    "name": "Kask Elemento",
+    "imageName": "KaskElementoHelmet"
   },
   {
     "id": 864167623,
@@ -301,8 +301,8 @@
   },
   {
     "id": 2026237645,
-    "name": "Mirage Cap",
-    "imageName": "Hat_Temp"
+    "name": "Mirage",
+    "imageName": "CyclingCapMirage_thumb"
   },
   {
     "id": 2048312797,
@@ -311,8 +311,8 @@
   },
   {
     "id": 2056670865,
-    "name": "Mirage Helmet",
-    "imageName": "Helmet_Temp"
+    "name": "Mirage",
+    "imageName": "Mirage"
   },
   {
     "id": 2095040777,
@@ -346,8 +346,8 @@
   },
   {
     "id": 2439046900,
-    "name": "Specialized S-Works Evade-3 Helmet",
-    "imageName": "Helmet_Temp"
+    "name": "S-Works Evade-3",
+    "imageName": "SWorksEvade3_thumb"
   },
   {
     "id": 2444075592,
@@ -426,8 +426,8 @@
   },
   {
     "id": 2952589280,
-    "name": "Giro Aries Spherical Helmet",
-    "imageName": "Helmet_Temp"
+    "name": "Giro Aries Spherical",
+    "imageName": "GiroAriesSpherical2023_thumb"
   },
   {
     "id": 2952938549,
@@ -476,8 +476,8 @@
   },
   {
     "id": 3290534814,
-    "name": "Dino Power Cap",
-    "imageName": "Hat_Temp"
+    "name": "Dino Power",
+    "imageName": "CyclingCapDinoPower_thumb"
   },
   {
     "id": 3291118897,
@@ -586,8 +586,8 @@
   },
   {
     "id": 3744415423,
-    "name": "Bike Packer Cap",
-    "imageName": "Hat_Temp"
+    "name": "Bike Packer",
+    "imageName": "RunningCapBikePacker_thumb"
   },
   {
     "id": 3791937810,

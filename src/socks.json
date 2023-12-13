@@ -251,8 +251,8 @@
   },
   {
     "id": 1888611545,
-    "name": "Astronaut Socks",
-    "imageName": "Socks_Temp"
+    "name": "Out of This World",
+    "imageName": "Astronaut"
   },
   {
     "id": 2007102130,
@@ -268,6 +268,11 @@
     "id": 2098463286,
     "name": "1980s",
     "imageName": "TealPink2020"
+  },
+  {
+    "id": 2153823261,
+    "name": "Tortoise",
+    "imageName": "Socks_Tortoise"
   },
   {
     "id": 2217505987,
@@ -316,8 +321,8 @@
   },
   {
     "id": 2476312188,
-    "name": "Party Sock Pack",
-    "imageName": "Socks_Temp"
+    "name": "Party White",
+    "imageName": "Socks_Party01"
   },
   {
     "id": 2510625778,
@@ -386,8 +391,8 @@
   },
   {
     "id": 3045640102,
-    "name": "Scotty Socks",
-    "imageName": "Socks_Temp"
+    "name": "Scotty Squirrel",
+    "imageName": "Socks_ScottySquirrel"
   },
   {
     "id": 3054391239,
@@ -440,11 +445,6 @@
     "imageName": "ESports"
   },
   {
-    "id": 3298526789,
-    "name": "Tortoise and the Hare Socks",
-    "imageName": "Socks_Temp"
-  },
-  {
     "id": 3369629196,
     "name": "Back To Fitness: Cycling",
     "imageName": "BackToFitnessCycling"
@@ -458,6 +458,11 @@
     "id": 3389251714,
     "name": "Solid Red",
     "imageName": "SolidRed"
+  },
+  {
+    "id": 3466365315,
+    "name": "Hare",
+    "imageName": "Socks_Hare"
   },
   {
     "id": 3471051231,
@@ -481,13 +486,13 @@
   },
   {
     "id": 3542549299,
-    "name": "Mirage Socks",
-    "imageName": "Socks_Temp"
+    "name": "Mirage",
+    "imageName": "Socks_Mirage"
   },
   {
     "id": 3560570028,
-    "name": "Party Sock Pack",
-    "imageName": "Socks_Temp"
+    "name": "Party Orange",
+    "imageName": "Socks_Party02"
   },
   {
     "id": 3620800398,
@@ -516,13 +521,13 @@
   },
   {
     "id": 3712344004,
-    "name": "Bike Packer Socks",
-    "imageName": "Socks_Temp"
+    "name": "Bike Packer",
+    "imageName": "Socks_BikePacker"
   },
   {
     "id": 3736060698,
-    "name": "Dino Power Socks",
-    "imageName": "Socks_Temp"
+    "name": "Dino Power",
+    "imageName": "Socks_DinoPower"
   },
   {
     "id": 3738220565,
@@ -556,8 +561,8 @@
   },
   {
     "id": 3914978588,
-    "name": "Party Sock Pack",
-    "imageName": "Socks_Temp"
+    "name": "Party Black",
+    "imageName": "Socks_Party03"
   },
   {
     "id": 3930950032,

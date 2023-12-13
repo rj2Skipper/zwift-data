@@ -730,6 +730,11 @@
     "imageName": "TeamType12022_thumb"
   },
   {
+    "id": 3711037404,
+    "name": "ZLDR 2023",
+    "imageName": "ZLDR2023_thumb"
+  },
+  {
     "id": 3712333096,
     "name": "Super League Triathlon Rhinos",
     "imageName": "SLTRhinos2022_thumb"
@@ -755,9 +760,19 @@
     "imageName": "HolidayHeat2019_thumb"
   },
   {
+    "id": 3827075510,
+    "name": "ZLDR 2023",
+    "imageName": "ZLDR2023_thumb"
+  },
+  {
     "id": 3890549677,
     "name": "Zwift Running Shirt 4",
     "imageName": "Shirt04"
+  },
+  {
+    "id": 3913862387,
+    "name": "ZLDR 2023",
+    "imageName": "FilmMyRun2023_thumb"
   },
   {
     "id": 3917042036,
@@ -793,6 +808,11 @@
     "id": 4116498457,
     "name": "Sansego",
     "imageName": "SansegoTriRun2022_thumb"
+  },
+  {
+    "id": 4181698052,
+    "name": "Innovation Multisport",
+    "imageName": "InnovationRunning2023_thumb"
   },
   {
     "id": 4197967370,
