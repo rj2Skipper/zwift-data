@@ -24,6 +24,17 @@ export async function updateData() {
   );
   const segmentsWithLatLng = await fetchSegments();
 
+  // Worlds
+  {
+    const data = [];
+    for (const world of worlds) {
+      data.push({
+        ...world,
+      });
+    }
+    await writeDataJSON(data, "worlds");
+  }
+
   // Segments
   {
     const data = [];
