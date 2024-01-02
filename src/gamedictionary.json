@@ -314,6 +314,28 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "25216.2343750000",
+              "blockedForMeetups": "1",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "398637.8125000000",
+              "eventOnly": "0",
+              "eventPaddocks": "",
+              "imageName": "",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "0",
+              "levelLocked": "0",
+              "locKey": "Old Willunga Hill",
+              "map": "",
+              "name": "Old Willunga Hill",
+              "sports": "3",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "signature": "10020"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "206.1",
               "blockedForMeetups": "0",
               "difficulty": "2.0",
@@ -1525,7 +1547,7 @@
               "eventPaddocks": "1,2,3,4",
               "freeRideLeadinAscentInMeters": "0",
               "freeRideLeadinDistanceInMeters": "9.1",
-              "imageName": "RICHMOND_Richmond_UCI_Reverse",
+              "imageName": "RICHMOND_Richmond_2015_Worlds_Reverse",
               "leadinAscentInMeters": "0.0",
               "leadinDistanceInMeters": "99.7",
               "levelLocked": "0",
@@ -1533,7 +1555,7 @@
               "map": "RICHMOND",
               "meetupLeadinAscentInMeters": "0",
               "meetupLeadinDistanceInMeters": "31.9",
-              "name": "Richmond UCI Reverse",
+              "name": "Richmond 2015 Worlds Reverse",
               "sports": "3",
               "supportedLaps": "1",
               "supportsTimeTrialMode": "0",
@@ -2718,7 +2740,7 @@
               "eventPaddocks": "1,2,3,4",
               "freeRideLeadinAscentInMeters": "0.4",
               "freeRideLeadinDistanceInMeters": "34.8",
-              "imageName": "YORKSHIRE_2019_UCI_Worlds_Harrogate_Circuit",
+              "imageName": "YORKSHIRE_2019_Worlds_Harrogate_Circuit",
               "leadinAscentInMeters": "1.2",
               "leadinDistanceInMeters": "110.8",
               "levelLocked": "0",
@@ -2726,7 +2748,7 @@
               "map": "YORKSHIRE",
               "meetupLeadinAscentInMeters": "0.4",
               "meetupLeadinDistanceInMeters": "34.8",
-              "name": "2019 UCI Worlds Harrogate Circuit",
+              "name": "2019 Worlds Harrogate Circuit",
               "sports": "3",
               "supportedLaps": "1",
               "supportsTimeTrialMode": "0",
@@ -4364,7 +4386,7 @@
               "eventPaddocks": "1,2,3,4",
               "freeRideLeadinAscentInMeters": "0.8",
               "freeRideLeadinDistanceInMeters": "300.7",
-              "imageName": "INNSBRUCK_2018_UCI_Worlds_Short_Lap",
+              "imageName": "INNSBRUCK_2018_Worlds_Short_Lap",
               "leadinAscentInMeters": "0.8",
               "leadinDistanceInMeters": "221.5",
               "levelLocked": "0",
@@ -4372,7 +4394,7 @@
               "map": "INNSBRUCK",
               "meetupLeadinAscentInMeters": "0.9",
               "meetupLeadinDistanceInMeters": "386.6",
-              "name": "2018 UCI Worlds Short Lap",
+              "name": "2018 Worlds Short Lap",
               "rowRec": "1",
               "runRec": "1",
               "sports": "3",
@@ -8853,6 +8875,13 @@
           },
           {
             "$": {
+              "imageName": "DoddieAid2024_thumb",
+              "name": "DoddieAid 2024",
+              "signature": "162720319"
+            }
+          },
+          {
+            "$": {
               "imageName": "MaratonaDolomiti_thumb",
               "name": "Maratona Dolomiti",
               "signature": "167026782"
@@ -9143,6 +9172,13 @@
               "imageName": "Zwift_02_thumb",
               "name": "Zwift",
               "signature": "351896555"
+            }
+          },
+          {
+            "$": {
+              "imageName": "USAC_Champ2024_thumb",
+              "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_USACCHAMPION2024_NAME",
+              "signature": "352481813"
             }
           },
           {
@@ -14306,6 +14342,13 @@
           },
           {
             "$": {
+              "imageName": "DanishCyclingFederation_Champ2024_thumb",
+              "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_DCFCHAMPION2024_NAME",
+              "signature": "3584804543"
+            }
+          },
+          {
+            "$": {
               "imageName": "GSRLongRiders2016_thumb",
               "name": "GSR Long Riders",
               "signature": "3591639561"
@@ -14761,6 +14804,13 @@
           },
           {
             "$": {
+              "imageName": "CyclingCanada_Champ2024_thumb",
+              "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_CYCLINGCANADACHAMPION2024_NAME",
+              "signature": "3840633700"
+            }
+          },
+          {
+            "$": {
               "imageName": "UCIFederationPortugal2023_thumb",
               "name": "UCI Federation Portugal 2023",
               "signature": "3847642573"
@@ -15023,6 +15073,13 @@
               "imageName": "ClashOfClubs2020_thumb",
               "name": "Clash Of Clubs Green",
               "signature": "3977378563"
+            }
+          },
+          {
+            "$": {
+              "imageName": "FrenchCyclingFederation_Champ2024_thumb",
+              "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_FFCCHAMPION2024_NAME",
+              "signature": "3981040718"
             }
           },
           {
@@ -16566,6 +16623,13 @@
           },
           {
             "$": {
+              "imageName": "TugaZRun2023_thumb",
+              "name": "TugaZ Running",
+              "signature": "3487727539"
+            }
+          },
+          {
+            "$": {
               "imageName": "TTLRun2022_thumb",
               "name": "That Triathlon Life",
               "signature": "3516157437"
@@ -16629,13 +16693,6 @@
           },
           {
             "$": {
-              "imageName": "ZLDR2023_thumb",
-              "name": "ZLDR 2023",
-              "signature": "3711037404"
-            }
-          },
-          {
-            "$": {
               "imageName": "SLTRhinos2022_thumb",
               "name": "Super League Triathlon Rhinos",
               "signature": "3712333096"
@@ -16685,13 +16742,6 @@
           },
           {
             "$": {
-              "imageName": "FilmMyRun2023_thumb",
-              "name": "ZLDR 2023",
-              "signature": "3913862387"
-            }
-          },
-          {
-            "$": {
               "imageName": "SlowTwitch2020_thumb",
               "name": "Slowtwitch",
               "signature": "3917042036"
@@ -16737,13 +16787,6 @@
               "imageName": "SansegoTriRun2022_thumb",
               "name": "Sansego",
               "signature": "4116498457"
-            }
-          },
-          {
-            "$": {
-              "imageName": "InnovationRunning2023_thumb",
-              "name": "Innovation Multisport",
-              "signature": "4181698052"
             }
           },
           {
@@ -17433,6 +17476,13 @@
           },
           {
             "$": {
+              "imageName": "ZLDRRunShort2023_thumb",
+              "name": "ZLDR 2023",
+              "signature": "3711037404"
+            }
+          },
+          {
+            "$": {
               "imageName": "ZwiftAcademyRun2020_thumb",
               "name": "Zwift Academy 2020 Run",
               "signature": "3731582468"
@@ -17457,6 +17507,13 @@
               "imageName": "TealPink2020_thumb",
               "name": "April Fools",
               "signature": "3860420424"
+            }
+          },
+          {
+            "$": {
+              "imageName": "FilmMyRunRunShort2023_thumb",
+              "name": "ZLDR 2023",
+              "signature": "3913862387"
             }
           },
           {
@@ -17513,6 +17570,13 @@
               "imageName": "ZARun2022_thumb",
               "name": "Zwift Academy 2023",
               "signature": "4163074320"
+            }
+          },
+          {
+            "$": {
+              "imageName": "InnovationRunningShort2023_thumb",
+              "name": "Innovation Multisport",
+              "signature": "4181698052"
             }
           },
           {
@@ -25123,6 +25187,33 @@
               "UserFacingName": "Old La Honda",
               "name": "Old La Honda",
               "signature": "10018"
+            }
+          },
+          {
+            "$": {
+              "ArchFemaleName": "Old Willunga Hill",
+              "ArchFriendlyName": "Old Willunga Hill",
+              "ArchID": "2",
+              "AverageSlope": "6.3408031464",
+              "CourseAscentF": "25216.2343750000",
+              "CourseAscentR": "-1.0000000000",
+              "CourseLength": "398637.8125000000",
+              "Duration": "0",
+              "Effort": "0.0000000000",
+              "Hash": "10020",
+              "InternalName": "Old Willunga Hill",
+              "JerseyFemaleHash": "1832490174",
+              "JerseyHash": "2498899049",
+              "JerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
+              "JerseyPath": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_01.tgax",
+              "JerseyPathFemale": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_Female.tgax",
+              "LeaderJerseyName": "Climb Champion",
+              "MinCompletionTime": "101.0000000000",
+              "MinimapIconPath": "UI/minimap/map_arch_start_watopia.tga",
+              "PinIconPath": "UI/WhiteOrangeTheme/HUD/Marker_Crown.tga",
+              "UserFacingName": "Old Willunga Hill",
+              "name": "Old Willunga Hill",
+              "signature": "10020"
             }
           }
         ]

@@ -685,6 +685,11 @@
     "imageName": "MonochromeTank01_thumb"
   },
   {
+    "id": 3487727539,
+    "name": "TugaZ Running",
+    "imageName": "TugaZRun2023_thumb"
+  },
+  {
     "id": 3516157437,
     "name": "That Triathlon Life",
     "imageName": "TTLRun2022_thumb"
@@ -730,11 +735,6 @@
     "imageName": "TeamType12022_thumb"
   },
   {
-    "id": 3711037404,
-    "name": "ZLDR 2023",
-    "imageName": "ZLDR2023_thumb"
-  },
-  {
     "id": 3712333096,
     "name": "Super League Triathlon Rhinos",
     "imageName": "SLTRhinos2022_thumb"
@@ -770,11 +770,6 @@
     "imageName": "Shirt04"
   },
   {
-    "id": 3913862387,
-    "name": "ZLDR 2023",
-    "imageName": "FilmMyRun2023_thumb"
-  },
-  {
     "id": 3917042036,
     "name": "Slowtwitch",
     "imageName": "SlowTwitch2020_thumb"
@@ -808,11 +803,6 @@
     "id": 4116498457,
     "name": "Sansego",
     "imageName": "SansegoTriRun2022_thumb"
-  },
-  {
-    "id": 4181698052,
-    "name": "Innovation Multisport",
-    "imageName": "InnovationRunning2023_thumb"
   },
   {
     "id": 4197967370,

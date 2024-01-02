@@ -170,6 +170,11 @@
     "imageName": "ZwiftFood03_thumb"
   },
   {
+    "id": 162720319,
+    "name": "DoddieAid 2024",
+    "imageName": "DoddieAid2024_thumb"
+  },
+  {
     "id": 167026782,
     "name": "Maratona Dolomiti",
     "imageName": "MaratonaDolomiti_thumb"
@@ -378,6 +383,11 @@
     "id": 351896555,
     "name": "Zwift",
     "imageName": "Zwift_02_thumb"
+  },
+  {
+    "id": 352481813,
+    "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_USACCHAMPION2024_NAME",
+    "imageName": "USAC_Champ2024_thumb"
   },
   {
     "id": 352543030,
@@ -4065,6 +4075,11 @@
     "imageName": "PushingLimits2021_thumb"
   },
   {
+    "id": 3584804543,
+    "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_DCFCHAMPION2024_NAME",
+    "imageName": "DanishCyclingFederation_Champ2024_thumb"
+  },
+  {
     "id": 3591639561,
     "name": "GSR Long Riders",
     "imageName": "GSRLongRiders2016_thumb"
@@ -4390,6 +4405,11 @@
     "imageName": "Felt2021_thumb"
   },
   {
+    "id": 3840633700,
+    "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_CYCLINGCANADACHAMPION2024_NAME",
+    "imageName": "CyclingCanada_Champ2024_thumb"
+  },
+  {
     "id": 3847642573,
     "name": "UCI Federation Portugal 2023",
     "imageName": "UCIFederationPortugal2023_thumb"
@@ -4578,6 +4598,11 @@
     "id": 3977378563,
     "name": "Clash Of Clubs Green",
     "imageName": "ClashOfClubs2020_thumb"
+  },
+  {
+    "id": 3981040718,
+    "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_FFCCHAMPION2024_NAME",
+    "imageName": "FrenchCyclingFederation_Champ2024_thumb"
   },
   {
     "id": 3988640695,
