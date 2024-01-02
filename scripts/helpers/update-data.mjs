@@ -106,6 +106,7 @@ export async function updateData() {
         segments: manualRouteData?.segments ?? [],
         segmentsOnRoute,
         levelLocked: item.levelLocked === "1",
+        levelLock: item.levelLocked,
         lap: item.supportedLaps === "1",
         supportsTT: item.supportsTimeTrialMode === "1",
         supportsMeetups: item.blockedForMeetups === "0",

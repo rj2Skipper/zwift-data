@@ -156,6 +156,7 @@ export interface Route {
    * `true`, if the route can only be ridden from a certain level
    */
   levelLocked: boolean;
+  levelLock: number;
 
   /**
    * `true`, if the route is a lap
