@@ -54,13 +54,14 @@ export async function updateData() {
   {
     const data = [];
     for (const item of responseExtendedData.ROUTES.ROUTE) {
-      if (
+      //rj2: don't skip any route, i want them all
+      /*if (
         item.map === "" ||
         item.map === "GRAVEL MOUNTAIN"  // skip until release or map bounds are available
         //item.name === "Critcade Test" // skip test route
       ) {
         continue;
-      }
+      }*/
 
       const manualRouteData = routes.find((r) => r.id === +item.signature);
 
@@ -70,14 +71,16 @@ export async function updateData() {
 
       const manualWorldData = worlds.find((w) => w.gameDictionary === item.map);
       if (!manualWorldData) {
-        throw new Error(`Unknown world: "${item.map}"`);
+        //rj2: don't throw, just warn on unkown world
+        //throw new Error(`Unknown world: "${item.map}"`);
+        console.warn(`Unknown world: "${item.map}"`);
       }
 
       let segmentsOnRoute = [];
       if (manualRouteData?.stravaSegmentId) {
         segmentsOnRoute = await findSegmentsOnRoute(
           manualRouteData,
-          segmentsWithLatLng.filter((s) => s.world === manualWorldData.slug)
+          segmentsWithLatLng.filter((s) => s.world === manualWorldData?.slug ?? "")
         );
       }
 
@@ -85,7 +88,7 @@ export async function updateData() {
         id: +item.signature,
         name: item.name,
         slug: manualRouteData?.slug ?? item.signature,
-        world: manualWorldData.slug,
+        world: manualWorldData?.slug ?? "",
         eventOnly: item.eventOnly === "1",
         distance: formatDistance(item.distanceInMeters),
         elevation: formatElevation(item.ascentInMeters),
