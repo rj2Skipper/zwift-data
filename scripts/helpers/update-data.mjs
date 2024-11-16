@@ -88,7 +88,7 @@ export async function updateData() {
         id: +item.signature,
         name: item.name,
         slug: manualRouteData?.slug ?? item.signature,
-        world: manualWorldData?.slug ?? "",
+        world: manualWorldData?.slug ?? item.map,
         eventOnly: item.eventOnly === "1",
         distance: formatDistance(item.distanceInMeters),
         elevation: formatElevation(item.ascentInMeters),
