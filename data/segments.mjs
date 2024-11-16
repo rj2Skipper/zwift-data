@@ -232,8 +232,6 @@ export const segments = [
     slug: "watopia-sprint-rev",
     type: "sprint",
     world: "watopia",
-    stravaSegmentId: 12109228,
-    stravaSegmentUrl: "https://www.strava.com/segments/12109228",
     whatsOnZwiftUrl:
       "https://whatsonzwift.com/world/watopia/segment/sprint/reverse",
     distance: 0.2,
@@ -700,8 +698,8 @@ export const segments = [
     whatsOnZwiftUrl:
       "https://whatsonzwift.com/world/innsbruck/segment/kom/reverse",
     climbType: "2",
-    stravaSegmentUrl: "https://www.strava.com/segments/18397927",
-    stravaSegmentId: 18397927,
+    stravaSegmentUrl: "https://www.strava.com/segments/18389384",
+    stravaSegmentId: 18389384,
     zwifterBikesPath: "innsbruck-kom-reverse",
   },
   {
@@ -1183,5 +1181,66 @@ export const segments = [
     world: "watopia",
     whatsOnZwiftUrl:
       "https://whatsonzwift.com/world/watopia/segment/woodland-sprint/reverse",
+  },
+  {
+    name: "Itza KOM",
+    slug: "itza-kom",
+    distance: 3.75,
+    elevation: 95,
+    avgIncline: 2,
+    type: "climb",
+    world: "watopia",
+    stravaSegmentId: 37039571,
+    stravaSegmentUrl: "https://www.strava.com/segments/37039571",
+    whatsOnZwiftUrl:
+      "https://whatsonzwift.com/world/watopia/segment/itza-kom/forward",
+  },
+  {
+    name: "Mayan Mountainside KOM",
+    slug: "mayan-mountainside-kom",
+    distance: 1.99,
+    elevation: 62,
+    avgIncline: 3.1,
+    type: "climb",
+    world: "watopia",
+    stravaSegmentId: 37049451,
+    stravaSegmentUrl: "https://www.strava.com/segments/37049451",
+    whatsOnZwiftUrl:
+      "https://whatsonzwift.com/world/watopia/segment/mayan-mountainside-kom/forward",
+  },
+  {
+    name: "The Grade KOM",
+    slug: "the-grade-kom",
+    distance: 3.52,
+    elevation: 305,
+    avgIncline: 8.6,
+    type: "climb",
+    world: "watopia",
+    stravaSegmentId: 37033150,
+    stravaSegmentUrl: "https://www.strava.com/segments/37033150",
+    whatsOnZwiftUrl:
+      "https://whatsonzwift.com/world/watopia/segment/the-grade/forward",
+  },
+  {
+    name: "The Grade Rev.",
+    slug: "the-grade-sprint-rev",
+    distance: 0.06,
+    avgIncline: 0.3,
+    type: "sprint",
+    world: "watopia",
+    whatsOnZwiftUrl:
+      "https://whatsonzwift.com/world/watopia/segment/the-grade/reverse",
+  },
+  {
+    name: "Radio Tower KOM",
+    slug: "radio-tower-kom",
+    distance: 1.2,
+    avgIncline: 12.9,
+    type: "climb",
+    world: "watopia",
+    stravaSegmentId: 14120182,
+    stravaSegmentUrl: "https://www.strava.com/segments/14120182",
+    whatsOnZwiftUrl:
+      "https://whatsonzwift.com/world/watopia/segment/radio-tower-kom/forward",
   },
 ];

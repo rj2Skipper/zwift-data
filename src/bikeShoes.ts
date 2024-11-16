@@ -2,10 +2,17 @@ import { BikeShoe } from "./types";
 
 export const bikeShoes: ReadonlyArray<BikeShoe> = (
   [
+    [123888986, "The Zwift Big Spin Shoes", "BigSpin2024_thumb"],
     [138403836, "Alpine", "Lederhose2022"],
+    [
+      231828206,
+      "Adidas Tempo 3-Stripes BOA Cycling Shoes",
+      "AdidasTempoBOA2024",
+    ],
     [560768614, "Zwift Beta Shoe", "zwiftbetashoe"],
     [725344338, "Zwift Black", "zwiftblack"],
     [1039719545, "Tour Of Watopia", "TourOfWatopia2020"],
+    [1239918577, "Tour of Watopia '24", "CyclingShoes_TourOfWatopia2024_thumb"],
     [1335895262, "Dino Power", "DinoShoes_thumb"],
     [
       1424136009,
@@ -23,11 +30,10 @@ export const bikeShoes: ReadonlyArray<BikeShoe> = (
     [2635788984, "Zwift Academy Tri 2019", "ShoesZwiftAcademyTri2020"],
     [2659789772, "2021 Neokyo Shoes", "Neokyoshoe"],
     [2733895182, "Giro Imperial", "GiroImperial2023_thumb"],
-    [2734175096, "Shoes Temp", "Shoes_Temp"],
     [3128704198, "Tour of Watopia 2022", "TOWCyclingShoe2022"],
     [3238688697, "Mavic Cosmic", "MavicCosmic"],
     [3251024571, "Fizik Vento Infinito Carbon", "FizikVentoInfinitoCarbon2021"],
-    [3389594817, "Nimbl FEAT ULTIMATE", "NimblFEATUltimate_thumb"],
+    [3389594817, "Nimbl Ultimate Pro", "NimblFEATUltimate_thumb"],
     [3505437713, "Mirage", "CyclingShoes_Mirage_thumb"],
     [3547687330, "Zwift Shoe", "zwiftshoe"],
     [3595139078, "Ride With Reason", "CyclingShoe_RideWithReason2018"],

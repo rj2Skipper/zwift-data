@@ -2,6 +2,7 @@ import { Glass } from "./types";
 
 export const glasses: ReadonlyArray<Glass> = (
   [
+    [31330258, "Spring Training 2024", "Glasses_SpringTrainingSunglasses2024"],
     [258033368, "April Fools", "Glasses_TealPink2020Glasses02_thumb"],
     [478032186, "Oakley Radar", "Glasses_Original"],
     [817902595, "Wave Wearers", "Glasses_Generic01"],
@@ -11,6 +12,7 @@ export const glasses: ReadonlyArray<Glass> = (
     [1225125243, "None", "none"],
     [1241540451, "Top Guns", "Glasses_Generic03"],
     [1541295082, "Zwift Glasses #1", "Glasses_Generic04"],
+    [1576804539, "Oakley Sphaera Glasses", "Glasses_OakleySphaera"],
     [1725649243, "Roka GP-1x", "Glasses_Roka01"],
     [1773488310, "Tour de Zwift 2024 Sunglasses", "Glasses_TourDeZwift2024"],
     [
@@ -23,18 +25,21 @@ export const glasses: ReadonlyArray<Glass> = (
     [2002800339, "Weskers", "Glasses_Generic02"],
     [2106991204, "Oakley Flight Jacket", "Glasses_RideWithReason2018"],
     [2289830259, "Retro 80's", "Glasses_80sGlasses"],
+    [2314973348, "Makuri Neon Sunglasses", "Glasses_BigSpin2024"],
+    [2335592603, "Oakley Kato", "Glasses_OakleyKatoGlasses"],
     [2344157440, "Oakley Flight Jacket", "Glasses_ZA2018Mens"],
     [2364395919, "ZRS Glasses 2", "Glasses_ZRS2021Glasses02"],
+    [2390325459, "Oakley Encoder", "Glasses_OakleyEncoderGlasses"],
     [2472441074, "POC Clarity Aspire", "Glasses_POCClarityAspire"],
     [2628706018, "Tour of Makuri Islands", "Glasses_TourOfMakuri2022"],
     [2886622243, "Rapha Pro Team Full Frame", "Glasses_RaphaProTeam"],
+    [2914767000, "Oakley Sutro", "Glasses_OakleySutroGlasses"],
     [2978871359, "ZRS Glasses 3", "Glasses_ZRS2021Glasses03"],
     [3027735239, "Vintage Goggles", "Glasses_Goggles"],
     [3171375327, "Community 101 Sunglasses", "Glasses_Onboarding2023"],
     [3309343427, "Rockstar", "Glasses_Generic06"],
     [3410864991, "ZRS Glasses 1", "Glasses_ZRS2021Glasses01"],
     [3987516741, "Race Trap", "Glasses_100RaceTrap"],
-    [4148144169, "Glasses Temp", "Glasses_Temp"],
     [4162894707, "Oversize", "Glasses_Generic05"],
   ] as const
 ).map(([id, name, imageName]) => ({ id, name, imageName }));

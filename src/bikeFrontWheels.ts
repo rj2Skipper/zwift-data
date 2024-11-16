@@ -7,6 +7,7 @@ export const bikeFrontWheels: ReadonlyArray<BikeFrontWheel> = (
     [192959988, "Roval Alpinist CLX", "Wheel_RovalAlpinistCLX"],
     [272842014, "Shimano C60", "Wheel_ShimanoDuraAceC60"],
     [288225210, "Mavic Cosmic CXR60c", "Wheel_MavicCosmicCXR60c"],
+    [291681757, "Zwift Zwift Baseline Wheels", "Wheel_ZwiftCampBaseline2024"],
     [327143135, "Roval Terra CLX", "Wheel_RovalTerraCLX"],
     [346409677, "DTSwiss ARC 1100 DICUT 62", "Wheel_DTSwissARC62"],
     [442607221, "Zipp 202", "Wheel_Zipp202Firecrest"],
@@ -24,6 +25,7 @@ export const bikeFrontWheels: ReadonlyArray<BikeFrontWheel> = (
     [998391700, "Zwift Concept", "Wheel_ZwiftConcept"],
     [1053884173, "Campagnolo Bora Ultra 35", "Wheel_BoraUltra35"],
     [1324365960, "Zwift Plain", "Wheel_ZwiftPlain"],
+    [1344753875, "Zwift Concept", "Wheel_ZwiftConceptGold"],
     [1361038541, "Zwift Zwift Trike", "Wheel_ZwiftBW"],
     [1497226614, "Cadex CADEX 42", "Wheel_Cadex42"],
     [1500161707, "Zipp 808", "Wheel_Zipp808Firecrest"],
@@ -38,6 +40,11 @@ export const bikeFrontWheels: ReadonlyArray<BikeFrontWheel> = (
     [1820135676, "Zwift Gravel", "Wheel_ZwiftGravel"],
     [1860958943, "Zwift Classic", "Wheel_ZwiftClassic"],
     [1881778071, "Enve SES 2.2", "Wheel_Enve22"],
+    [
+      2004537892,
+      "Zwift LOC_WHEELNAME_ZWIFT_BigSpinCruiser2024",
+      "Wheel_BigSpinCruiser2024",
+    ],
     [2055468653, "Giant SLR 0", "Wheel_AdvancedPropel"],
     [2060527008, "Zwift 50mm Carbon", "Wheel_CampagnoloHigh"],
     [2181416413, "Roval Rapide CLX", "Wheel_RovalRapide"],
@@ -47,6 +54,7 @@ export const bikeFrontWheels: ReadonlyArray<BikeFrontWheel> = (
       "Lightweight Lightweight Meilenstein",
       "Wheel_LightweightMeilenstein",
     ],
+    [2365488570, "Zwift Tri Spoke // Disc Wheel", "Wheel_BigSpin2024"],
     [2568138708, "Zwift Buffalo Fahrrad", "Wheel_BuffaloFahrrad"],
     [2612651137, "Roval CLX64", "Wheel_SpecializedRovalCLX64"],
     [2621265514, "Cadex CADEX 65", "Wheel_Cadex65"],
@@ -64,5 +72,6 @@ export const bikeFrontWheels: ReadonlyArray<BikeFrontWheel> = (
     [4221174482, "Zwift Handcycle", "Wheel_CampagnoloHigh"],
     [4235764609, "Shimano C40", "Wheel_ShimanoDuraAceC40"],
     [4237316283, "FFWD RYOT55", "Wheel_FFWDRYOT55"],
+    [4249063997, "Pinarello Pinarello Espada", "Wheel_PinarelloEspadaDisc"],
   ] as const
 ).map(([id, name, imageName]) => ({ id, name, imageName }));

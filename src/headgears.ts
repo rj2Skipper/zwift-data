@@ -8,6 +8,7 @@ export const headgears: ReadonlyArray<Headgear> = (
     [202102819, "2023 Zwift Academy Helmet", "ZAHelmet2023_thumb"],
     [216566426, "True Treadmill Run Hat 2021", "TruTreadmillRunHat2021_thumb"],
     [248687448, "ZA Run Team In Season", "RunningCap_ZARunInSeason2022_thumb"],
+    [271741505, "Sky Blue Helmet", "BigSpin2024_thumb"],
     [
       284363248,
       "Eddie Izzard Celebration Run Cap",
@@ -42,6 +43,11 @@ export const headgears: ReadonlyArray<Headgear> = (
       "RunningCapTourDeZwift2022_thumb",
     ],
     [796050981, "Tour of Watopia 2022", "CyclingCapTOW2022_thumb"],
+    [
+      842065288,
+      "Zwift Games Gold Cap",
+      "CyclingCapZwiftGamesGoldCap2024_thumb",
+    ],
     [857849616, "Kask Elemento", "KaskElementoHelmet"],
     [864167623, "Watch the Femmes 23 Cap", "CyclingCapTdFFaZ2023_thumb"],
     [935052582, "Zwift Helmet", "zwifthelmet"],
@@ -49,7 +55,7 @@ export const headgears: ReadonlyArray<Headgear> = (
     [1011377720, "Zwift Academy Tri 2022", "RunningCapZATri2022_thumb"],
     [1014087812, "ZRS Winter Bucket Hat", "BucketHatZRSWinter2020_thumb"],
     [1021510657, "Zwift Academy 2022", "Headband_ZA2022"],
-    [1079696181, "Hat Temp", "Hat_Temp"],
+    [1061365842, "Zwift World Series Helmet", "ZwiftWorldSeries2024_thumb"],
     [1079998558, "Off the MAAP", "Headband_OffTheMaap2022"],
     [1081853028, "Specialized 2019", "CyclingCapSpecialized2019_thumb"],
     [1087064675, "Red Bull", "RunnerCapRedBull_thumb"],
@@ -57,7 +63,7 @@ export const headgears: ReadonlyArray<Headgear> = (
     [1208445863, "Team BikeExchange Cap", "CyclingCapBikeExchange2022_thumb"],
     [1225125243, "None", "none"],
     [1247929422, "Zwift Cycling Cap", "CyclingCap_Orange"],
-    [1292376041, "LOC_ACCESSORY_LAZERBULLET", "LazerBullet"],
+    [1292376041, "Lazer Vento", "LazerBullet"],
     [1295867791, "HEP", "CylcingCapHEP_thumb2022"],
     [1356164614, "Giro Eclipse", "GiroEclipse2021"],
     [
@@ -87,6 +93,11 @@ export const headgears: ReadonlyArray<Headgear> = (
       "CyclingCapTourDeZwift2021_thumb",
     ],
     [1684913570, "ZC Training Cap", "BackwardsCapZCTraining2022_thumb"],
+    [
+      1689510425,
+      "Tour of Watopia '24 Bikepacker",
+      "RunningCapTourOfWatopia2024_thumb",
+    ],
     [1713458564, "Tour of Watopia 2023", "CyclingCapTourOfWatopia2023_thumb"],
     [
       1716963782,
@@ -115,9 +126,12 @@ export const headgears: ReadonlyArray<Headgear> = (
     [2444075592, "Zwift TT Helmet", "zwifttthelmet"],
     [2462854936, "Garmin Unbound Helmet Skin", "GarminUnbound2021"],
     [2529465619, "Wahoo Custom", "WahooCustomCap2018_thumb"],
+    [2546356403, "Le Beret", "CyclingCap_BigSpinBeret2024_thumb"],
     [2638087379, "Zwift Academy Women 2018", "RunningCap_ZA2018_Womens"],
     [2638837937, "Watch the Femmes 22", "CyclingCapTDFF2022_thumb"],
     [2656884789, "Off the MAAP 2021 Cap", "BackwardsCapOffTheMaap2021_thumb"],
+    [2664954147, "NY Baseball Cap", "BackwardsBaseballCap2024_thumb"],
+    [2684416694, "Orange Headphones", "HeadphonesBigSpin2024_thumb"],
     [2698520959, "Zwift Running Cap", "RunningCap_Orange"],
     [
       2748617150,
@@ -129,7 +143,7 @@ export const headgears: ReadonlyArray<Headgear> = (
       "Tour of Watopia Fall 2023 Run Cap",
       "RunningCapToWFall2023_thumb",
     ],
-    [2763919224, "ZRL2021", "ZRL2021_thumb"],
+    [2763919224, "ZRL Winner", "ZRL2021_thumb"],
     [2803157511, "Saucony Outpace Cap", "RunnerCapSaucony2021_thumb"],
     [2828152591, "Liv Backwards Cap", "BackwardsCyclingCapLiv2022_thumb"],
     [
@@ -169,13 +183,22 @@ export const headgears: ReadonlyArray<Headgear> = (
     [3500373581, "2021 ZA Run Hat", "RunningCapZARun2021_thumb"],
     [3525135378, "2021 ZA Tri Hat Backwards", "BackwardsCapZARun2021_thumb"],
     [
+      3556872596,
+      "Tour of Watopia '24 Bikepacker",
+      "RunningCapTourOfWatopia2024_thumb",
+    ],
+    [
       3599973897,
       "LOC_RUNNING_HEADGEAR_RUNNINGCAPTOUROFWATOPIA2023_NAME",
       "RunningCapTourOfWatopia2023_thumb",
     ],
-    [3614446577, "Helmet Temp", "Helmet_Temp"],
     [3630601017, "Giant Backwards Cap", "BackwardsCyclingCapGiant2022_thumb"],
     [3633294398, "ZA Tri Team Helmet 2020", "SpecializedZA2021"],
+    [
+      3640209185,
+      "Spring Training 2024",
+      "CyclingCapSpringTrainingHat2024_thumb",
+    ],
     [3644241871, "Rapha L'Etape", "CyclingCapRaphaLetape2019_thumb"],
     [
       3654765885,
@@ -197,6 +220,11 @@ export const headgears: ReadonlyArray<Headgear> = (
     [3740815468, "ZRS June", "RcZRSCieleJune2020_thumb"],
     [3744415423, "Bike Packer", "RunningCapBikePacker_thumb"],
     [3791937810, "Zwift Visor", "Visor_White"],
+    [
+      3812947982,
+      "Union Jack Bucket Hat",
+      "BucketHat_BigSpinUnionFlag2024_thumb",
+    ],
     [3826988747, "Zwift Academy 2020 Sworks", "SworksZA2020"],
     [3912703277, "Giro Eclipse FDJ", "GiroEclipseFDJ2021"],
     [3961081102, "Le Col CC", "CyclingCapLeCol2022_thumb"],

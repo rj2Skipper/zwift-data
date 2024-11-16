@@ -1,3 +1,150 @@
+## [1.39.2](https://github.com/andipaetzold/zwift-data/compare/v1.39.1...v1.39.2) (2024-10-23)
+
+
+### Bug Fixes
+
+* update strava segment of 'Richmond Loop Around' ([27ae840](https://github.com/andipaetzold/zwift-data/commit/27ae8401a7c79c7421ab7e5fad155f468596c363))
+
+## [1.39.1](https://github.com/andipaetzold/zwift-data/compare/v1.39.0...v1.39.1) (2024-10-18)
+
+
+### Bug Fixes
+
+* Update data ([#136](https://github.com/andipaetzold/zwift-data/issues/136)) ([c638426](https://github.com/andipaetzold/zwift-data/commit/c638426d923e76e58a2492616bc1237ff21aba19))
+
+# [1.39.0](https://github.com/andipaetzold/zwift-data/compare/v1.38.1...v1.39.0) (2024-10-11)
+
+
+### Features
+
+* October 2024 update ([#133](https://github.com/andipaetzold/zwift-data/issues/133)) ([16289f5](https://github.com/andipaetzold/zwift-data/commit/16289f51bdabac75be6b801562cbba37e81d3f0f))
+
+## [1.38.1](https://github.com/andipaetzold/zwift-data/compare/v1.38.0...v1.38.1) (2024-10-05)
+
+
+### Bug Fixes
+
+* update strava segment of `Innsbruck KOM Rev.` ([7a6543d](https://github.com/andipaetzold/zwift-data/commit/7a6543df4393f13375076dd98605258350d9b836))
+
+# [1.38.0](https://github.com/andipaetzold/zwift-data/compare/v1.37.3...v1.38.0) (2024-10-02)
+
+
+### Features
+
+* July/August/September 2024 update ([#131](https://github.com/andipaetzold/zwift-data/issues/131)) ([be1144c](https://github.com/andipaetzold/zwift-data/commit/be1144cd97aaf1bc94319e3c998fb609910cd38f))
+
+## [1.37.3](https://github.com/andipaetzold/zwift-data/compare/v1.37.2...v1.37.3) (2024-07-31)
+
+
+### Bug Fixes
+
+* Update data ([#128](https://github.com/andipaetzold/zwift-data/issues/128)) ([3500cee](https://github.com/andipaetzold/zwift-data/commit/3500cee3b6610343f7241ae3756d8189e402d4e2))
+
+## [1.37.2](https://github.com/andipaetzold/zwift-data/compare/v1.37.1...v1.37.2) (2024-07-11)
+
+
+### Bug Fixes
+
+* Update data ([#127](https://github.com/andipaetzold/zwift-data/issues/127)) ([d1f3400](https://github.com/andipaetzold/zwift-data/commit/d1f3400839efcc669bc726ea8405b6b789183d0e))
+
+## [1.37.1](https://github.com/andipaetzold/zwift-data/compare/v1.37.0...v1.37.1) (2024-06-27)
+
+
+### Bug Fixes
+
+* Update data ([#122](https://github.com/andipaetzold/zwift-data/issues/122)) ([a768563](https://github.com/andipaetzold/zwift-data/commit/a7685636f00ceac930055366f7e87f170fa3caa0))
+
+# [1.37.0](https://github.com/andipaetzold/zwift-data/compare/v1.36.2...v1.37.0) (2024-06-14)
+
+
+### Features
+
+* June 2024 update ([#119](https://github.com/andipaetzold/zwift-data/issues/119)) ([5d35d9d](https://github.com/andipaetzold/zwift-data/commit/5d35d9ddc9924c773f4106d5e2a97ffff02a6ccf))
+
+## [1.36.2](https://github.com/andipaetzold/zwift-data/compare/v1.36.1...v1.36.2) (2024-06-05)
+
+
+### Bug Fixes
+
+* Update data ([#116](https://github.com/andipaetzold/zwift-data/issues/116)) ([bb49744](https://github.com/andipaetzold/zwift-data/commit/bb49744e28d36bdc653a092dfdfca89ab2666e02))
+
+## [1.36.1](https://github.com/andipaetzold/zwift-data/compare/v1.36.0...v1.36.1) (2024-05-17)
+
+
+### Bug Fixes
+
+* Update data ([#112](https://github.com/andipaetzold/zwift-data/issues/112)) ([0a517ab](https://github.com/andipaetzold/zwift-data/commit/0a517ab31b760e5532305a5afa54bf1744d904c3))
+
+# [1.36.0](https://github.com/andipaetzold/zwift-data/compare/v1.35.2...v1.36.0) (2024-05-02)
+
+
+### Features
+
+* May 2024 update ([#110](https://github.com/andipaetzold/zwift-data/issues/110)) ([201826b](https://github.com/andipaetzold/zwift-data/commit/201826b71a4a2f9ad311216a8a8e47ff0d6a0c08))
+
+## [1.35.2](https://github.com/andipaetzold/zwift-data/compare/v1.35.1...v1.35.2) (2024-04-23)
+
+
+### Bug Fixes
+
+* Update data ([#108](https://github.com/andipaetzold/zwift-data/issues/108)) ([a476858](https://github.com/andipaetzold/zwift-data/commit/a4768589f7a1b3a26425e383223807dc1712f9ba))
+
+## [1.35.1](https://github.com/andipaetzold/zwift-data/compare/v1.35.0...v1.35.1) (2024-04-22)
+
+
+### Bug Fixes
+
+* remove deleted strava segment "Watopia Sprint Rev." ([864db22](https://github.com/andipaetzold/zwift-data/commit/864db22924b87e250d8073989ad80b4f872da549))
+
+# [1.35.0](https://github.com/andipaetzold/zwift-data/compare/v1.34.0...v1.35.0) (2024-04-04)
+
+
+### Features
+
+* April 2024 update ([#106](https://github.com/andipaetzold/zwift-data/issues/106)) ([5d3f0d8](https://github.com/andipaetzold/zwift-data/commit/5d3f0d8a544a57f7880d1ef834edb4b02a604d28))
+
+# [1.34.0](https://github.com/andipaetzold/zwift-data/compare/v1.33.2...v1.34.0) (2024-03-27)
+
+
+### Features
+
+* March 2024 update ([#104](https://github.com/andipaetzold/zwift-data/issues/104)) ([4abad89](https://github.com/andipaetzold/zwift-data/commit/4abad8943b13e8045119b67ae7bcd8b21b66aadb))
+
+## [1.33.2](https://github.com/andipaetzold/zwift-data/compare/v1.33.1...v1.33.2) (2024-03-21)
+
+
+### Bug Fixes
+
+* Update data ([#103](https://github.com/andipaetzold/zwift-data/issues/103)) ([8e6c55f](https://github.com/andipaetzold/zwift-data/commit/8e6c55f091c8f0b5243e6591bc51cd37ada267a6))
+
+## [1.33.1](https://github.com/andipaetzold/zwift-data/compare/v1.33.0...v1.33.1) (2024-03-07)
+
+
+### Bug Fixes
+
+* Update data ([#101](https://github.com/andipaetzold/zwift-data/issues/101)) ([f5bddb5](https://github.com/andipaetzold/zwift-data/commit/f5bddb53df79a917d5bc7510a46b76218aaca265))
+
+# [1.33.0](https://github.com/andipaetzold/zwift-data/compare/v1.32.4...v1.33.0) (2024-02-24)
+
+
+### Features
+
+* February 2024 update ([#99](https://github.com/andipaetzold/zwift-data/issues/99)) ([8ab050e](https://github.com/andipaetzold/zwift-data/commit/8ab050eea874d7eb55bab85271041d4a8da28220))
+
+## [1.32.4](https://github.com/andipaetzold/zwift-data/compare/v1.32.3...v1.32.4) (2024-02-15)
+
+
+### Bug Fixes
+
+* Update data ([#98](https://github.com/andipaetzold/zwift-data/issues/98)) ([8000508](https://github.com/andipaetzold/zwift-data/commit/80005086e393b2ca0ad6eeb984cc5a4b9174940e))
+
+## [1.32.3](https://github.com/andipaetzold/zwift-data/compare/v1.32.2...v1.32.3) (2024-01-13)
+
+
+### Bug Fixes
+
+* Update data ([#95](https://github.com/andipaetzold/zwift-data/issues/95)) ([14e3c53](https://github.com/andipaetzold/zwift-data/commit/14e3c53b9fe02819b4207f218fd5e995bfad1756))
+
 ## [1.32.2](https://github.com/andipaetzold/zwift-data/compare/v1.32.1...v1.32.2) (2023-12-21)
 
 
