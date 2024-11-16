@@ -25,6 +25,11 @@
     "imageName": "Wheel_MavicCosmicCXR60c"
   },
   {
+    "id": 291681757,
+    "name": "Zwift Zwift Baseline Wheels",
+    "imageName": "Wheel_ZwiftCampBaseline2024"
+  },
+  {
     "id": 327143135,
     "name": "Roval Terra CLX",
     "imageName": "Wheel_RovalTerraCLX"
@@ -88,6 +93,11 @@
     "id": 1324365960,
     "name": "Zwift Plain",
     "imageName": "Wheel_ZwiftPlain"
+  },
+  {
+    "id": 1344753875,
+    "name": "Zwift Concept",
+    "imageName": "Wheel_ZwiftConceptGold"
   },
   {
     "id": 1361038541,
@@ -160,6 +170,11 @@
     "imageName": "Wheel_Enve22"
   },
   {
+    "id": 2004537892,
+    "name": "Zwift LOC_WHEELNAME_ZWIFT_BigSpinCruiser2024",
+    "imageName": "Wheel_BigSpinCruiser2024"
+  },
+  {
     "id": 2055468653,
     "name": "Giant SLR 0",
     "imageName": "Wheel_AdvancedPropel"
@@ -183,6 +198,11 @@
     "id": 2282170788,
     "name": "Lightweight Lightweight Meilenstein",
     "imageName": "Wheel_LightweightMeilenstein"
+  },
+  {
+    "id": 2365488570,
+    "name": "Zwift Tri Spoke // Disc Wheel",
+    "imageName": "Wheel_BigSpin2024"
   },
   {
     "id": 2568138708,
@@ -268,5 +288,10 @@
     "id": 4237316283,
     "name": "FFWD RYOT55",
     "imageName": "Wheel_FFWDRYOT55"
+  },
+  {
+    "id": 4249063997,
+    "name": "Pinarello Pinarello Espada",
+    "imageName": "Wheel_PinarelloEspadaDisc"
   }
 ]

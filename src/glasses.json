@@ -1,5 +1,10 @@
 [
   {
+    "id": 31330258,
+    "name": "Spring Training 2024",
+    "imageName": "Glasses_SpringTrainingSunglasses2024"
+  },
+  {
     "id": 258033368,
     "name": "April Fools",
     "imageName": "Glasses_TealPink2020Glasses02_thumb"
@@ -45,6 +50,11 @@
     "imageName": "Glasses_Generic04"
   },
   {
+    "id": 1576804539,
+    "name": "Oakley Sphaera Glasses",
+    "imageName": "Glasses_OakleySphaera"
+  },
+  {
     "id": 1725649243,
     "name": "Roka GP-1x",
     "imageName": "Glasses_Roka01"
@@ -85,6 +95,16 @@
     "imageName": "Glasses_80sGlasses"
   },
   {
+    "id": 2314973348,
+    "name": "Makuri Neon Sunglasses",
+    "imageName": "Glasses_BigSpin2024"
+  },
+  {
+    "id": 2335592603,
+    "name": "Oakley Kato",
+    "imageName": "Glasses_OakleyKatoGlasses"
+  },
+  {
     "id": 2344157440,
     "name": "Oakley Flight Jacket",
     "imageName": "Glasses_ZA2018Mens"
@@ -93,6 +113,11 @@
     "id": 2364395919,
     "name": "ZRS Glasses 2",
     "imageName": "Glasses_ZRS2021Glasses02"
+  },
+  {
+    "id": 2390325459,
+    "name": "Oakley Encoder",
+    "imageName": "Glasses_OakleyEncoderGlasses"
   },
   {
     "id": 2472441074,
@@ -108,6 +133,11 @@
     "id": 2886622243,
     "name": "Rapha Pro Team Full Frame",
     "imageName": "Glasses_RaphaProTeam"
+  },
+  {
+    "id": 2914767000,
+    "name": "Oakley Sutro",
+    "imageName": "Glasses_OakleySutroGlasses"
   },
   {
     "id": 2978871359,
@@ -138,11 +168,6 @@
     "id": 3987516741,
     "name": "Race Trap",
     "imageName": "Glasses_100RaceTrap"
-  },
-  {
-    "id": 4148144169,
-    "name": "Glasses Temp",
-    "imageName": "Glasses_Temp"
   },
   {
     "id": 4162894707,

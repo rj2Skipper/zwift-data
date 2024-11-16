@@ -951,7 +951,7 @@
   },
   {
     "id": 204,
-    "name": "WATOPIAS WAISTBAND",
+    "name": "WATOPIA'S WAISTBAND",
     "imageName": "RouteComplete"
   },
   {
@@ -1057,6 +1057,266 @@
   {
     "id": 225,
     "name": "CASTLE CRIT",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 226,
+    "name": "CASTLE CRIT (RUNNING)",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 227,
+    "name": "LOOP DE LOOP",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 228,
+    "name": "MOUNTAIN MASH",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 229,
+    "name": "ZWIFT GAMES 2024 EPIC",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 230,
+    "name": "JURASSIC COAST",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 231,
+    "name": "PARTY ON!",
+    "imageName": "GetRideOn1"
+  },
+  {
+    "id": 232,
+    "name": "QUEEN'S HIGHWAY AFTER PARTY",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 233,
+    "name": "HILLY ROUTE REVERSE",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 234,
+    "name": "LONDON CLASSIQUE REVERSE",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 235,
+    "name": "PARK PERIMETER REVERSE",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 236,
+    "name": "OH HILL NO",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 237,
+    "name": "COASTAL CROWN LOOP",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 238,
+    "name": "GLYPH HEIGHTS",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 239,
+    "name": "MAYAN MASH",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 240,
+    "name": "TIDES AND TEMPLES",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 241,
+    "name": "RADIO RENDEZVOUS",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 242,
+    "name": "PEAK PERFORMANCE",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 243,
+    "name": "SNOWMAN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 244,
+    "name": "POWER TO THE TOWER",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 245,
+    "name": "NAVIG8",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 246,
+    "name": "MAYAN SAN REMO",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 247,
+    "name": "ITZA CLIMB FINISH",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 248,
+    "name": "ITZA PARTY",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 249,
+    "name": "MAYAN 8",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 250,
+    "name": "ELEVATION EVALUATION",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 251,
+    "name": "TITAN'S RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 252,
+    "name": "EPIC RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 253,
+    "name": "HILLY ROUTE REVERSE RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 254,
+    "name": "MECH ISLE LOOP RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 255,
+    "name": "CHAMPS-ÉLYSÉES RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 256,
+    "name": "LUTECE EXPRESS RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 257,
+    "name": "COBBLED CLIMBS RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 258,
+    "name": "QUEEN'S HIGHWAY RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 259,
+    "name": "GLASGOW CRIT CIRCUIT RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 260,
+    "name": "LOCH LOOP RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 261,
+    "name": "LIBBY HILL AFTER PARTY",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 262,
+    "name": "RICHMOND LOOP AROUND",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 263,
+    "name": "YORKSHIRE DOUBLE LOOP",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 264,
+    "name": "SHISA SHAKEDOWN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 265,
+    "name": "MAKURI PRETZEL",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 266,
+    "name": "BRAEK-FAST CRITS AND GRITS",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 267,
+    "name": "DECA DASH",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 268,
+    "name": "WAISTED 8",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 269,
+    "name": "LOOPIN LAVA",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 270,
+    "name": "THE CLASSIC",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 271,
+    "name": "COAST TO COAST",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 272,
+    "name": "TRIPLE TWISTS",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 273,
+    "name": "THE CLASSIC RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 274,
+    "name": "OUTER SCOTLAND",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 275,
+    "name": "PETITE DOULEUR",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 276,
+    "name": "LONDON FLAT",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 277,
+    "name": "TAIR DRINGFA FECHAN",
     "imageName": "RouteComplete"
   }
 ]

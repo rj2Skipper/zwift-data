@@ -40,6 +40,11 @@
     "imageName": "GiantAlpecin_thumb"
   },
   {
+    "id": 72217084,
+    "name": "GCN",
+    "imageName": "GCN2024_thumb"
+  },
+  {
     "id": 78473859,
     "name": "2023 Zwift Academy Kit",
     "imageName": "ZwiftAcademy2023_thumb"
@@ -100,6 +105,16 @@
     "imageName": "flora_duffy_thumb"
   },
   {
+    "id": 103107648,
+    "name": "supertri.e kit [Purple]",
+    "imageName": "SLT2024Purple_thumb"
+  },
+  {
+    "id": 114907065,
+    "name": "2024 Pride On",
+    "imageName": "PrideOn2024_thumb"
+  },
+  {
     "id": 119884741,
     "name": "Velos",
     "imageName": "Velos2022_thumb"
@@ -130,6 +145,11 @@
     "imageName": "Zwift_Ski01_thumb"
   },
   {
+    "id": 124374424,
+    "name": "Team Skyline/Cadence",
+    "imageName": "TeamSkylineCadence2024_thumb"
+  },
+  {
     "id": 138392085,
     "name": "Team Charles-Barclay",
     "imageName": "lucy_charles_barclay_thumb"
@@ -138,6 +158,11 @@
     "id": 139090872,
     "name": "BMTR Community Club",
     "imageName": "BearMountaineers2021_thumb"
+  },
+  {
+    "id": 140311973,
+    "name": "2024 L'Étape du Tour",
+    "imageName": "LEtape2024_thumb"
   },
   {
     "id": 141416810,
@@ -183,6 +208,11 @@
     "id": 172691656,
     "name": "Castelli Virtual Aero Light",
     "imageName": "CastelliVirtualClimber_Light_thumb"
+  },
+  {
+    "id": 172810261,
+    "name": "The Zwift Big Spin",
+    "imageName": "TourOfMarch2024_thumb"
   },
   {
     "id": 173668358,
@@ -315,6 +345,16 @@
     "imageName": "CycleSmart2021_thumb"
   },
   {
+    "id": 260399785,
+    "name": "Frenchy Fuzion",
+    "imageName": "FrenchyFuzion2024_thumb"
+  },
+  {
+    "id": 265525555,
+    "name": "LGBTQ Zwifters",
+    "imageName": "LGBTQZwifters2024_thumb"
+  },
+  {
     "id": 273275384,
     "name": "Continental",
     "imageName": "Continental2018_thumb"
@@ -360,6 +400,16 @@
     "imageName": "WattFabrik2022_thumb"
   },
   {
+    "id": 311012497,
+    "name": "Tour de Zwift Challenge",
+    "imageName": "TourDeZwiftUltimate2025_thumb"
+  },
+  {
+    "id": 314926535,
+    "name": "Sam Laidlow",
+    "imageName": "SamLaidlow2024_thumb"
+  },
+  {
     "id": 315634460,
     "name": "Saris-NoPinz",
     "imageName": "SarisNoPinz2022_thumb"
@@ -386,7 +436,7 @@
   },
   {
     "id": 352481813,
-    "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_USACCHAMPION2024_NAME",
+    "name": "USAC 2024 Champ",
     "imageName": "USAC_Champ2024_thumb"
   },
   {
@@ -433,6 +483,11 @@
     "id": 374392241,
     "name": "Peaks Coaching Group",
     "imageName": "PeaksCoachingGroup_thumb"
+  },
+  {
+    "id": 374426057,
+    "name": "supertri.e kit [Pale Orange]",
+    "imageName": "SLT2024PaleOrange_thumb"
   },
   {
     "id": 384005997,
@@ -583,6 +638,11 @@
     "id": 468316144,
     "name": "Andy Schleck–CP NVST–Immo Losch",
     "imageName": "AndySchleck2022_thumb"
+  },
+  {
+    "id": 468966004,
+    "name": "supertri.e kit [Orange]",
+    "imageName": "SLT2024Orange_thumb"
   },
   {
     "id": 472760314,
@@ -855,9 +915,19 @@
     "imageName": "UCIFederationBritish2023_thumb"
   },
   {
+    "id": 687871233,
+    "name": "2024 Watch the Femmes",
+    "imageName": "TdFFaZ2024_thumb"
+  },
+  {
     "id": 689784947,
     "name": "CANYON//SRAM TdFFaZ Jersey",
     "imageName": "TDFFaZCANYONSRAM2023_thumb"
+  },
+  {
+    "id": 700242404,
+    "name": "supertri.e kit [Green]",
+    "imageName": "SLT2024Green_thumb"
   },
   {
     "id": 706154061,
@@ -893,6 +963,11 @@
     "id": 728048032,
     "name": "Kristian Blummenfelt",
     "imageName": "kristian_blummenfelt_thumb"
+  },
+  {
+    "id": 728596447,
+    "name": "Zwift World Series Stage Winner",
+    "imageName": "ZwiftWorldSeriesElite2024_thumb"
   },
   {
     "id": 732880966,
@@ -988,6 +1063,11 @@
     "id": 810188791,
     "name": "Bicycling 2017",
     "imageName": "Bicycling2017_thumb"
+  },
+  {
+    "id": 811864077,
+    "name": "Zwift NL",
+    "imageName": "ZwiftNL2024_thumb"
   },
   {
     "id": 814156923,
@@ -1145,6 +1225,11 @@
     "imageName": "Bartali2020_thumb"
   },
   {
+    "id": 925765748,
+    "name": "Ineos Grenadiers 2024",
+    "imageName": "Ineos2024_thumb"
+  },
+  {
     "id": 927604154,
     "name": "Cofidis 2018",
     "imageName": "Cofidis2018_thumb"
@@ -1215,11 +1300,6 @@
     "imageName": "Ekoi2022_thumb"
   },
   {
-    "id": 974637685,
-    "name": "Kit Temp",
-    "imageName": "Kit_Temp"
-  },
-  {
     "id": 980654946,
     "name": "Deloitte Digital",
     "imageName": "DeloitteDigital_thumb"
@@ -1250,6 +1330,11 @@
     "imageName": "Rocacorba2021_thumb"
   },
   {
+    "id": 1016760902,
+    "name": "SCF Champ 2024",
+    "imageName": "SCF2024_thumb"
+  },
+  {
     "id": 1021172827,
     "name": "Hincapie",
     "imageName": "Hincapie2020_thumb"
@@ -1268,6 +1353,11 @@
     "id": 1025753934,
     "name": "Fight ALS",
     "imageName": "AndreGreipel2019_thumb"
+  },
+  {
+    "id": 1027985948,
+    "name": "supertri.e kit [Blue]",
+    "imageName": "SLT2024Blue_thumb"
   },
   {
     "id": 1028356106,
@@ -1293,6 +1383,11 @@
     "id": 1040478737,
     "name": "2XU Cycling",
     "imageName": "2XUCycling2021_thumb"
+  },
+  {
+    "id": 1051970139,
+    "name": "Santini Grand Depart",
+    "imageName": "TdF2024_thumb"
   },
   {
     "id": 1055383332,
@@ -1480,6 +1575,11 @@
     "imageName": "HauteRoute3day_thumb"
   },
   {
+    "id": 1198044150,
+    "name": "Makuri Kanji",
+    "imageName": "BigSpin2024MakuriKit_thumb"
+  },
+  {
     "id": 1198454936,
     "name": "ZNC - Germany",
     "imageName": "ZwiftNationalChampions_thumb"
@@ -1493,6 +1593,11 @@
     "id": 1216459015,
     "name": "Alzheimers Association",
     "imageName": "AlzheimersAssociation2021_thumb"
+  },
+  {
+    "id": 1217780981,
+    "name": "KLUB",
+    "imageName": "ZwiftKlub2024_thumb"
   },
   {
     "id": 1233478884,
@@ -1518,6 +1623,11 @@
     "id": 1250604164,
     "name": "Zwift Academy Finalist",
     "imageName": "ZARoadFinalist42022_thumb"
+  },
+  {
+    "id": 1253539585,
+    "name": "Zwift Games Kit",
+    "imageName": "ZwiftGamesKit2024_thumb"
   },
   {
     "id": 1276763333,
@@ -1865,6 +1975,11 @@
     "imageName": "ZARoadFinalist52022_thumb"
   },
   {
+    "id": 1578477980,
+    "name": "FDJ Suez 2024",
+    "imageName": "FDJSuez2024_thumb"
+  },
+  {
     "id": 1582340905,
     "name": "zFondo Jan 2021",
     "imageName": "ZFondo2021Jan_thumb"
@@ -1883,6 +1998,11 @@
     "id": 1595151118,
     "name": "Coalition Alpha Women",
     "imageName": "CoalitionAlphaWmn2023_thumb"
+  },
+  {
+    "id": 1598289898,
+    "name": "Baseline",
+    "imageName": "ZwiftCampBaseline2024_thumb"
   },
   {
     "id": 1599435973,
@@ -2000,6 +2120,11 @@
     "imageName": "ZRScotland2022_thumb"
   },
   {
+    "id": 1676005799,
+    "name": "Canyon SRAM Racing 2024",
+    "imageName": "CanyonSRAMRacing2024_thumb"
+  },
+  {
     "id": 1677202555,
     "name": "Indoor Specialist",
     "imageName": "IndoorSpecialist_thumb"
@@ -2050,6 +2175,11 @@
     "imageName": "UnoXPro2022_thumb"
   },
   {
+    "id": 1764008063,
+    "name": "AusCycling Champion 2024",
+    "imageName": "AusCycling2024_thumb"
+  },
+  {
     "id": 1766102862,
     "name": "Elite",
     "imageName": "Elite_thumb"
@@ -2068,6 +2198,16 @@
     "id": 1771577861,
     "name": "Rapha Womens 100 2022",
     "imageName": "RaphaWomens1002022_thumb"
+  },
+  {
+    "id": 1774347173,
+    "name": "10th Anniversary Kit",
+    "imageName": "Zwift10YAnniversary2024_thumb"
+  },
+  {
+    "id": 1775021494,
+    "name": "Zwift World Series",
+    "imageName": "ZwiftWorldSeriesCommunity2024_thumb"
   },
   {
     "id": 1776034995,
@@ -2170,6 +2310,11 @@
     "imageName": "Plain_03_thumb"
   },
   {
+    "id": 1869991926,
+    "name": "Absolute Motion",
+    "imageName": "AbsoluteMotion2024_thumb"
+  },
+  {
     "id": 1875322943,
     "name": "OWL",
     "imageName": "OWL2023_thumb"
@@ -2188,6 +2333,11 @@
     "id": 1886354418,
     "name": "Alpe du Knit Cozy",
     "imageName": "AlpeduKnit03_thumb"
+  },
+  {
+    "id": 1890618348,
+    "name": "Ireland Nat Champs",
+    "imageName": "IrelandNationalChampion2024_thumb"
   },
   {
     "id": 1893222148,
@@ -2240,6 +2390,11 @@
     "imageName": "BikeExchangeWomen2022_thumb"
   },
   {
+    "id": 1935939937,
+    "name": "NY Baseball Kit",
+    "imageName": "BaseBallKit2024_thumb"
+  },
+  {
     "id": 1936046332,
     "name": "Movistar Team Cycling Club",
     "imageName": "MovistarCC2023_thumb"
@@ -2253,6 +2408,11 @@
     "id": 1939003542,
     "name": "Pan Mass Challenge",
     "imageName": "PanMass2021_thumb"
+  },
+  {
+    "id": 1939176025,
+    "name": "supertri.e kit [Red]",
+    "imageName": "SLT2024Red_thumb"
   },
   {
     "id": 1941154353,
@@ -2278,6 +2438,11 @@
     "id": 1969335676,
     "name": "ASTANA PRO TEAM",
     "imageName": "Astana2020_thumb"
+  },
+  {
+    "id": 1975933102,
+    "name": "Movistar 2024",
+    "imageName": "Movistar2024_thumb"
   },
   {
     "id": 1983748286,
@@ -2340,6 +2505,11 @@
     "imageName": "PrideOn2019_thumb"
   },
   {
+    "id": 2033775520,
+    "name": "Tour of Watopia '24",
+    "imageName": "TourOfWatopia2024_thumb"
+  },
+  {
     "id": 2049543282,
     "name": "UCI Federation 2023 Netherlands",
     "imageName": "UCIFederationNetherlands2023_thumb"
@@ -2378,6 +2548,11 @@
     "id": 2092402045,
     "name": "Total Direct Energie",
     "imageName": "TotalDirectEnergie2020_thumb"
+  },
+  {
+    "id": 2095486697,
+    "name": "Liv AlUla Jayco 2024",
+    "imageName": "LivAlUla2024_thumb"
   },
   {
     "id": 2099251947,
@@ -2423,6 +2598,11 @@
     "id": 2116459621,
     "name": "Drops",
     "imageName": "DropsWomens2020_thumb"
+  },
+  {
+    "id": 2119418154,
+    "name": "supertri.e kit [Pale Blue]",
+    "imageName": "SLT2024PaleBlue_thumb"
   },
   {
     "id": 2124914476,
@@ -2545,6 +2725,21 @@
     "imageName": "Zwift_zFondo_Mar_thumb"
   },
   {
+    "id": 2266547073,
+    "name": "Bikealicious",
+    "imageName": "Bikealicious2024_thumb"
+  },
+  {
+    "id": 2273742891,
+    "name": "Fenix Deceuninck",
+    "imageName": "FenixDeceuninck2024_thumb"
+  },
+  {
+    "id": 2277672916,
+    "name": "supertri.e kit [Pink]",
+    "imageName": "SLT2024Pink_thumb"
+  },
+  {
     "id": 2278143572,
     "name": "Hexagone Racing 2023",
     "imageName": "HexagoneRacing2023_thumb"
@@ -2588,6 +2783,11 @@
     "id": 2303114199,
     "name": "Enjoy Your Bike",
     "imageName": "EnjoyYourBike2022_thumb"
+  },
+  {
+    "id": 2305054136,
+    "name": "Human Powered Health",
+    "imageName": "HPHP2022_thumb"
   },
   {
     "id": 2306504757,
@@ -2965,6 +3165,11 @@
     "imageName": "Alpentroedler2022_thumb"
   },
   {
+    "id": 2665651120,
+    "name": "2025 Tour de Zwift",
+    "imageName": "TourDeZwift2025_thumb"
+  },
+  {
     "id": 2667207033,
     "name": "Pain Cave Heroes",
     "imageName": "PainCaveHeroes2023_thumb"
@@ -3290,6 +3495,11 @@
     "imageName": "ZwiftAcademyWomen2018_thumb"
   },
   {
+    "id": 2901869535,
+    "name": "London Punk",
+    "imageName": "TourOfMarchUndergroundMap2024_thumb"
+  },
+  {
     "id": 2906189156,
     "name": "Deceuninck-Quick-Step",
     "imageName": "Quickstep2020_thumb"
@@ -3303,6 +3513,11 @@
     "id": 2911779990,
     "name": "2022 Rapha Festive 500",
     "imageName": "RaphaFestive5002022_thumb"
+  },
+  {
+    "id": 2914396772,
+    "name": "Royal Air Force Cycling",
+    "imageName": "RoyalAirForce2024_thumb"
   },
   {
     "id": 2918338388,
@@ -3360,6 +3575,11 @@
     "imageName": "freddy_ovett_thumb"
   },
   {
+    "id": 2958699353,
+    "name": "Intermarché-Wanty",
+    "imageName": "IntermarcheWanty2024_thumb"
+  },
+  {
     "id": 2966777958,
     "name": "Aero 2020",
     "imageName": "Aero2020_thumb"
@@ -3378,6 +3598,11 @@
     "id": 2977986260,
     "name": "Braunstein Cycling Club",
     "imageName": "BCC2023_thumb"
+  },
+  {
+    "id": 2978912946,
+    "name": "Relentless",
+    "imageName": "Relentless2024_thumb"
   },
   {
     "id": 2979338200,
@@ -3475,6 +3700,11 @@
     "imageName": "RoweAndKing_thumb"
   },
   {
+    "id": 3062740627,
+    "name": "2024 Zwift Academy",
+    "imageName": "ZwiftAcademy2024_thumb"
+  },
+  {
     "id": 3068843682,
     "name": "JZQc",
     "imageName": "JZQc2023_thumb"
@@ -3498,6 +3728,11 @@
     "id": 3090729076,
     "name": "Z Racing A",
     "imageName": "ZRacingA_thumb"
+  },
+  {
+    "id": 3091065516,
+    "name": "Alpecin Deceuninck 2024",
+    "imageName": "AlpecinDeceuninck2024_thumb"
   },
   {
     "id": 3094259953,
@@ -3670,6 +3905,11 @@
     "imageName": "TLL2022_thumb"
   },
   {
+    "id": 3266798043,
+    "name": "Freddy Ovett",
+    "imageName": "FreddyOvett2024_thumb"
+  },
+  {
     "id": 3271072532,
     "name": "Z Racing C",
     "imageName": "ZRacingC_thumb"
@@ -3800,6 +4040,11 @@
     "imageName": "ValcarCylance2019_thumb"
   },
   {
+    "id": 3377071816,
+    "name": "Off the MAAP",
+    "imageName": "OffTheMAAP2024_thumb"
+  },
+  {
     "id": 3382087244,
     "name": "UCI Federation New Zealand 2023",
     "imageName": "UCIFederationNewZealand2023_thumb"
@@ -3833,6 +4078,11 @@
     "id": 3388151259,
     "name": "Zwift Insider",
     "imageName": "ZwiftInsider2022_thumb"
+  },
+  {
+    "id": 3396086207,
+    "name": "Ride Like King 16",
+    "imageName": "RideLikeKing2024_thumb"
   },
   {
     "id": 3398931495,
@@ -3920,6 +4170,11 @@
     "imageName": "Enshored2021_thumb"
   },
   {
+    "id": 3446592845,
+    "name": "Le Tournesol",
+    "imageName": "SunFlowerKit2024_thumb"
+  },
+  {
     "id": 3450131175,
     "name": "Specialized M",
     "imageName": "Specialized_thumb"
@@ -3986,7 +4241,7 @@
   },
   {
     "id": 3488472716,
-    "name": "Today's Plan",
+    "name": "Today’s Plan",
     "imageName": "TodaysPlan_thumb"
   },
   {
@@ -4003,6 +4258,11 @@
     "id": 3503400331,
     "name": "BL13 Ladies",
     "imageName": "BL13Ladies2023_thumb"
+  },
+  {
+    "id": 3516730865,
+    "name": "Spring Training 2024",
+    "imageName": "SpringTraining2024_thumb"
   },
   {
     "id": 3526847660,
@@ -4076,7 +4336,7 @@
   },
   {
     "id": 3584804543,
-    "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_DCFCHAMPION2024_NAME",
+    "name": "DCF Champs 2024",
     "imageName": "DanishCyclingFederation_Champ2024_thumb"
   },
   {
@@ -4150,6 +4410,11 @@
     "imageName": "AHDREurope2023_thumb"
   },
   {
+    "id": 3640031777,
+    "name": "Level Velo Cycling",
+    "imageName": "LEVELVelo2024_thumb"
+  },
+  {
     "id": 3640900519,
     "name": "Movember",
     "imageName": "Movember2019_thumb"
@@ -4176,7 +4441,7 @@
   },
   {
     "id": 3657231940,
-    "name": "PAS Racing",
+    "name": "Pas Normal Studios",
     "imageName": "PASRacing2022_thumb"
   },
   {
@@ -4268,6 +4533,11 @@
     "id": 3727543886,
     "name": "Canyon",
     "imageName": "Canyon_thumb"
+  },
+  {
+    "id": 3738771064,
+    "name": "Rocacorba Collective",
+    "imageName": "RocacorbaCollective2024_thumb"
   },
   {
     "id": 3743745974,
@@ -4390,6 +4660,11 @@
     "imageName": "QueenBee2023_thumb"
   },
   {
+    "id": 3833742323,
+    "name": "supertri.e kit [Grey]",
+    "imageName": "SLT2024Grey_thumb"
+  },
+  {
     "id": 3838487875,
     "name": "Trinity Racing 2023",
     "imageName": "TRINITYRace2023_thumb"
@@ -4406,7 +4681,7 @@
   },
   {
     "id": 3840633700,
-    "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_CYCLINGCANADACHAMPION2024_NAME",
+    "name": "Cycling Canada 2024",
     "imageName": "CyclingCanada_Champ2024_thumb"
   },
   {
@@ -4433,6 +4708,11 @@
     "id": 3860078904,
     "name": "Mountain Massif",
     "imageName": "MountainMassif2022_thumb"
+  },
+  {
+    "id": 3863304814,
+    "name": "supertri.e kit [Pale Green]",
+    "imageName": "SLT2024PaleGreen_thumb"
   },
   {
     "id": 3864361640,
@@ -4540,6 +4820,11 @@
     "imageName": "TheFeed2023_thumb"
   },
   {
+    "id": 3925895941,
+    "name": "LOC_ACCESSORY_EVO_CYCLING_CLUB_2024",
+    "imageName": "EvoCyclingClub2024_thumb"
+  },
+  {
     "id": 3926835792,
     "name": "Kinetic",
     "imageName": "Kinetic_thumb"
@@ -4585,6 +4870,16 @@
     "imageName": "ZwiftNationalChampions_thumb"
   },
   {
+    "id": 3966371386,
+    "name": "NVDM Coaching",
+    "imageName": "NVDMCoaching2024_thumb"
+  },
+  {
+    "id": 3969433626,
+    "name": "Attacus Cycle Squad",
+    "imageName": "AttacusCycleSquad2024_thumb"
+  },
+  {
     "id": 3970107365,
     "name": "Dino Power",
     "imageName": "DinoPower_thumb"
@@ -4601,7 +4896,7 @@
   },
   {
     "id": 3981040718,
-    "name": "LOC_CYCLING_JERSEY_PRO_TEAMS_FFCCHAMPION2024_NAME",
+    "name": "FFC Champs 2024",
     "imageName": "FrenchCyclingFederation_Champ2024_thumb"
   },
   {
@@ -4740,6 +5035,11 @@
     "imageName": "ZFondo2020Mar_thumb"
   },
   {
+    "id": 4065648970,
+    "name": "LeColCC",
+    "imageName": "LeColCC2024_thumb"
+  },
+  {
     "id": 4070625544,
     "name": "Rapha Rising 2022",
     "imageName": "RaphaRising2022_thumb"
@@ -4843,6 +5143,11 @@
     "id": 4115647532,
     "name": "Hagens Berman Supermint",
     "imageName": "HagensBermanSupermint2019_thumb"
+  },
+  {
+    "id": 4118910897,
+    "name": "Project Echelon 2024",
+    "imageName": "ProjectEchelon2024_thumb"
   },
   {
     "id": 4121221568,

@@ -180,6 +180,11 @@
     "imageName": "Wheel_Enve22"
   },
   {
+    "id": 2740373137,
+    "name": "Zwift LOC_WHEELNAME_ZWIFT_BigSpinCruiser2024",
+    "imageName": "Wheel_BigSpinCruiser2024"
+  },
+  {
     "id": 2771477956,
     "name": "Zwift Gravel",
     "imageName": "Wheel_ZwiftGravel"
@@ -193,6 +198,11 @@
     "id": 2913819265,
     "name": "HED HED Vanquish RC6 Pro",
     "imageName": "Wheel_VanquishRC6"
+  },
+  {
+    "id": 3171611979,
+    "name": "Zwift Zwift Baseline Wheels",
+    "imageName": "Wheel_ZwiftCampBaseline2024"
   },
   {
     "id": 3309968019,
@@ -250,6 +260,16 @@
     "imageName": "Wheel_MavicCosmicCXR60c"
   },
   {
+    "id": 4088741326,
+    "name": "Zwift Tri Spoke // Disc Wheel",
+    "imageName": "Wheel_BigSpin2024"
+  },
+  {
+    "id": 4097663513,
+    "name": "Pinarello Pinarello Espada",
+    "imageName": "Wheel_PinarelloEspadaDisc"
+  },
+  {
     "id": 4111310185,
     "name": "Zwift 8-Bit",
     "imageName": ""
@@ -263,6 +283,11 @@
     "id": 4151096267,
     "name": "FFWD RYOT55",
     "imageName": "Wheel_FFWDRYOT55"
+  },
+  {
+    "id": 4151822963,
+    "name": "Zwift Concept",
+    "imageName": "Wheel_ZwiftConceptGold"
   },
   {
     "id": 4182312168,

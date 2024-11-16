@@ -25,6 +25,11 @@
     "imageName": "SocksDotOrange"
   },
   {
+    "id": 191660387,
+    "name": "2025 Tour de Zwift",
+    "imageName": "SocksTourDeZwift2025"
+  },
+  {
     "id": 224502226,
     "name": "ZRS Socks 3",
     "imageName": "ZRS2021Socks03"
@@ -88,6 +93,11 @@
     "id": 708573979,
     "name": "CritCrusher Plan Socks",
     "imageName": "CritCrusher"
+  },
+  {
+    "id": 776931720,
+    "name": "Watopia Origins Socks",
+    "imageName": "SocksTourOfWatopia2024"
   },
   {
     "id": 805406818,
@@ -160,9 +170,9 @@
     "imageName": ""
   },
   {
-    "id": 1262952776,
-    "name": "Socks Temp",
-    "imageName": "Socks_Temp"
+    "id": 1381501486,
+    "name": "Confetti",
+    "imageName": "ConfettiTrails"
   },
   {
     "id": 1422305746,
@@ -173,6 +183,11 @@
     "id": 1427912484,
     "name": "Zwift Academy Tri 2019",
     "imageName": "SocksZwiftAcademyTriBlue2020"
+  },
+  {
+    "id": 1483856737,
+    "name": "Classic Crew Socks",
+    "imageName": "SocksBigSpin2024"
   },
   {
     "id": 1537869564,
@@ -440,6 +455,11 @@
     "imageName": "SocksWahooCustom2018"
   },
   {
+    "id": 3226510559,
+    "name": "Zwift Games Socks",
+    "imageName": "SocksZwiftGames2024"
+  },
+  {
     "id": 3294806918,
     "name": "Zwift Racing Plan Socks",
     "imageName": "ESports"
@@ -568,6 +588,11 @@
     "id": 3930950032,
     "name": "Pebble Pounder Plan Socks",
     "imageName": "PebblePounder"
+  },
+  {
+    "id": 3952990473,
+    "name": "Off The MAAP",
+    "imageName": "SocksOffTheMAAP2024"
   },
   {
     "id": 3953741983,

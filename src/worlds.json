@@ -1,62 +1,50 @@
 [
   {
     "gameDictionary": "WATOPIA",
-    "slug": "watopia",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Watopia.png"
+    "slug": "watopia"
   },
   {
     "gameDictionary": "NEWYORK",
-    "slug": "new-york",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_NewYork.png"
+    "slug": "new-york"
   },
   {
     "gameDictionary": "RICHMOND",
-    "slug": "richmond",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Richmond.png"
+    "slug": "richmond"
   },
   {
     "gameDictionary": "LONDON",
-    "slug": "london",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_London.png"
+    "slug": "london"
   },
   {
     "gameDictionary": "INNSBRUCK",
-    "slug": "innsbruck",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Innsbruck.png"
+    "slug": "innsbruck"
   },
   {
     "gameDictionary": "BOLOGNATT",
-    "slug": "bologna",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Bologna.png"
+    "slug": "bologna"
   },
   {
     "gameDictionary": "YORKSHIRE",
-    "slug": "yorkshire",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Yorkshire.png"
+    "slug": "yorkshire"
   },
   {
     "gameDictionary": "CRITCITY",
-    "slug": "crit-city",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_CritCity.png"
+    "slug": "crit-city"
   },
   {
     "gameDictionary": "PARIS",
-    "slug": "paris",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Champs.png"
+    "slug": "paris"
   },
   {
     "gameDictionary": "MAKURIISLANDS",
-    "slug": "makuri-islands",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Japan.png"
+    "slug": "makuri-islands"
   },
   {
     "gameDictionary": "FRANCE",
-    "slug": "france",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_France.png"
+    "slug": "france"
   },
   {
     "gameDictionary": "SCOTLAND",
-    "slug": "scotland",
-    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Scotland.png"
+    "slug": "scotland"
   }
 ]

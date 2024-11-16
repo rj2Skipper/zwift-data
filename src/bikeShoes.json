@@ -1,8 +1,18 @@
 [
   {
+    "id": 123888986,
+    "name": "The Zwift Big Spin Shoes",
+    "imageName": "BigSpin2024_thumb"
+  },
+  {
     "id": 138403836,
     "name": "Alpine",
     "imageName": "Lederhose2022"
+  },
+  {
+    "id": 231828206,
+    "name": "Adidas Tempo 3-Stripes BOA Cycling Shoes",
+    "imageName": "AdidasTempoBOA2024"
   },
   {
     "id": 560768614,
@@ -18,6 +28,11 @@
     "id": 1039719545,
     "name": "Tour Of Watopia",
     "imageName": "TourOfWatopia2020"
+  },
+  {
+    "id": 1239918577,
+    "name": "Tour of Watopia '24",
+    "imageName": "CyclingShoes_TourOfWatopia2024_thumb"
   },
   {
     "id": 1335895262,
@@ -85,11 +100,6 @@
     "imageName": "GiroImperial2023_thumb"
   },
   {
-    "id": 2734175096,
-    "name": "Shoes Temp",
-    "imageName": "Shoes_Temp"
-  },
-  {
     "id": 3128704198,
     "name": "Tour of Watopia 2022",
     "imageName": "TOWCyclingShoe2022"
@@ -106,7 +116,7 @@
   },
   {
     "id": 3389594817,
-    "name": "Nimbl FEAT ULTIMATE",
+    "name": "Nimbl Ultimate Pro",
     "imageName": "NimblFEATUltimate_thumb"
   },
   {

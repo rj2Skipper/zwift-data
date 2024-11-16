@@ -30,6 +30,16 @@
     "imageName": "RunningCap_ZARunInSeason2022_thumb"
   },
   {
+    "id": 269775961,
+    "name": "2025 Ultimate Tour de Zwift Challenge",
+    "imageName": "TourDeZwiftUltimate2025_thumb"
+  },
+  {
+    "id": 271741505,
+    "name": "Sky Blue Helmet",
+    "imageName": "BigSpin2024_thumb"
+  },
+  {
     "id": 284363248,
     "name": "Eddie Izzard Celebration Run Cap",
     "imageName": "RunnerCapEddieIzzardCelebration2021_thumb"
@@ -120,6 +130,11 @@
     "imageName": "CyclingCapTOW2022_thumb"
   },
   {
+    "id": 842065288,
+    "name": "Zwift Games Gold Cap",
+    "imageName": "CyclingCapZwiftGamesGoldCap2024_thumb"
+  },
+  {
     "id": 857849616,
     "name": "Kask Elemento",
     "imageName": "KaskElementoHelmet"
@@ -155,9 +170,14 @@
     "imageName": "Headband_ZA2022"
   },
   {
-    "id": 1079696181,
-    "name": "Hat Temp",
-    "imageName": "Hat_Temp"
+    "id": 1061365842,
+    "name": "Zwift World Series Helmet",
+    "imageName": "ZwiftWorldSeries2024_thumb"
+  },
+  {
+    "id": 1064307880,
+    "name": "Off The MAAP",
+    "imageName": "CyclingCapOffTheMAAP2024_thumb"
   },
   {
     "id": 1079998558,
@@ -196,7 +216,7 @@
   },
   {
     "id": 1292376041,
-    "name": "LOC_ACCESSORY_LAZERBULLET",
+    "name": "Lazer Vento",
     "imageName": "LazerBullet"
   },
   {
@@ -263,6 +283,11 @@
     "id": 1684913570,
     "name": "ZC Training Cap",
     "imageName": "BackwardsCapZCTraining2022_thumb"
+  },
+  {
+    "id": 1689510425,
+    "name": "Tour of Watopia '24 Bikepacker",
+    "imageName": "RunningCapTourOfWatopia2024_thumb"
   },
   {
     "id": 1713458564,
@@ -365,6 +390,16 @@
     "imageName": "WahooCustomCap2018_thumb"
   },
   {
+    "id": 2546356403,
+    "name": "Le Beret",
+    "imageName": "CyclingCap_BigSpinBeret2024_thumb"
+  },
+  {
+    "id": 2631621268,
+    "name": "2025 Tour de Zwift",
+    "imageName": "TourDeZwift2025_thumb"
+  },
+  {
     "id": 2638087379,
     "name": "Zwift Academy Women 2018",
     "imageName": "RunningCap_ZA2018_Womens"
@@ -378,6 +413,16 @@
     "id": 2656884789,
     "name": "Off the MAAP 2021 Cap",
     "imageName": "BackwardsCapOffTheMaap2021_thumb"
+  },
+  {
+    "id": 2664954147,
+    "name": "NY Baseball Cap",
+    "imageName": "BackwardsBaseballCap2024_thumb"
+  },
+  {
+    "id": 2684416694,
+    "name": "Orange Headphones",
+    "imageName": "HeadphonesBigSpin2024_thumb"
   },
   {
     "id": 2698520959,
@@ -396,7 +441,7 @@
   },
   {
     "id": 2763919224,
-    "name": "ZRL2021",
+    "name": "ZRL Winner",
     "imageName": "ZRL2021_thumb"
   },
   {
@@ -408,6 +453,11 @@
     "id": 2828152591,
     "name": "Liv Backwards Cap",
     "imageName": "BackwardsCyclingCapLiv2022_thumb"
+  },
+  {
+    "id": 2859073480,
+    "name": "2025 Tour de Zwift",
+    "imageName": "TourDeZwift2025_thumb"
   },
   {
     "id": 2896909333,
@@ -463,6 +513,11 @@
     "id": 3137618299,
     "name": "Zwift Head Band",
     "imageName": "Headband_Orange"
+  },
+  {
+    "id": 3140426290,
+    "name": "Watopia Postal Service Hat",
+    "imageName": "WatopiaPostalService_thumb"
   },
   {
     "id": 3249347051,
@@ -530,14 +585,14 @@
     "imageName": "BackwardsCapZARun2021_thumb"
   },
   {
+    "id": 3556872596,
+    "name": "Tour of Watopia '24 Bikepacker",
+    "imageName": "RunningCapTourOfWatopia2024_thumb"
+  },
+  {
     "id": 3599973897,
     "name": "LOC_RUNNING_HEADGEAR_RUNNINGCAPTOUROFWATOPIA2023_NAME",
     "imageName": "RunningCapTourOfWatopia2023_thumb"
-  },
-  {
-    "id": 3614446577,
-    "name": "Helmet Temp",
-    "imageName": "Helmet_Temp"
   },
   {
     "id": 3630601017,
@@ -548,6 +603,11 @@
     "id": 3633294398,
     "name": "ZA Tri Team Helmet 2020",
     "imageName": "SpecializedZA2021"
+  },
+  {
+    "id": 3640209185,
+    "name": "Spring Training 2024",
+    "imageName": "CyclingCapSpringTrainingHat2024_thumb"
   },
   {
     "id": 3644241871,
@@ -593,6 +653,11 @@
     "id": 3791937810,
     "name": "Zwift Visor",
     "imageName": "Visor_White"
+  },
+  {
+    "id": 3812947982,
+    "name": "Union Jack Bucket Hat",
+    "imageName": "BucketHat_BigSpinUnionFlag2024_thumb"
   },
   {
     "id": 3826988747,

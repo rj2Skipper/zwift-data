@@ -39,7 +39,7 @@
     "id": 8,
     "name": "TOOK A JERSEY",
     "imageName": "TOOK_ARCH_JERSEY",
-    "priority": 9
+    "priority": 10
   },
   {
     "id": 10,
@@ -51,19 +51,19 @@
     "id": 13,
     "name": "FINISHED EVENT",
     "imageName": "FINISHED_EVENT",
-    "priority": 11
+    "priority": 12
   },
   {
     "id": 15,
     "name": "FINISHED WORKOUT",
     "imageName": "FINISHED_WORKOUT",
-    "priority": 12
+    "priority": 13
   },
   {
     "id": 17,
     "name": "FINISHED CHALLENGE",
     "imageName": "FINISHED_CHALLENGE",
-    "priority": 10
+    "priority": 11
   },
   {
     "id": 19,
@@ -75,6 +75,12 @@
     "id": 20,
     "name": "ACTIVITY BESTS",
     "imageName": "ACTIVITY_BESTS",
-    "priority": 13
+    "priority": 14
+  },
+  {
+    "id": 32,
+    "name": "SPECIAL EVENT",
+    "imageName": "SPECIAL_EVENT",
+    "priority": 9
   }
 ]

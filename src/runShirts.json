@@ -145,6 +145,11 @@
     "imageName": "TourOfMakuri2022_thumb"
   },
   {
+    "id": 751581328,
+    "name": "HISP Kit",
+    "imageName": "HISP2024_thumb"
+  },
+  {
     "id": 769877933,
     "name": "Super League Tri Arena Games - Yellow Jersey",
     "imageName": "SLTRun2022yellow_thumb"
@@ -173,6 +178,11 @@
     "id": 862160517,
     "name": "World Cancer Day",
     "imageName": "WorldCancerDayRun2021_thumb"
+  },
+  {
+    "id": 866942562,
+    "name": "supertri.e kit [Pale Orange]",
+    "imageName": "SLT2024PaleOrange_thumb"
   },
   {
     "id": 891026381,
@@ -215,6 +225,11 @@
     "imageName": "XterraRun2020_thumb"
   },
   {
+    "id": 1014366588,
+    "name": "supertri.e kit [Blue]",
+    "imageName": "SLT2024Blue_thumb"
+  },
+  {
     "id": 1079011329,
     "name": "Spaero Triathlon",
     "imageName": "SpaeroRun2022_thumb"
@@ -233,6 +248,11 @@
     "id": 1207872178,
     "name": "2022 adidas RFTO",
     "imageName": "RFTO2022_thumb"
+  },
+  {
+    "id": 1238821094,
+    "name": "supertri.e kit [Pale Blue]",
+    "imageName": "SLT2024PaleBlue_thumb"
   },
   {
     "id": 1288766544,
@@ -295,6 +315,11 @@
     "imageName": "WatopiaRunFest2020_thumb"
   },
   {
+    "id": 1556464651,
+    "name": "Tour of Watopia '24",
+    "imageName": "TourOfWatopia2024_thumb"
+  },
+  {
     "id": 1598044512,
     "name": "Neokyo Launch Run Shirt",
     "imageName": "NeokyoRun2021_thumb"
@@ -305,9 +330,19 @@
     "imageName": "TourDeZwift2020_thumb"
   },
   {
+    "id": 1641296782,
+    "name": "supertri.e kit [Orange]",
+    "imageName": "SLT2024Orange_thumb"
+  },
+  {
     "id": 1678310140,
     "name": "Collins Cup USA",
     "imageName": "CollinsCupRunRed2020_thumb"
+  },
+  {
+    "id": 1678740335,
+    "name": "supertri.e kit [Green]",
+    "imageName": "SLT2024Green_thumb"
   },
   {
     "id": 1689637021,
@@ -360,6 +395,11 @@
     "imageName": "ZATriRun2022_thumb"
   },
   {
+    "id": 1956663772,
+    "name": "supertri.e kit [Pale Green]",
+    "imageName": "SLT2024PaleGreen_thumb"
+  },
+  {
     "id": 1972429209,
     "name": "Super League Tri Arena Games - Green Jersey",
     "imageName": "SLTRun2022green_thumb"
@@ -393,6 +433,11 @@
     "id": 2077243976,
     "name": "Super League Tri Arena Games - Grey Jersey",
     "imageName": "SLTRun2022grey_thumb"
+  },
+  {
+    "id": 2080548282,
+    "name": "supertri.e kit [Purple]",
+    "imageName": "SLT2024Purple_thumb"
   },
   {
     "id": 2083092750,
@@ -438,6 +483,11 @@
     "id": 2208084455,
     "name": "Jan Frodeno",
     "imageName": "JanFrodeno2019_thumb"
+  },
+  {
+    "id": 2263962804,
+    "name": "supertri.e kit [Pink]",
+    "imageName": "SLT2024Pink_thumb"
   },
   {
     "id": 2292871545,
@@ -500,6 +550,11 @@
     "imageName": "ClashOfClubs2020_thumb"
   },
   {
+    "id": 2604080152,
+    "name": "supertri.e kit [Red]",
+    "imageName": "SLT2024Red_thumb"
+  },
+  {
     "id": 2636464333,
     "name": "Zwift Running Shirt 6",
     "imageName": "Shirt06"
@@ -555,6 +610,11 @@
     "imageName": "MonochromeTank01_thumb"
   },
   {
+    "id": 2732445655,
+    "name": "Wahoo",
+    "imageName": "WahooRun2024_thumb"
+  },
+  {
     "id": 2734666004,
     "name": "The Running Channel Shirt",
     "imageName": "RunningChannel2021_thumb"
@@ -573,6 +633,11 @@
     "id": 2839896779,
     "name": "Tour Of Watopia",
     "imageName": "TourOfWatopia2020"
+  },
+  {
+    "id": 2842145404,
+    "name": "2025 Tour de Zwift",
+    "imageName": "TourDeZwift2025_thumb"
   },
   {
     "id": 2852192250,
@@ -763,6 +828,11 @@
     "id": 3827075510,
     "name": "ZLDR 2023",
     "imageName": "ZLDR2023_thumb"
+  },
+  {
+    "id": 3853619347,
+    "name": "supertri.e kit [Grey]",
+    "imageName": "SLT2024Grey_thumb"
   },
   {
     "id": 3890549677,

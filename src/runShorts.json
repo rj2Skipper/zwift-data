@@ -35,6 +35,11 @@
     "imageName": "Shorts08"
   },
   {
+    "id": 236152884,
+    "name": "Tour of Watopia '24",
+    "imageName": "TourOfWatopia2024_thumb"
+  },
+  {
     "id": 240919495,
     "name": "Norseman Black Jersey",
     "imageName": "Norseman2019"
@@ -53,6 +58,11 @@
     "id": 325633081,
     "name": "2022 ZA Tri Team Design",
     "imageName": "ZATriRun2022_thumb"
+  },
+  {
+    "id": 367091450,
+    "name": "HISP Kit",
+    "imageName": "HISP2024_thumb"
   },
   {
     "id": 413092844,
@@ -425,6 +435,11 @@
     "imageName": "ZRLAtlanta2022_thumb"
   },
   {
+    "id": 3308502469,
+    "name": "Wahoo",
+    "imageName": "WahooRun2024_thumb"
+  },
+  {
     "id": 3368541207,
     "name": "Xterra Running Shorts 2020",
     "imageName": "XterraRunShorts2020_thumb"
@@ -448,6 +463,11 @@
     "id": 3515596595,
     "name": "ZA Tri Team Shorts",
     "imageName": "ZATri2021_thumb"
+  },
+  {
+    "id": 3543511530,
+    "name": "supertri.e kit",
+    "imageName": "SLT2024_thumb"
   },
   {
     "id": 3601200867,
@@ -498,6 +518,11 @@
     "id": 3932074146,
     "name": "ZRL Sydney Run Shorts",
     "imageName": "ZRLSydney2022_thumb"
+  },
+  {
+    "id": 3967684878,
+    "name": "2025 Tour de Zwift",
+    "imageName": "TourDeZwift2025_thumb"
   },
   {
     "id": 3981726669,

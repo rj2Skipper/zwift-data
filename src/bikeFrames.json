@@ -188,6 +188,12 @@
     "isTT": false
   },
   {
+    "id": 1122831861,
+    "name": "Canyon AeroadSRAM2024",
+    "modelYear": 2024,
+    "isTT": false
+  },
+  {
     "id": 1133663232,
     "name": "Specialized SpecializedDiverge2022",
     "modelYear": 2022,
@@ -197,6 +203,12 @@
     "id": 1152794347,
     "name": "QuintanaRoo QuintanaVPR2022",
     "modelYear": 2022,
+    "isTT": true
+  },
+  {
+    "id": 1169494001,
+    "name": "Pinarello Espada",
+    "modelYear": 1995,
     "isTT": true
   },
   {
@@ -227,6 +239,12 @@
     "id": 1381140630,
     "name": "Canyon Grail",
     "modelYear": 2019,
+    "isTT": false
+  },
+  {
+    "id": 1409258486,
+    "name": "Zwift BigSpinCruiser2024",
+    "modelYear": 1885,
     "isTT": false
   },
   {
@@ -326,6 +344,12 @@
     "id": 1936733870,
     "name": "Chapter2 Chapter2KOKO2022",
     "modelYear": 2022,
+    "isTT": false
+  },
+  {
+    "id": 1950596038,
+    "name": "Pinarello DogmaF2024",
+    "modelYear": 2024,
     "isTT": false
   },
   {
@@ -456,6 +480,12 @@
     "id": 2583787351,
     "name": "Giant GiantTCRAdvancedSL",
     "modelYear": 2021,
+    "isTT": false
+  },
+  {
+    "id": 2629993294,
+    "name": "Canyon Aeroad2024",
+    "modelYear": 2024,
     "isTT": false
   },
   {
@@ -628,6 +658,12 @@
     "isTT": false
   },
   {
+    "id": 3713154300,
+    "name": "Pinarello DogmaX2024",
+    "modelYear": 2023,
+    "isTT": false
+  },
+  {
     "id": 3772124007,
     "name": "Specialized Shiv",
     "modelYear": 2015,
@@ -731,6 +767,12 @@
     "id": 4208139356,
     "name": "Pinarello Dogma F",
     "modelYear": 2021,
+    "isTT": false
+  },
+  {
+    "id": 4243692575,
+    "name": "Zwift Concept Z1 Gold",
+    "modelYear": 2115,
     "isTT": false
   },
   {
