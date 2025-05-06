@@ -119,6 +119,8 @@ export async function updateData() {
           item.xp && +item.xp > 10
             ? +item.xp
             : manualRouteData?.experience ?? undefined,
+        difficulty: parseFloat(item.difficulty),
+        duration: parseFloat(item.duration),
         stravaSegmentId: manualRouteData?.stravaSegmentId ?? undefined,
         stravaSegmentUrl: manualRouteData?.stravaSegmentId
           ? `https://www.strava.com/segments/${manualRouteData.stravaSegmentId}`

@@ -173,6 +173,9 @@ export interface Route {
    */
   supportsMeetups: boolean;
 
+  difficulty: number;
+  duration: number;
+
   /**
    * Url of the route on Zwifter Bikes
    */
