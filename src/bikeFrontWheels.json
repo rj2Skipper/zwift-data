@@ -90,6 +90,16 @@
     "imageName": "Wheel_BoraUltra35"
   },
   {
+    "id": 1114387765,
+    "name": "Cannondale R4000 Roller Blade",
+    "imageName": "Wheel_CannondalePong"
+  },
+  {
+    "id": 1299227258,
+    "name": "Zwift Groovy Time Trial Wheels",
+    "imageName": "Wheel_BigSpin2025"
+  },
+  {
     "id": 1324365960,
     "name": "Zwift Plain",
     "imageName": "Wheel_ZwiftPlain"
@@ -123,6 +133,11 @@
     "id": 1547965258,
     "name": "Zwift Zwift Bat Wheel",
     "imageName": ""
+  },
+  {
+    "id": 1572602779,
+    "name": "Roval PROJECT 74",
+    "imageName": "Wheel_RovalProject74"
   },
   {
     "id": 1593377918,
@@ -245,6 +260,11 @@
     "imageName": ""
   },
   {
+    "id": 3207647806,
+    "name": "Zwift BMX Bandit",
+    "imageName": "Wheel_BigSpinBMX2025"
+  },
+  {
     "id": 3251069251,
     "name": "Enve SES 6.7",
     "imageName": "Wheel_Enve67"
@@ -291,7 +311,7 @@
   },
   {
     "id": 4249063997,
-    "name": "Pinarello Pinarello Espada",
+    "name": "Pinarello Espada",
     "imageName": "Wheel_PinarelloEspadaDisc"
   }
 ]

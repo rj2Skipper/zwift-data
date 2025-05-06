@@ -115,6 +115,11 @@
     "imageName": "VisorZwiftAcademyTri2020_Thumb"
   },
   {
+    "id": 677371865,
+    "name": "90s Headphones",
+    "imageName": "HeadphonesBigSpin90s2025_thumb"
+  },
+  {
     "id": 765196864,
     "name": "Newsy",
     "imageName": "Newsy"
@@ -395,6 +400,16 @@
     "imageName": "CyclingCap_BigSpinBeret2024_thumb"
   },
   {
+    "id": 2551213910,
+    "name": "2025 Watch the Femmes",
+    "imageName": "HeadphonesWatchTheFemmes2025_thumb"
+  },
+  {
+    "id": 2595853305,
+    "name": "Granny Visor",
+    "imageName": "VisorBigSpin2025_thumb"
+  },
+  {
     "id": 2631621268,
     "name": "2025 Tour de Zwift",
     "imageName": "TourDeZwift2025_thumb"
@@ -408,6 +423,11 @@
     "id": 2638837937,
     "name": "Watch the Femmes 22",
     "imageName": "CyclingCapTDFF2022_thumb"
+  },
+  {
+    "id": 2640370438,
+    "name": "Big Spin 2025 Headphones",
+    "imageName": "HeadphonesBigSpin2025_thumb"
   },
   {
     "id": 2656884789,
@@ -500,6 +520,11 @@
     "imageName": "BellJavelin"
   },
   {
+    "id": 3091213638,
+    "name": "2025 Paris-Roubaix Femmes avec Zwift",
+    "imageName": "CyclingCapPRFaZ2025_thumb"
+  },
+  {
     "id": 3104058090,
     "name": "HJC Furion",
     "imageName": "HJCFurion"
@@ -570,9 +595,19 @@
     "imageName": "ZwiftHelmetBowl01"
   },
   {
+    "id": 3369196915,
+    "name": "Oakley Velo Mach Helmet",
+    "imageName": "OakleyVeloMach2025_thumb"
+  },
+  {
     "id": 3438211262,
     "name": "Protone INEOS Grenadier",
     "imageName": "ProtonKaskINEOS2021"
+  },
+  {
+    "id": 3460366108,
+    "name": "Sticker Skate Helmet",
+    "imageName": "BigSpinHelmet2025_thumb"
   },
   {
     "id": 3500373581,
@@ -650,6 +685,11 @@
     "imageName": "RunningCapBikePacker_thumb"
   },
   {
+    "id": 3778367593,
+    "name": "Inside Out",
+    "imageName": "VisorZwiftCampInsideOut2025_thumb"
+  },
+  {
     "id": 3791937810,
     "name": "Zwift Visor",
     "imageName": "Visor_White"
@@ -663,6 +703,11 @@
     "id": 3826988747,
     "name": "Zwift Academy 2020 Sworks",
     "imageName": "SworksZA2020"
+  },
+  {
+    "id": 3890008533,
+    "name": "Groovy Bucket Hat",
+    "imageName": "BucketHatBigSpin2025_thumb"
   },
   {
     "id": 3912703277,

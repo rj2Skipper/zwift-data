@@ -1,5 +1,9 @@
 [
   {
+    "id": 0,
+    "name": "Zwift BigSpin2025-"
+  },
+  {
     "id": 58038927,
     "name": "Pinarello F8-Team Wiggins"
   },
@@ -52,8 +56,16 @@
     "name": "Zwift Carbon-AG2R"
   },
   {
+    "id": 467948120,
+    "name": "Cannondale CAAD13-CAAD13"
+  },
+  {
     "id": 472970370,
     "name": "QuintanaRoo QuintanaVPR2022-base"
+  },
+  {
+    "id": 494044564,
+    "name": "Specialized SpecializedTarmacSL8-Default"
   },
   {
     "id": 507139888,
@@ -118,6 +130,10 @@
   {
     "id": 806402273,
     "name": "Zwift Carbon-Orbea Orca"
+  },
+  {
+    "id": 839913802,
+    "name": "Cannondale CannondaleR4000RollerBlade-Cannondale Pong"
   },
   {
     "id": 854249359,
@@ -336,6 +352,10 @@
     "name": "Zwift Buffalo Qhubeka-Buffalo Fahrrad"
   },
   {
+    "id": 1995957393,
+    "name": "Cannondale Super Six EVO LAB71-Default"
+  },
+  {
     "id": 2002537716,
     "name": "Cello Team-Cello M1"
   },
@@ -394,6 +414,10 @@
   {
     "id": 2240051099,
     "name": "Felt FeltFR2022-FeltFRTwenty24"
+  },
+  {
+    "id": 2240565793,
+    "name": "Specialized SWorksTarmacSL8-Default"
   },
   {
     "id": 2251624409,
@@ -710,6 +734,10 @@
   {
     "id": 3989678949,
     "name": "Zwift Carbon-Zwift Dark"
+  },
+  {
+    "id": 3992905825,
+    "name": "Specialized Project74-Default"
   },
   {
     "id": 3997469847,

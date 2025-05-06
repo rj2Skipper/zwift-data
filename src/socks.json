@@ -25,11 +25,6 @@
     "imageName": "SocksDotOrange"
   },
   {
-    "id": 191660387,
-    "name": "2025 Tour de Zwift",
-    "imageName": "SocksTourDeZwift2025"
-  },
-  {
     "id": 224502226,
     "name": "ZRS Socks 3",
     "imageName": "ZRS2021Socks03"
@@ -95,6 +90,11 @@
     "imageName": "CritCrusher"
   },
   {
+    "id": 728024758,
+    "name": "Aero Lightning Socks",
+    "imageName": "Socks_LightningAero"
+  },
+  {
     "id": 776931720,
     "name": "Watopia Origins Socks",
     "imageName": "SocksTourOfWatopia2024"
@@ -118,6 +118,11 @@
     "id": 906799315,
     "name": "Tour De Zwift 2024 Socks",
     "imageName": "Socks_TourDeZwift2024"
+  },
+  {
+    "id": 907367455,
+    "name": "2025 Tour de Zwift",
+    "imageName": "SocksTourDeZwift2025"
   },
   {
     "id": 936629429,
@@ -280,6 +285,11 @@
     "imageName": "BikeTo10K"
   },
   {
+    "id": 2036165563,
+    "name": "Lightning Socks",
+    "imageName": "Socks_Lightning"
+  },
+  {
     "id": 2098463286,
     "name": "1980s",
     "imageName": "TealPink2020"
@@ -310,6 +320,11 @@
     "imageName": "Socks_ZippB2021"
   },
   {
+    "id": 2406656832,
+    "name": "Inside Out socks",
+    "imageName": "SocksZwiftCampInsideOut2025"
+  },
+  {
     "id": 2423356766,
     "name": "Zwift Academy 2023",
     "imageName": "Socks_ZARun2022"
@@ -338,6 +353,11 @@
     "id": 2476312188,
     "name": "Party White",
     "imageName": "Socks_Party01"
+  },
+  {
+    "id": 2507652523,
+    "name": "2025 Tour de Zwift",
+    "imageName": "SocksTourDeZwift2025"
   },
   {
     "id": 2510625778,

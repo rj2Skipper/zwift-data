@@ -792,6 +792,174 @@
     "duration": null
   },
   {
+    "id": 10038,
+    "name": "Gotthard Pass",
+    "slug": "10038",
+    "world": "",
+    "eventOnly": false,
+    "distance": 1442.196,
+    "elevation": 90931,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
+    "id": 10039,
+    "name": "Norton Summit",
+    "slug": "10039",
+    "world": "",
+    "eventOnly": false,
+    "distance": 866.603,
+    "elevation": 36360,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
+    "id": 10040,
+    "name": "Hardknott Pass",
+    "slug": "10040",
+    "world": "",
+    "eventOnly": false,
+    "distance": 269.158,
+    "elevation": 30641,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
+    "id": 10041,
+    "name": "Poggio",
+    "slug": "10041",
+    "world": "",
+    "eventOnly": false,
+    "distance": 431.2,
+    "elevation": 13635,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
+    "id": 10042,
+    "name": "Oude Kwaremont",
+    "slug": "10042",
+    "world": "",
+    "eventOnly": false,
+    "distance": 150.988,
+    "elevation": 6377,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
+    "id": 10043,
+    "name": "Cauberg",
+    "slug": "10043",
+    "world": "",
+    "eventOnly": false,
+    "distance": 80.621,
+    "elevation": 5779,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
+    "id": 10044,
+    "name": "Côte de la Redoute",
+    "slug": "10044",
+    "world": "",
+    "eventOnly": false,
+    "distance": 154.293,
+    "elevation": 15315,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
     "id": 5103974,
     "name": "Lady Liberty",
     "slug": "lady-liberty",
@@ -1061,7 +1229,7 @@
     ],
     "segmentsOnRoute": [
       {
-        "from": 15.212,
+        "from": 15.228,
         "to": 18.227,
         "segment": "box-hill"
       }
@@ -1089,7 +1257,7 @@
     "name": "Queen's Highway After Party",
     "slug": "queens-highway-after-party",
     "world": "yorkshire",
-    "eventOnly": true,
+    "eventOnly": false,
     "distance": 17.149,
     "elevation": 259,
     "leadInDistance": 2.764,
@@ -1114,7 +1282,8 @@
     "experience": 340,
     "difficulty": 2,
     "duration": 2,
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/yorkshire/route/queens-highway-after-party"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/yorkshire/route/queens-highway-after-party",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/queens-highway-after-party"
   },
   {
     "id": 107363867,
@@ -1160,6 +1329,35 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/hilly-route-reverse",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/hilly-route-reverse",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/hilly-route-reverse"
+  },
+  {
+    "id": 136140280,
+    "name": "Sacre Bleu",
+    "slug": "136140280",
+    "world": "france",
+    "eventOnly": false,
+    "distance": 71.18,
+    "elevation": 396,
+    "leadInDistance": 2.599,
+    "leadInElevation": 15,
+    "leadInDistanceFreeRide": 0.546,
+    "leadInElevationFreeRide": 5,
+    "leadInDistanceMeetups": 0.574,
+    "leadInElevationInMeetups": 5,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 1425,
+    "difficulty": 3,
+    "duration": 4
   },
   {
     "id": 136957568,
@@ -1275,7 +1473,7 @@
         "segment": "london-sprint-rev"
       },
       {
-        "from": 46.989,
+        "from": 47.004,
         "to": 49.984,
         "segment": "box-hill"
       }
@@ -1297,6 +1495,48 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/the-london-pretzel",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/london/route/the-london-pretzel",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/the-london-pretzel"
+  },
+  {
+    "id": 172610229,
+    "name": "Scotland Smash",
+    "slug": "scotland-smash",
+    "world": "scotland",
+    "eventOnly": false,
+    "distance": 17.82,
+    "elevation": 167,
+    "leadInDistance": 0.249,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.156,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.171,
+    "leadInElevationInMeetups": 0,
+    "segments": [
+      "champions-sprint",
+      "the-clyde-kicker",
+      "breakaway-brae-rev"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 8.681,
+        "to": 9.302,
+        "segment": "breakaway-brae-rev"
+      }
+    ],
+    "levelLocked": true,
+    "levelLock": "1",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 365,
+    "difficulty": 1,
+    "duration": 1,
+    "stravaSegmentId": 38412900,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38412900",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/scotland-smash"
   },
   {
     "id": 183635628,
@@ -1340,7 +1580,51 @@
     "stravaSegmentId": 37049454,
     "stravaSegmentUrl": "https://www.strava.com/segments/37049454",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/elevation-evaluation",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/elevation-evaluation"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/elevation-evaluation",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/elevation-evaluation"
+  },
+  {
+    "id": 186601870,
+    "name": "Makuri Madness",
+    "slug": "makuri-madness",
+    "world": "makuri-islands",
+    "eventOnly": false,
+    "distance": 15.949,
+    "elevation": 85,
+    "leadInDistance": 0.137,
+    "leadInElevation": 3,
+    "leadInDistanceFreeRide": 0.126,
+    "leadInElevationFreeRide": 3,
+    "leadInDistanceMeetups": 0.141,
+    "leadInElevationInMeetups": 3,
+    "segments": [
+      "alley-sprint",
+      "tower-sprint",
+      "tidepool-sprint",
+      "boardwalk-sprint"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 2.528,
+        "to": 2.842,
+        "segment": "tower-sprint"
+      }
+    ],
+    "levelLocked": true,
+    "levelLock": "1",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 325,
+    "difficulty": 1,
+    "duration": 1,
+    "stravaSegmentId": 38413164,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38413164",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/makuri-madness"
   },
   {
     "id": 211138252,
@@ -1424,7 +1708,8 @@
     "stravaSegmentId": 37098607,
     "stravaSegmentUrl": "https://www.strava.com/segments/37098607",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/mayan-san-remo",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/mayan-san-remo"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/mayan-san-remo",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/mayan-san-remo"
   },
   {
     "id": 240388043,
@@ -1577,7 +1862,8 @@
     "stravaSegmentId": 36342198,
     "stravaSegmentUrl": "https://www.strava.com/segments/36342198",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/loop-de-loop",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/loop-de-loop"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/loop-de-loop",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/loop-de-loop"
   },
   {
     "id": 246712730,
@@ -1696,7 +1982,8 @@
     "stravaSegmentId": 37041912,
     "stravaSegmentUrl": "https://www.strava.com/segments/37041912",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/tides-and-temples",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/tides-and-temples"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/tides-and-temples",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/tides-and-temples"
   },
   {
     "id": 274639515,
@@ -1737,8 +2024,10 @@
     "elevation": 9,
     "leadInDistance": 0.11,
     "leadInElevation": 1,
-    "leadInDistanceFreeRide": 0.19,
-    "leadInElevationFreeRide": 2,
+    "leadInDistanceFreeRide": 0.03,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.03,
+    "leadInElevationInMeetups": 0,
     "segments": [],
     "segmentsOnRoute": [],
     "levelLocked": true,
@@ -1753,6 +2042,35 @@
     "duration": null,
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/shuman-trail-loop-reverse",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/new-york/route/shuman-trail-reverse"
+  },
+  {
+    "id": 319138658,
+    "name": "Three Musketeers",
+    "slug": "319138658",
+    "world": "france",
+    "eventOnly": false,
+    "distance": 35.195,
+    "elevation": 195,
+    "leadInDistance": 2.599,
+    "leadInElevation": 15,
+    "leadInDistanceFreeRide": 0.595,
+    "leadInElevationFreeRide": 5,
+    "leadInDistanceMeetups": 0.618,
+    "leadInElevationInMeetups": 5,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 705,
+    "difficulty": 3,
+    "duration": 4
   },
   {
     "id": 352245150,
@@ -1784,6 +2102,35 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/gotham-grind-reverse",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/new-york/route/gotham-grind-reverse",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/gotham-grind-reverse"
+  },
+  {
+    "id": 358794394,
+    "name": "Ven-10",
+    "slug": "358794394",
+    "world": "france",
+    "eventOnly": false,
+    "distance": 10,
+    "elevation": 780,
+    "leadInDistance": 1.399,
+    "leadInElevation": 37,
+    "leadInDistanceFreeRide": 0.077,
+    "leadInElevationFreeRide": 2,
+    "leadInDistanceMeetups": 0.125,
+    "leadInElevationInMeetups": 4,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 200,
+    "difficulty": 4,
+    "duration": 4
   },
   {
     "id": 377566656,
@@ -1826,7 +2173,8 @@
     "duration": 2,
     "stravaSegmentId": 37675052,
     "stravaSegmentUrl": "https://www.strava.com/segments/37675052",
-    "zwiftInsiderUrl": "https://zwiftinsider.com/route/braek-fast-crits-and-grits"
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/braek-fast-crits-and-grits",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/braek-fast-crits-and-grits"
   },
   {
     "id": 387309391,
@@ -1868,7 +2216,7 @@
   {
     "id": 454871454,
     "name": "Deca Dash",
-    "slug": "454871454",
+    "slug": "deca-dash",
     "world": "watopia",
     "eventOnly": false,
     "distance": 48.35,
@@ -1879,8 +2227,62 @@
     "leadInElevationFreeRide": 17,
     "leadInDistanceMeetups": 4.057,
     "leadInElevationInMeetups": 17,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "jarvis-sprint-rev",
+      "jarvis-kom-rev"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 0.232,
+        "to": 1.528,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 5.05,
+        "to": 6.344,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 9.866,
+        "to": 11.16,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 14.681,
+        "to": 15.976,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 19.497,
+        "to": 20.792,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 24.312,
+        "to": 25.608,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 29.141,
+        "to": 30.435,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 33.956,
+        "to": 35.25,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 38.767,
+        "to": 40.065,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 43.599,
+        "to": 44.893,
+        "segment": "jarvis-kom-rev"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": true,
@@ -1892,7 +2294,12 @@
     ],
     "experience": 1000,
     "difficulty": 3,
-    "duration": 4
+    "duration": 4,
+    "stravaSegmentId": 38146678,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38146678",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/deca-dash",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/deca-dash",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/deca-dash"
   },
   {
     "id": 468624015,
@@ -1939,8 +2346,12 @@
     "eventOnly": true,
     "distance": 20.978,
     "elevation": 255,
-    "leadInDistance": 0.176,
+    "leadInDistance": 0.173,
     "leadInElevation": 1,
+    "leadInDistanceFreeRide": 0.017,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.027,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "fox-hill"
     ],
@@ -2135,6 +2546,35 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/figure-8-reverse"
   },
   {
+    "id": 573843083,
+    "name": "Macaron",
+    "slug": "573843083",
+    "world": "france",
+    "eventOnly": true,
+    "distance": 2.436,
+    "elevation": 13,
+    "leadInDistance": 0.164,
+    "leadInElevation": 2,
+    "leadInDistanceFreeRide": 0.014,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.03,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 50,
+    "difficulty": 1,
+    "duration": 1
+  },
+  {
     "id": 576953930,
     "name": "Country to Coastal",
     "slug": "country-to-coastal",
@@ -2284,7 +2724,7 @@
     "segmentsOnRoute": [
       {
         "from": 0,
-        "to": 4.069,
+        "to": 4.067,
         "segment": "volcano-circuit"
       }
     ],
@@ -2348,9 +2788,9 @@
     "leadInDistance": 0.048,
     "leadInElevation": 0,
     "leadInDistanceFreeRide": 0.011,
-    "leadInElevationFreeRide": 23,
+    "leadInElevationFreeRide": 0,
     "leadInDistanceMeetups": 0.017,
-    "leadInElevationInMeetups": 23,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "breakaway-brae-rev"
     ],
@@ -2482,7 +2922,8 @@
     "stravaSegmentId": 36343341,
     "stravaSegmentUrl": "https://www.strava.com/segments/36343341",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/zwift-games-2024-epic",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/zwift-games-2024-epic"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/zwift-games-2024-epic",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/zwift-games-2024-epic"
   },
   {
     "id": 762747962,
@@ -2541,7 +2982,7 @@
         "segment": "london-loop"
       },
       {
-        "from": 6.266,
+        "from": 6.278,
         "to": 9.283,
         "segment": "box-hill"
       },
@@ -2551,7 +2992,7 @@
         "segment": "london-loop"
       },
       {
-        "from": 21.114,
+        "from": 21.132,
         "to": 24.131,
         "segment": "box-hill"
       },
@@ -2561,7 +3002,7 @@
         "segment": "london-loop"
       },
       {
-        "from": 35.963,
+        "from": 35.982,
         "to": 38.979,
         "segment": "box-hill"
       },
@@ -2571,7 +3012,7 @@
         "segment": "london-loop"
       },
       {
-        "from": 50.813,
+        "from": 50.832,
         "to": 53.826,
         "segment": "box-hill"
       },
@@ -2689,7 +3130,8 @@
     "stravaSegmentId": 37716261,
     "stravaSegmentUrl": "https://www.strava.com/segments/37716261",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/navig8",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/navig8"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/navig8",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/navig8"
   },
   {
     "id": 849508252,
@@ -2880,7 +3322,7 @@
         "segment": "london-loop"
       },
       {
-        "from": 6.264,
+        "from": 6.285,
         "to": 9.258,
         "segment": "box-hill"
       }
@@ -2936,6 +3378,35 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/greater-london-flat",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/london/route/greater-london-flat",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/greater-london-flat"
+  },
+  {
+    "id": 938096831,
+    "name": "ZG25 Climb Champs",
+    "slug": "zg25-climb-champs",
+    "world": "london",
+    "eventOnly": true,
+    "distance": 4.65,
+    "elevation": 156,
+    "leadInDistance": 0.345,
+    "leadInElevation": 1,
+    "leadInDistanceFreeRide": 0.158,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.158,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": true,
+    "levelLock": "1",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 100,
+    "difficulty": 1,
+    "duration": 1
   },
   {
     "id": 947394567,
@@ -3292,7 +3763,7 @@
   {
     "id": 1092181131,
     "name": "Loopin Lava",
-    "slug": "1092181131",
+    "slug": "loopin-lava",
     "world": "watopia",
     "eventOnly": false,
     "distance": 14.214,
@@ -3303,8 +3774,28 @@
     "leadInElevationFreeRide": 16,
     "leadInDistanceMeetups": 4.12,
     "leadInElevationInMeetups": 16,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "jarvis-kom",
+      "jarvis-sprint",
+      "volcano-kom"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 0.653,
+        "to": 2.459,
+        "segment": "jarvis-kom"
+      },
+      {
+        "from": 3.793,
+        "to": 3.996,
+        "segment": "jarvis-sprint"
+      },
+      {
+        "from": 5.207,
+        "to": 8.945,
+        "segment": "volcano-kom"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": true,
@@ -3316,7 +3807,12 @@
     ],
     "experience": 285,
     "difficulty": 3,
-    "duration": 3
+    "duration": 4,
+    "stravaSegmentId": 38132886,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38132886",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/loopin-lava",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/loopin-lava",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/loopin-lava"
   },
   {
     "id": 1115260805,
@@ -3410,8 +3906,12 @@
     "eventOnly": true,
     "distance": 41.543,
     "elevation": 434,
-    "leadInDistance": 0.465,
+    "leadInDistance": 0.462,
     "leadInElevation": 4,
+    "leadInDistanceFreeRide": 0.026,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.043,
+    "leadInElevationInMeetups": 1,
     "segments": [
       "london-sprint",
       "leith-hill"
@@ -3560,7 +4060,8 @@
     "stravaSegmentId": 33620087,
     "stravaSegmentUrl": "https://www.strava.com/segments/33620087",
     "zwiftInsiderUrl": "https://zwiftinsider.com/glasgow-crit-circuit-reverse",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/scotland/route/glasgow-reverse"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/scotland/route/glasgow-reverse",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/glasgow-reverse"
   },
   {
     "id": 1327147942,
@@ -3735,6 +4236,49 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/mech-isle-loop"
   },
   {
+    "id": 1367364772,
+    "name": "Neon After Party",
+    "slug": "neon-after-party",
+    "world": "makuri-islands",
+    "eventOnly": false,
+    "distance": 16.199,
+    "elevation": 137,
+    "leadInDistance": 1.124,
+    "leadInElevation": 5,
+    "leadInDistanceFreeRide": 1.065,
+    "leadInElevationFreeRide": 3,
+    "leadInDistanceMeetups": 1.08,
+    "leadInElevationInMeetups": 4,
+    "segments": [
+      "alley-sprint",
+      "tower-sprint-rev",
+      "castle-park-sprint-rev",
+      "rooftop-kom"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 14.261,
+        "to": 16.139,
+        "segment": "rooftop-kom"
+      }
+    ],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 325,
+    "difficulty": 1,
+    "duration": 1,
+    "stravaSegmentId": 38754616,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38754616",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/neon-after-party"
+  },
+  {
     "id": 1373909093,
     "name": "Chili Pepper",
     "slug": "chili-pepper",
@@ -3900,6 +4444,34 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/volcano-flat-reverse",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/volcano-flat-reverse",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/volcano-flat-reverse"
+  },
+  {
+    "id": 1409345545,
+    "name": "Rapide Run",
+    "slug": "1409345545",
+    "world": "france",
+    "eventOnly": false,
+    "distance": 5.994,
+    "elevation": 38,
+    "leadInDistance": 0.081,
+    "leadInElevation": 1,
+    "leadInDistanceFreeRide": 0.022,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.041,
+    "leadInElevationInMeetups": 1,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running"
+    ],
+    "experience": 120,
+    "difficulty": 0,
+    "duration": 0
   },
   {
     "id": 1433431343,
@@ -4195,6 +4767,35 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/astoria-line-8"
   },
   {
+    "id": 1538375239,
+    "name": "Gentil 8",
+    "slug": "1538375239",
+    "world": "france",
+    "eventOnly": false,
+    "distance": 23.18,
+    "elevation": 243,
+    "leadInDistance": 2.599,
+    "leadInElevation": 15,
+    "leadInDistanceFreeRide": 0.557,
+    "leadInElevationFreeRide": 5,
+    "leadInDistanceMeetups": 0.572,
+    "leadInElevationInMeetups": 5,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 465,
+    "difficulty": 2,
+    "duration": 3
+  },
+  {
     "id": 1545087483,
     "name": "Cobbled Climbs",
     "slug": "cobbled-climbs",
@@ -4314,6 +4915,35 @@
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/that-s-amore-reverse"
   },
   {
+    "id": 1600198346,
+    "name": "Croissant",
+    "slug": "1600198346",
+    "world": "france",
+    "eventOnly": false,
+    "distance": 9.273,
+    "elevation": 49,
+    "leadInDistance": 3.241,
+    "leadInElevation": 23,
+    "leadInDistanceFreeRide": 3.052,
+    "leadInElevationFreeRide": 21,
+    "leadInDistanceMeetups": 3.072,
+    "leadInElevationInMeetups": 22,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 185,
+    "difficulty": 2,
+    "duration": 2
+  },
+  {
     "id": 1631692097,
     "name": "Glyph Heights",
     "slug": "glyph-heights",
@@ -4360,7 +4990,8 @@
     "stravaSegmentId": 37011748,
     "stravaSegmentUrl": "https://www.strava.com/segments/37011748",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/glyph-heights",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/glyph-heights"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/glyph-heights",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/glyph-heights"
   },
   {
     "id": 1635842477,
@@ -4489,6 +5120,52 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/the-big-ring"
   },
   {
+    "id": 1675611962,
+    "name": "Downtown Eruption",
+    "slug": "downtown-eruoption",
+    "world": "watopia",
+    "eventOnly": false,
+    "distance": 19.441,
+    "elevation": 275,
+    "leadInDistance": 0.499,
+    "leadInElevation": 1,
+    "leadInDistanceFreeRide": 0.015,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.031,
+    "leadInElevationInMeetups": 0,
+    "segments": [
+      "volcano-kom",
+      "zwift-kom"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 6.576,
+        "to": 10.295,
+        "segment": "volcano-kom"
+      },
+      {
+        "from": 18.528,
+        "to": 19.429,
+        "segment": "zwift-kom"
+      }
+    ],
+    "levelLocked": true,
+    "levelLock": "1",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 400,
+    "difficulty": 2,
+    "duration": 2,
+    "stravaSegmentId": 38413304,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38413304",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/downtown-eruption"
+  },
+  {
     "id": 1695691428,
     "name": "Epic Run",
     "slug": "epic-run",
@@ -4499,9 +5176,9 @@
     "leadInDistance": 4.121,
     "leadInElevation": 305,
     "leadInDistanceFreeRide": 0.014,
-    "leadInElevationFreeRide": 34,
+    "leadInElevationFreeRide": 0,
     "leadInDistanceMeetups": 0.031,
-    "leadInElevationInMeetups": 34,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "radio-tower-kom"
     ],
@@ -4574,6 +5251,59 @@
     "stravaSegmentUrl": "https://www.strava.com/segments/37501806",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/hilly-route-reverse",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/hilly-route-reverse-run"
+  },
+  {
+    "id": 1724903700,
+    "name": "ZG25 Queen",
+    "slug": "zg25-queen",
+    "world": "watopia",
+    "eventOnly": false,
+    "distance": 44.61,
+    "elevation": 894,
+    "leadInDistance": 0.194,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.015,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.03,
+    "leadInElevationInMeetups": 0,
+    "segments": [
+      "jarvis-sprint-rev",
+      "jarvis-kom-rev",
+      "mayan-mountainside-kom",
+      "itza-kom"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 4.264,
+        "to": 5.562,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 23.5,
+        "to": 25.489,
+        "segment": "mayan-mountainside-kom"
+      },
+      {
+        "from": 26.096,
+        "to": 29.844,
+        "segment": "itza-kom"
+      }
+    ],
+    "levelLocked": true,
+    "levelLock": "1",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 895,
+    "difficulty": 3,
+    "duration": 3,
+    "stravaSegmentId": 38412699,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38412699",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/zg25-queen"
   },
   {
     "id": 1732356505,
@@ -4838,7 +5568,8 @@
     "stravaSegmentId": 37300398,
     "stravaSegmentUrl": "https://www.strava.com/segments/37300398",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/yorkshire-double-loops",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/yorkshire/route/yorkshire-double-loop"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/yorkshire/route/yorkshire-double-loop",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/yorkshire-double-loops"
   },
   {
     "id": 1788889233,
@@ -4848,8 +5579,11 @@
     "eventOnly": true,
     "distance": 14.834,
     "elevation": 231,
-    "leadInDistance": 0.175,
+    "leadInDistance": 0.172,
     "leadInElevation": 1,
+    "leadInDistanceFreeRide": 0.005,
+    "leadInDistanceMeetups": 0.011,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "fox-hill"
     ],
@@ -4905,6 +5639,35 @@
     "duration": null,
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/couch-to-sky-k",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/new-york/route/couch-to-sky-k"
+  },
+  {
+    "id": 1793712753,
+    "name": "Hell of the North",
+    "slug": "1793712753",
+    "world": "france",
+    "eventOnly": false,
+    "distance": 19.816,
+    "elevation": 241,
+    "leadInDistance": 0.336,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.017,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.031,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 395,
+    "difficulty": 3,
+    "duration": 4
   },
   {
     "id": 1880443431,
@@ -4987,7 +5750,8 @@
     "stravaSegmentId": 26974627,
     "stravaSegmentUrl": "https://www.strava.com/segments/26974627",
     "zwiftInsiderUrl": "https://zwiftinsider.com/big-flat-8",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/big-flat-8"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/big-flat-8",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/big-flat-8"
   },
   {
     "id": 1919980508,
@@ -5066,6 +5830,34 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/valley-to-mountaintop",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/makuri-islands/route/valley-to-mountaintop",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/valley-to-mountaintop"
+  },
+  {
+    "id": 1975694067,
+    "name": "Ven-10 Run",
+    "slug": "1975694067",
+    "world": "france",
+    "eventOnly": false,
+    "distance": 10,
+    "elevation": 780,
+    "leadInDistance": 1.399,
+    "leadInElevation": 37,
+    "leadInDistanceFreeRide": 0.078,
+    "leadInElevationFreeRide": 2,
+    "leadInDistanceMeetups": 0.126,
+    "leadInElevationInMeetups": 4,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running"
+    ],
+    "experience": 200,
+    "difficulty": 4,
+    "duration": 4
   },
   {
     "id": 1988847319,
@@ -5213,31 +6005,50 @@
   {
     "id": 2062126722,
     "name": "Tair Dringfa Fechan",
-    "slug": "2062126722",
+    "slug": "tair-dringfa-fechan",
     "world": "watopia",
-    "eventOnly": true,
-    "distance": 31.169,
+    "eventOnly": false,
+    "distance": 31.115,
     "elevation": 372,
-    "leadInDistance": 0.897,
+    "leadInDistance": 0.949,
     "leadInElevation": 3,
-    "leadInDistanceFreeRide": 0.397,
+    "leadInDistanceFreeRide": 0.449,
     "leadInElevationFreeRide": 2,
-    "leadInDistanceMeetups": 0.396,
+    "leadInDistanceMeetups": 0.449,
     "leadInElevationInMeetups": 2,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "watopia-sprint",
+      "titans-grove-kom-rev"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 13.564,
+        "to": 13.889,
+        "segment": "watopia-sprint"
+      },
+      {
+        "from": 30.619,
+        "to": 31.531,
+        "segment": "titans-grove-kom-rev"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": false,
+    "supportsMeetups": true,
     "sports": [
       "running",
       "cycling"
     ],
-    "experience": 625,
+    "experience": 620,
     "difficulty": 3,
-    "duration": 3
+    "duration": 3,
+    "stravaSegmentId": 38008828,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38008828",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/tair-dringfa-fechan",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/tair-dringfa-fechan",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/tair-dringfa-fechan"
   },
   {
     "id": 2064290391,
@@ -5297,7 +6108,8 @@
     "stravaSegmentId": 37731230,
     "stravaSegmentUrl": "https://www.strava.com/segments/37731230",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/power-to-the-tower",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/power-to-the-tower"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/power-to-the-tower",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/power-to-the-tower"
   },
   {
     "id": 2128890027,
@@ -5319,8 +6131,8 @@
     ],
     "segmentsOnRoute": [
       {
-        "from": 8.205,
-        "to": 15.309,
+        "from": 8.187,
+        "to": 15.274,
         "segment": "fuego-flats-rev"
       }
     ],
@@ -5586,6 +6398,35 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/island-hopper"
   },
   {
+    "id": 2143464829,
+    "name": "Bon Voyage",
+    "slug": "2143464829",
+    "world": "france",
+    "eventOnly": false,
+    "distance": 28.208,
+    "elevation": 132,
+    "leadInDistance": 3.241,
+    "leadInElevation": 23,
+    "leadInDistanceFreeRide": 3.092,
+    "leadInElevationFreeRide": 23,
+    "leadInDistanceMeetups": 3.104,
+    "leadInElevationInMeetups": 23,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 565,
+    "difficulty": 2,
+    "duration": 3
+  },
+  {
     "id": 2165880404,
     "name": "London 8 Reverse",
     "slug": "london-8-rev",
@@ -5593,8 +6434,12 @@
     "eventOnly": true,
     "distance": 20.291,
     "elevation": 256,
-    "leadInDistance": 0.175,
+    "leadInDistance": 0.172,
     "leadInElevation": 1,
+    "leadInDistanceFreeRide": 0.029,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.021,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "fox-hill",
       "london-sprint-rev"
@@ -5741,12 +6586,14 @@
     "slug": "london-the-prl-full",
     "world": "london",
     "eventOnly": false,
-    "distance": 173.333,
-    "elevation": 2623,
-    "leadInDistance": 0.457,
+    "distance": 173.335,
+    "elevation": 2624,
+    "leadInDistance": 0.454,
     "leadInElevation": 4,
-    "leadInDistanceMeetups": 0.577,
-    "leadInElevationInMeetups": 5,
+    "leadInDistanceFreeRide": 0.037,
+    "leadInElevationFreeRide": 1,
+    "leadInDistanceMeetups": 0.057,
+    "leadInElevationInMeetups": 1,
     "segments": [
       "london-loop",
       "box-hill",
@@ -5755,112 +6602,112 @@
     "segmentsOnRoute": [
       {
         "from": 0,
-        "to": 14.831,
+        "to": 14.806,
         "segment": "london-loop"
       },
       {
-        "from": 6.262,
-        "to": 9.266,
+        "from": 6.247,
+        "to": 9.212,
         "segment": "box-hill"
       },
       {
-        "from": 14.85,
-        "to": 29.689,
+        "from": 14.806,
+        "to": 29.571,
         "segment": "london-loop"
       },
       {
-        "from": 21.119,
-        "to": 24.124,
+        "from": 21.058,
+        "to": 24.021,
         "segment": "box-hill"
       },
       {
-        "from": 29.708,
-        "to": 44.548,
+        "from": 29.59,
+        "to": 44.365,
         "segment": "london-loop"
       },
       {
-        "from": 35.977,
-        "to": 38.982,
+        "from": 35.843,
+        "to": 38.808,
         "segment": "box-hill"
       },
       {
-        "from": 44.548,
-        "to": 59.406,
+        "from": 44.383,
+        "to": 59.121,
         "segment": "london-loop"
       },
       {
-        "from": 50.836,
-        "to": 53.841,
+        "from": 50.637,
+        "to": 53.579,
         "segment": "box-hill"
       },
       {
-        "from": 59.406,
-        "to": 74.264,
+        "from": 59.121,
+        "to": 73.916,
         "segment": "london-loop"
       },
       {
-        "from": 65.694,
-        "to": 68.699,
+        "from": 65.399,
+        "to": 68.37,
         "segment": "box-hill"
       },
       {
-        "from": 74.264,
-        "to": 89.104,
+        "from": 73.916,
+        "to": 88.683,
         "segment": "london-loop"
       },
       {
-        "from": 80.552,
-        "to": 83.557,
+        "from": 80.192,
+        "to": 83.16,
         "segment": "box-hill"
       },
       {
-        "from": 89.123,
-        "to": 103.964,
+        "from": 88.701,
+        "to": 103.465,
         "segment": "london-loop"
       },
       {
-        "from": 95.411,
-        "to": 98.417,
+        "from": 94.976,
+        "to": 97.942,
         "segment": "box-hill"
       },
       {
-        "from": 103.982,
-        "to": 118.823,
+        "from": 103.483,
+        "to": 118.244,
         "segment": "london-loop"
       },
       {
-        "from": 110.27,
-        "to": 113.276,
+        "from": 109.761,
+        "to": 112.727,
         "segment": "box-hill"
       },
       {
-        "from": 118.842,
-        "to": 133.681,
+        "from": 118.262,
+        "to": 133.008,
         "segment": "london-loop"
       },
       {
-        "from": 125.129,
-        "to": 128.134,
+        "from": 124.537,
+        "to": 127.49,
         "segment": "box-hill"
       },
       {
-        "from": 133.7,
-        "to": 148.538,
+        "from": 133.027,
+        "to": 147.769,
         "segment": "london-loop"
       },
       {
-        "from": 139.987,
-        "to": 142.992,
+        "from": 139.301,
+        "to": 142.253,
         "segment": "box-hill"
       },
       {
-        "from": 148.556,
-        "to": 163.394,
+        "from": 147.787,
+        "to": 162.524,
         "segment": "london-loop"
       },
       {
-        "from": 154.844,
-        "to": 157.849,
+        "from": 154.06,
+        "to": 157.009,
         "segment": "box-hill"
       }
     ],
@@ -5887,7 +6734,7 @@
     "name": "The Magnificent 8",
     "slug": "the-magnificent-8",
     "world": "watopia",
-    "eventOnly": true,
+    "eventOnly": false,
     "distance": 28.932,
     "elevation": 155,
     "leadInDistance": 0.205,
@@ -5990,8 +6837,8 @@
     "slug": "shorelines-and-summits",
     "world": "watopia",
     "eventOnly": false,
-    "distance": 46.188,
-    "elevation": 772,
+    "distance": 46.186,
+    "elevation": 773,
     "leadInDistance": 4.163,
     "leadInElevation": 19,
     "leadInDistanceFreeRide": 3.901,
@@ -6127,14 +6974,15 @@
     "stravaSegmentId": 37097998,
     "stravaSegmentUrl": "https://www.strava.com/segments/37097998",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/itza-climb-finish",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/itza-climb-finish"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/itza-climb-finish",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/itza-climb-finish"
   },
   {
     "id": 2372883204,
     "name": "NYC KOM After Party",
     "slug": "new-york-kom-after-party",
     "world": "new-york",
-    "eventOnly": true,
+    "eventOnly": false,
     "distance": 36.626,
     "elevation": 475,
     "leadInDistance": 0.377,
@@ -6178,8 +7026,8 @@
     "slug": "tire-bouchon",
     "world": "france",
     "eventOnly": false,
-    "distance": 60.775,
-    "elevation": 483,
+    "distance": 60.782,
+    "elevation": 479,
     "leadInDistance": 3.092,
     "leadInElevation": 108,
     "leadInDistanceFreeRide": 3.097,
@@ -6250,7 +7098,7 @@
     "eventOnly": true,
     "distance": 2.79,
     "elevation": 27,
-    "leadInDistance": 1.479,
+    "leadInDistance": 1.424,
     "leadInElevation": 19,
     "segments": [
       "new-york-kom"
@@ -6283,10 +7131,10 @@
     "elevation": 942,
     "leadInDistance": 0.22,
     "leadInElevation": 0,
-    "leadInDistanceFreeRide": 0,
-    "leadInElevationFreeRide": 0,
-    "leadInDistanceMeetups": 0,
-    "leadInElevationInMeetups": 0,
+    "leadInDistanceFreeRide": 0.15,
+    "leadInElevationFreeRide": 1,
+    "leadInDistanceMeetups": 0.15,
+    "leadInElevationInMeetups": 1,
     "segments": [
       "new-york-sprint-rev",
       "new-york-kom"
@@ -6688,7 +7536,7 @@
   {
     "id": 2644664789,
     "name": "Triple Twist",
-    "slug": "2644664789",
+    "slug": "triple-twist",
     "world": "watopia",
     "eventOnly": false,
     "distance": 19.877,
@@ -6699,8 +7547,24 @@
     "leadInElevationFreeRide": 21,
     "leadInDistanceMeetups": 4.478,
     "leadInElevationInMeetups": 21,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "jarvis-sprint-rev",
+      "jarvis-kom-rev",
+      "watopia-sprint-rev",
+      "zwift-kom-rev"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 0.227,
+        "to": 1.528,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 11.018,
+        "to": 13.476,
+        "segment": "zwift-kom-rev"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": true,
@@ -6712,7 +7576,12 @@
     ],
     "experience": 400,
     "difficulty": 3,
-    "duration": 3
+    "duration": 4,
+    "stravaSegmentId": 38138494,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38138494",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/triple-twist",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/triple-twist",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/triple-twist"
   },
   {
     "id": 2653858696,
@@ -6847,7 +7716,7 @@
     "slug": "climb-portal-volcano",
     "world": "watopia",
     "eventOnly": false,
-    "distance": 7.204,
+    "distance": 7.354,
     "elevation": 20,
     "leadInDistance": 1.99,
     "leadInElevation": 12,
@@ -6911,19 +7780,33 @@
   {
     "id": 2698009951,
     "name": "The Classic",
-    "slug": "2698009951",
+    "slug": "the-classic",
     "world": "watopia",
     "eventOnly": false,
     "distance": 4.836,
     "elevation": 48,
     "leadInDistance": 4.181,
     "leadInElevation": 16,
-    "leadInDistanceFreeRide": 3.992,
-    "leadInElevationFreeRide": 16,
-    "leadInDistanceMeetups": 4.008,
-    "leadInElevationInMeetups": 16,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "leadInDistanceFreeRide": 0.005,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.021,
+    "leadInElevationInMeetups": 0,
+    "segments": [
+      "jarvis-kom",
+      "jarvis-sprint"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 0.655,
+        "to": 2.461,
+        "segment": "jarvis-kom"
+      },
+      {
+        "from": 3.804,
+        "to": 4.002,
+        "segment": "jarvis-sprint"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": true,
@@ -6935,7 +7818,12 @@
     ],
     "experience": 100,
     "difficulty": 2,
-    "duration": 2
+    "duration": 1,
+    "stravaSegmentId": 38132897,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38132897",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/the-classic",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/the-classic",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/the-classic"
   },
   {
     "id": 2708527018,
@@ -7183,7 +8071,8 @@
     "stravaSegmentId": 37039562,
     "stravaSegmentUrl": "https://www.strava.com/segments/37039562",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/coastal-crown-loop",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/coastal-crown-loop"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/coastal-crown-loop",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/coastal-crown-loop"
   },
   {
     "id": 2818536273,
@@ -7192,11 +8081,11 @@
     "world": "paris",
     "eventOnly": false,
     "distance": 6.616,
-    "elevation": 40,
+    "elevation": 39,
     "leadInDistance": 3.185,
     "leadInElevation": 13,
     "leadInDistanceFreeRide": 0.005,
-    "leadInElevationFreeRide": 80,
+    "leadInElevationFreeRide": 0,
     "leadInDistanceMeetups": 0.022,
     "leadInElevationInMeetups": 0,
     "segments": [
@@ -7228,9 +8117,9 @@
   {
     "id": 2826340040,
     "name": "Outer Scotland",
-    "slug": "2826340040",
+    "slug": "outer-scotland",
     "world": "scotland",
-    "eventOnly": true,
+    "eventOnly": false,
     "distance": 11.113,
     "elevation": 104,
     "leadInDistance": 0.248,
@@ -7252,7 +8141,12 @@
     ],
     "experience": 220,
     "difficulty": 2,
-    "duration": 2
+    "duration": 2,
+    "stravaSegmentId": 34255102,
+    "stravaSegmentUrl": "https://www.strava.com/segments/34255102",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/outer-scotland",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/scotland/route/outer-scotland",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/outer-scotland"
   },
   {
     "id": 2829629527,
@@ -7329,8 +8223,10 @@
     "elevation": 236,
     "leadInDistance": 0,
     "leadInElevation": 0,
-    "leadInDistanceFreeRide": 0.104,
+    "leadInDistanceFreeRide": 0.103,
     "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.104,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "bologna-tt"
     ],
@@ -7592,6 +8488,54 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/four-horsemen"
   },
   {
+    "id": 2888820995,
+    "name": "Danger Noodle",
+    "slug": "danger-noodle",
+    "world": "watopia",
+    "eventOnly": false,
+    "distance": 32.07,
+    "elevation": 414,
+    "leadInDistance": 0.194,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.015,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.03,
+    "leadInElevationInMeetups": 0,
+    "segments": [
+      "titans-grove-kom",
+      "titans-grove-kom-rev"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 12.943,
+        "to": 13.854,
+        "segment": "titans-grove-kom-rev"
+      },
+      {
+        "from": 22.721,
+        "to": 25.33,
+        "segment": "titans-grove-kom"
+      }
+    ],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 645,
+    "difficulty": 2,
+    "duration": 2,
+    "stravaSegmentId": 38326016,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38326016",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/danger-noodle",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/danger-noodle",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/danger-noodle"
+  },
+  {
     "id": 2896159042,
     "name": "Temples and Towers",
     "slug": "temples-and-towers",
@@ -7782,8 +8726,8 @@
     "slug": "makuri-pretzel",
     "world": "makuri-islands",
     "eventOnly": false,
-    "distance": 77.598,
-    "elevation": 617,
+    "distance": 77.595,
+    "elevation": 618,
     "leadInDistance": 1.124,
     "leadInElevation": 5,
     "leadInDistanceFreeRide": 1.07,
@@ -7822,7 +8766,8 @@
     "stravaSegmentId": 37684132,
     "stravaSegmentUrl": "https://www.strava.com/segments/37684132",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/makuri-pretzel",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/makuri-islands/route/makuri-pretzel"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/makuri-islands/route/makuri-pretzel",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/makuri-pretzel"
   },
   {
     "id": 2945813240,
@@ -7858,7 +8803,7 @@
       "running",
       "cycling"
     ],
-    "experience": 140,
+    "experience": 135,
     "difficulty": 2,
     "duration": 1,
     "stravaSegmentId": 19141192,
@@ -7938,7 +8883,8 @@
     "stravaSegmentId": 36342419,
     "stravaSegmentUrl": "https://www.strava.com/segments/36342419",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/mountain-mash",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/mountain-mash"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/mountain-mash",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/mountain-mash"
   },
   {
     "id": 2954366662,
@@ -7991,7 +8937,7 @@
     "eventOnly": true,
     "distance": 5.181,
     "elevation": 53,
-    "leadInDistance": 0,
+    "leadInDistance": 0.04,
     "leadInElevation": 0,
     "leadInDistanceFreeRide": 0.02,
     "leadInElevationFreeRide": 0,
@@ -8305,7 +9251,7 @@
   {
     "id": 3030004732,
     "name": "Power to the Portal",
-    "slug": "3030004732",
+    "slug": "power-to-the-portal",
     "world": "watopia",
     "eventOnly": true,
     "distance": 17.576,
@@ -8316,7 +9262,10 @@
     "leadInElevationFreeRide": 2,
     "leadInDistanceMeetups": 0.455,
     "leadInElevationInMeetups": 2,
-    "segments": [],
+    "segments": [
+      "jarvis-sprint-rev",
+      "jarvis-kom-rev"
+    ],
     "segmentsOnRoute": [],
     "levelLocked": false,
     "levelLock": "0",
@@ -8329,12 +9278,13 @@
     ],
     "experience": 350,
     "difficulty": 4,
-    "duration": 3
+    "duration": 3,
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/power-to-the-portal"
   },
   {
     "id": 3068694512,
     "name": "The Classic Run",
-    "slug": "3068694512",
+    "slug": "the-classic-run",
     "world": "watopia",
     "eventOnly": false,
     "distance": 4.836,
@@ -8345,8 +9295,22 @@
     "leadInElevationFreeRide": 7,
     "leadInDistanceMeetups": 0.021,
     "leadInElevationInMeetups": 7,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "jarvis-kom",
+      "jarvis-sprint"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 0.655,
+        "to": 2.461,
+        "segment": "jarvis-kom"
+      },
+      {
+        "from": 3.804,
+        "to": 4.002,
+        "segment": "jarvis-sprint"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": true,
@@ -8357,7 +9321,11 @@
     ],
     "experience": 100,
     "difficulty": 1,
-    "duration": 1
+    "duration": 1,
+    "stravaSegmentId": 38132897,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38132897",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/the-classic",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/the-classic-run"
   },
   {
     "id": 3078665969,
@@ -8624,6 +9592,58 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/mountain-8"
   },
   {
+    "id": 3250904331,
+    "name": "London Uprising",
+    "slug": "london-uprising",
+    "world": "london",
+    "eventOnly": false,
+    "distance": 20.576,
+    "elevation": 356,
+    "leadInDistance": 0.336,
+    "leadInElevation": 1,
+    "leadInDistanceFreeRide": 0.15,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.15,
+    "leadInElevationInMeetups": 0,
+    "segments": [
+      "fox-hill",
+      "london-sprint-rev",
+      "box-hill"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 2.185,
+        "to": 4.587,
+        "segment": "fox-hill"
+      },
+      {
+        "from": 12.15,
+        "to": 12.34,
+        "segment": "london-sprint-rev"
+      },
+      {
+        "from": 17.461,
+        "to": 20.458,
+        "segment": "box-hill"
+      }
+    ],
+    "levelLocked": true,
+    "levelLock": "1",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 420,
+    "difficulty": 2,
+    "duration": 2,
+    "stravaSegmentId": 38413079,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38413079",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/london-uprising"
+  },
+  {
     "id": 3261167746,
     "name": "Spiral into the Volcano",
     "slug": "spiral-into-the-volcano",
@@ -8668,20 +9688,21 @@
       "running",
       "cycling"
     ],
-    "experience": 1112,
+    "experience": 1030,
     "difficulty": 3,
     "duration": 3,
     "stravaSegmentId": 20522725,
     "stravaSegmentUrl": "https://www.strava.com/segments/20522725",
     "zwiftInsiderUrl": "https://zwiftinsider.com/spiral-into-the-volcano",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/spiral-into-the-volcano"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/spiral-into-the-volcano",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/spiral-into-the-volcano"
   },
   {
     "id": 3262665065,
     "name": "London Flat",
-    "slug": "3262665065",
+    "slug": "london-flat",
     "world": "london",
-    "eventOnly": true,
+    "eventOnly": false,
     "distance": 11.989,
     "elevation": 115,
     "leadInDistance": 0.389,
@@ -8703,7 +9724,12 @@
     ],
     "experience": 240,
     "difficulty": 1,
-    "duration": 2
+    "duration": 2,
+    "stravaSegmentId": 38274994,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38274994",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/london-flat",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/london/route/london-flat",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/london-flat"
   },
   {
     "id": 3276403604,
@@ -8722,7 +9748,7 @@
     ],
     "segmentsOnRoute": [
       {
-        "from": 12.417,
+        "from": 12.432,
         "to": 15.428,
         "segment": "box-hill"
       }
@@ -8792,9 +9818,9 @@
     "leadInDistance": 0.051,
     "leadInElevation": 0,
     "leadInDistanceFreeRide": 0.01,
-    "leadInElevationFreeRide": 215,
+    "leadInElevationFreeRide": 0,
     "leadInDistanceMeetups": 0.022,
-    "leadInElevationInMeetups": 215,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "castle-park-sprint-rev"
     ],
@@ -8899,22 +9925,23 @@
     "stravaSegmentId": 37049460,
     "stravaSegmentUrl": "https://www.strava.com/segments/37049460",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/snowman",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/snowman"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/snowman",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/snowman"
   },
   {
     "id": 3330165223,
     "name": "Shisa Shakedown",
     "slug": "shisa-shakedown",
     "world": "makuri-islands",
-    "eventOnly": true,
+    "eventOnly": false,
     "distance": 49.443,
     "elevation": 495,
     "leadInDistance": 4.038,
     "leadInElevation": 62,
     "leadInDistanceFreeRide": 0.02,
-    "leadInElevationFreeRide": 150,
+    "leadInElevationFreeRide": 0,
     "leadInDistanceMeetups": 0.035,
-    "leadInElevationInMeetups": 150,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "castle-park-sprint-rev",
       "alley-sprint-rev",
@@ -8944,7 +9971,7 @@
     "levelLock": "0",
     "lap": true,
     "supportsTT": false,
-    "supportsMeetups": false,
+    "supportsMeetups": true,
     "sports": [
       "running",
       "cycling"
@@ -8955,7 +9982,8 @@
     "stravaSegmentId": 37300447,
     "stravaSegmentUrl": "https://www.strava.com/segments/37300447",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/shisa-shakedown",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/makuri-islands/route/shisha-shakedown"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/makuri-islands/route/shisha-shakedown",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/shisa-shakedown"
   },
   {
     "id": 3351665212,
@@ -8965,11 +9993,11 @@
     "eventOnly": false,
     "distance": 3.011,
     "elevation": 33,
-    "leadInDistance": 0.25,
+    "leadInDistance": 0.249,
     "leadInElevation": 0,
-    "leadInDistanceFreeRide": 0.004,
+    "leadInDistanceFreeRide": 0.003,
     "leadInElevationFreeRide": 0,
-    "leadInDistanceMeetups": 0.02,
+    "leadInDistanceMeetups": 0.019,
     "leadInElevationInMeetups": 0,
     "segments": [
       "the-clyde-kicker",
@@ -9225,7 +10253,7 @@
   {
     "id": 3378411990,
     "name": "Waisted 8",
-    "slug": "3378411990",
+    "slug": "waisted-8",
     "world": "watopia",
     "eventOnly": false,
     "distance": 30.687,
@@ -9236,8 +10264,23 @@
     "leadInElevationFreeRide": 0,
     "leadInDistanceMeetups": 0.024,
     "leadInElevationInMeetups": 0,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "jarvis-sprint-rev",
+      "jarvis-kom-rev",
+      "fuego-flats-rev"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 4.258,
+        "to": 5.557,
+        "segment": "jarvis-kom-rev"
+      },
+      {
+        "from": 18.582,
+        "to": 25.665,
+        "segment": "fuego-flats-rev"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": true,
@@ -9249,7 +10292,12 @@
     ],
     "experience": 615,
     "difficulty": 2,
-    "duration": 3
+    "duration": 4,
+    "stravaSegmentId": 38138483,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38138483",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/waisted-8",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/waisted-8",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/waisted-8"
   },
   {
     "id": 3379779247,
@@ -9574,7 +10622,8 @@
     "stravaSegmentId": 37011743,
     "stravaSegmentUrl": "https://www.strava.com/segments/37011743",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/oh-hill-no",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/oh-hill-no"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/oh-hill-no",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/oh-hill-no"
   },
   {
     "id": 3558689342,
@@ -9623,7 +10672,8 @@
     "stravaSegmentId": 37047817,
     "stravaSegmentUrl": "https://www.strava.com/segments/37047817",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/peak-performance",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/peak-performance"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/peak-performance",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/peak-performance"
   },
   {
     "id": 3565430790,
@@ -9675,8 +10725,12 @@
     "eventOnly": true,
     "distance": 36.188,
     "elevation": 431,
-    "leadInDistance": 0.464,
+    "leadInDistance": 0.461,
     "leadInElevation": 4,
+    "leadInDistanceFreeRide": 0.021,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.037,
+    "leadInElevationInMeetups": 1,
     "segments": [
       "london-sprint",
       "keith-hill"
@@ -10044,14 +11098,55 @@
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/new-york/route/hudson-roll"
   },
   {
+    "id": 3669622170,
+    "name": "LaGuardia After Party",
+    "slug": "laguardia-after-party",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 20.74,
+    "elevation": 300,
+    "leadInDistance": 0.051,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.019,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.034,
+    "leadInElevationInMeetups": 0,
+    "segments": [
+      "new-york-sprint",
+      "new-york-kom-rev"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 19.67,
+        "to": 20.808,
+        "segment": "new-york-kom-rev"
+      }
+    ],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 415,
+    "difficulty": 2,
+    "duration": 2,
+    "stravaSegmentId": 38758184,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38758184",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/laguardia-after-party"
+  },
+  {
     "id": 3687150686,
     "name": "Gravel Mountain",
     "slug": "3687150686",
     "world": "GRAVEL MOUNTAIN",
     "eventOnly": true,
-    "distance": 5.181,
+    "distance": 5.18,
     "elevation": 53,
-    "leadInDistance": 0,
+    "leadInDistance": 0.18,
     "leadInElevation": 0,
     "leadInDistanceFreeRide": 0.022,
     "leadInElevationFreeRide": 0,
@@ -10079,8 +11174,8 @@
     "eventOnly": true,
     "distance": 6.857,
     "elevation": 144,
-    "leadInDistance": 2.411,
-    "leadInElevation": 23,
+    "leadInDistance": 2.356,
+    "leadInElevation": 21,
     "segments": [
       "new-york-kom-rev",
       "new-york-sprint-rev"
@@ -10251,7 +11346,8 @@
     "stravaSegmentId": 30326079,
     "stravaSegmentUrl": "https://www.strava.com/segments/30326079",
     "zwiftInsiderUrl": "https://zwiftinsider.com/castle-crit",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/makuri-islands/route/castle-crit"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/makuri-islands/route/castle-crit",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/castle-crit"
   },
   {
     "id": 3707791029,
@@ -10453,8 +11549,8 @@
     "eventOnly": true,
     "distance": 2.791,
     "elevation": 27,
-    "leadInDistance": 2.446,
-    "leadInElevation": 25,
+    "leadInDistance": 2.356,
+    "leadInElevation": 21,
     "segments": [
       "new-york-sprint"
     ],
@@ -10947,7 +12043,8 @@
     "stravaSegmentId": 38009202,
     "stravaSegmentUrl": "https://www.strava.com/segments/38009202",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/richmond-loop-around",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/richmond/route/richmond-loop-around"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/richmond/route/richmond-loop-around",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/richmond-loop-around"
   },
   {
     "id": 3914529041,
@@ -10960,9 +12057,9 @@
     "leadInDistance": 0.109,
     "leadInElevation": 0,
     "leadInDistanceFreeRide": 0.012,
-    "leadInElevationFreeRide": 247,
+    "leadInElevationFreeRide": 0,
     "leadInDistanceMeetups": 0.022,
-    "leadInElevationInMeetups": 247,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "country-sprint",
       "tower-sprint-rev",
@@ -11110,6 +12207,64 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/big-foot-hills"
   },
   {
+    "id": 3961473046,
+    "name": "Hilltop Hustle",
+    "slug": "3961473046",
+    "world": "watopia",
+    "eventOnly": false,
+    "distance": 13.634,
+    "elevation": 336,
+    "leadInDistance": 2.669,
+    "leadInElevation": 10,
+    "leadInDistanceFreeRide": 2.205,
+    "leadInElevationFreeRide": 10,
+    "leadInDistanceMeetups": 2.22,
+    "leadInElevationInMeetups": 10,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 275,
+    "difficulty": 4,
+    "duration": 3
+  },
+  {
+    "id": 3974965857,
+    "name": "Knights of the Roundabout",
+    "slug": "3974965857",
+    "world": "france",
+    "eventOnly": false,
+    "distance": 51.189,
+    "elevation": 336,
+    "leadInDistance": 3.241,
+    "leadInElevation": 23,
+    "leadInDistanceFreeRide": 3.068,
+    "leadInElevationFreeRide": 22,
+    "leadInDistanceMeetups": 3.088,
+    "leadInElevationInMeetups": 22,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 1025,
+    "difficulty": 4,
+    "duration": 4
+  },
+  {
     "id": 3976402826,
     "name": "Greatest London Loop Reverse",
     "slug": "greatest-london-loop-rev",
@@ -11117,8 +12272,12 @@
     "eventOnly": true,
     "distance": 25.671,
     "elevation": 355,
-    "leadInDistance": 0.175,
+    "leadInDistance": 0.172,
     "leadInElevation": 1,
+    "leadInDistanceFreeRide": 0.012,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.023,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "keith-hill"
     ],
@@ -11152,7 +12311,7 @@
     "slug": "volcano-flat",
     "world": "watopia",
     "eventOnly": false,
-    "distance": 12.351,
+    "distance": 12.35,
     "elevation": 50,
     "leadInDistance": 0.492,
     "leadInElevation": 1,
@@ -11219,7 +12378,8 @@
     "stravaSegmentId": 36343069,
     "stravaSegmentUrl": "https://www.strava.com/segments/36343069",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/jurassic-coast",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/jurassic-coast"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/jurassic-coast",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/jurassic-coast"
   },
   {
     "id": 4009235104,
@@ -11295,7 +12455,7 @@
         "segment": "london-sprint"
       },
       {
-        "from": 11.728,
+        "from": 11.744,
         "to": 14.732,
         "segment": "box-hill"
       }
@@ -11365,7 +12525,8 @@
     "stravaSegmentId": 37683459,
     "stravaSegmentUrl": "https://www.strava.com/segments/37683459",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/mayan-8",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/mayan-8"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/mayan-8",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/mayan-8"
   },
   {
     "id": 4102513789,
@@ -11421,11 +12582,12 @@
     ],
     "experience": 410,
     "difficulty": 5,
-    "duration": 2,
+    "duration": 3,
     "stravaSegmentId": 37716248,
     "stravaSegmentUrl": "https://www.strava.com/segments/37716248",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/radio-rendezvous",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/radio-rendezvous"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/radio-rendezvous",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/radio-rendezvous"
   },
   {
     "id": 4107749591,
@@ -11561,11 +12723,12 @@
     ],
     "experience": 915,
     "difficulty": 2,
-    "duration": 2,
+    "duration": 4,
     "stravaSegmentId": 37098941,
     "stravaSegmentUrl": "https://www.strava.com/segments/37098941",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/itza-party",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/itza-party"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/itza-party",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/itza-party"
   },
   {
     "id": 4142772830,
@@ -11657,9 +12820,9 @@
   {
     "id": 4159356920,
     "name": "Petite Douleur",
-    "slug": "4159356920",
+    "slug": "petite-douleur",
     "world": "france",
-    "eventOnly": true,
+    "eventOnly": false,
     "distance": 13.901,
     "elevation": 194,
     "leadInDistance": 10.873,
@@ -11668,7 +12831,10 @@
     "leadInElevationFreeRide": 0,
     "leadInDistanceMeetups": 0.022,
     "leadInElevationInMeetups": 2,
-    "segments": [],
+    "segments": [
+      "ballon-sprint",
+      "petit-kom"
+    ],
     "segmentsOnRoute": [],
     "levelLocked": false,
     "levelLock": "0",
@@ -11681,7 +12847,12 @@
     ],
     "experience": 280,
     "difficulty": 3,
-    "duration": 3
+    "duration": 3,
+    "stravaSegmentId": 24984611,
+    "stravaSegmentUrl": "https://www.strava.com/segments/24984611",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/petite-douleur",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/france/route/petite-douleur",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/petite-douleur"
   },
   {
     "id": 4194352271,
@@ -11729,7 +12900,7 @@
   {
     "id": 4199497144,
     "name": "Coast to Coast",
-    "slug": "4199497144",
+    "slug": "coast-to-coast",
     "world": "watopia",
     "eventOnly": false,
     "distance": 24.092,
@@ -11740,8 +12911,29 @@
     "leadInElevationFreeRide": 10,
     "leadInDistanceMeetups": 0.025,
     "leadInElevationInMeetups": 10,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "sasquatch-sprint",
+      "woodland-sprint",
+      "jarvis-kom",
+      "jarvis-sprint"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 4.297,
+        "to": 4.8,
+        "segment": "woodland-sprint"
+      },
+      {
+        "from": 19.948,
+        "to": 21.76,
+        "segment": "jarvis-kom"
+      },
+      {
+        "from": 23.098,
+        "to": 23.299,
+        "segment": "jarvis-sprint"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": false,
@@ -11753,7 +12945,12 @@
     ],
     "experience": 480,
     "difficulty": 2,
-    "duration": 3
+    "duration": 4,
+    "stravaSegmentId": 38138499,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38138499",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/coast-to-coast",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/coast-to-coast",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/coast-to-coast"
   },
   {
     "id": 4210048937,
@@ -11993,6 +13190,7 @@
     "stravaSegmentId": 37039844,
     "stravaSegmentUrl": "https://www.strava.com/segments/37039844",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/mayan-mash",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/mayan-mash"
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/mayan-mash",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/mayan-mash"
   }
 ]

@@ -15,6 +15,11 @@
     "imageName": "CoalitionAlphaMen2023_thumb"
   },
   {
+    "id": 19657395,
+    "name": "Map My Ride",
+    "imageName": "MapMyRide2025_thumb"
+  },
+  {
     "id": 27953592,
     "name": "Off the Maap 2021 Kit",
     "imageName": "OffTheMaap2021_thumb"
@@ -28,6 +33,11 @@
     "id": 63314504,
     "name": "Ride Australia",
     "imageName": "RideAustralia_thumb"
+  },
+  {
+    "id": 64218091,
+    "name": "LOC_CYCLING_JERSEY_TDF2025",
+    "imageName": "TdF2025_thumb"
   },
   {
     "id": 67952083,
@@ -328,6 +338,11 @@
     "id": 252581346,
     "name": "CHAPTER2",
     "imageName": "Chapter22022_thumb"
+  },
+  {
+    "id": 252998353,
+    "name": "MAAP Privateer Pro.FWD",
+    "imageName": "MAAPPrivateers2025_thumb"
   },
   {
     "id": 253887160,
@@ -760,6 +775,11 @@
     "imageName": "PrudentialRideLondon2019_thumb"
   },
   {
+    "id": 583977270,
+    "name": "Rapha Festive 500 2024 Kit",
+    "imageName": "RaphaFestive5002024_thumb"
+  },
+  {
     "id": 584555341,
     "name": "Sumo Leamington Cycling Team",
     "imageName": "SumoLeamington2022_thumb"
@@ -788,6 +808,11 @@
     "id": 598687666,
     "name": "Arkea-Samsic",
     "imageName": "ArkeaSamsic2019_thumb"
+  },
+  {
+    "id": 598911708,
+    "name": "Chloe Chong 2025",
+    "imageName": "ChloeChong2025_thumb"
   },
   {
     "id": 601928732,
@@ -878,6 +903,11 @@
     "id": 658499945,
     "name": "Team Wiggins 2018",
     "imageName": "TeamWiggins2018_thumb"
+  },
+  {
+    "id": 660445898,
+    "name": "TriDot",
+    "imageName": "TriDot2025_thumb"
   },
   {
     "id": 664084390,
@@ -1008,6 +1038,11 @@
     "id": 773720424,
     "name": "AlienWare",
     "imageName": "AlienWare_thumb"
+  },
+  {
+    "id": 773955143,
+    "name": "Zwift Racing League",
+    "imageName": "ZwiftRacingLeague2025_thumb"
   },
   {
     "id": 774250347,
@@ -1148,6 +1183,11 @@
     "id": 859946666,
     "name": "Bicycle Way Of Life",
     "imageName": "BicycleWayOfLife2023_thumb"
+  },
+  {
+    "id": 861703168,
+    "name": "Inside Out",
+    "imageName": "ZwiftCampInsideOut2025_thumb"
   },
   {
     "id": 866555848,
@@ -1300,6 +1340,11 @@
     "imageName": "Ekoi2022_thumb"
   },
   {
+    "id": 973566687,
+    "name": "Velo",
+    "imageName": "Velo2025_thumb"
+  },
+  {
     "id": 980654946,
     "name": "Deloitte Digital",
     "imageName": "DeloitteDigital_thumb"
@@ -1328,6 +1373,11 @@
     "id": 1000257656,
     "name": "Rocacorba",
     "imageName": "Rocacorba2021_thumb"
+  },
+  {
+    "id": 1002826560,
+    "name": "Mono Jazz Kit",
+    "imageName": "BigSpin90s2025_thumb"
   },
   {
     "id": 1016760902,
@@ -1430,6 +1480,11 @@
     "imageName": "TRINITYTraining2022_thumb"
   },
   {
+    "id": 1082709445,
+    "name": "Y2K Hacker Kit",
+    "imageName": "BigSpin00s2025_thumb"
+  },
+  {
     "id": 1086432412,
     "name": "Alpine Slopes 2",
     "imageName": "Zwift_Ski02_thumb"
@@ -1498,6 +1553,11 @@
     "id": 1147316612,
     "name": "Plantur-Pura Cycling Team",
     "imageName": "PlanturPura2022_thumb"
+  },
+  {
+    "id": 1154743953,
+    "name": "Sansego Tri Kit",
+    "imageName": "SansegoTri2024_thumb"
   },
   {
     "id": 1154847422,
@@ -1598,6 +1658,11 @@
     "id": 1217780981,
     "name": "KLUB",
     "imageName": "ZwiftKlub2024_thumb"
+  },
+  {
+    "id": 1218867486,
+    "name": "Movistar",
+    "imageName": "Movistar2025_thumb"
   },
   {
     "id": 1233478884,
@@ -1715,6 +1780,11 @@
     "imageName": "CanyonCommunity2019_thumb"
   },
   {
+    "id": 1306045146,
+    "name": "Sir Chris Hoy Tour de 4",
+    "imageName": "TourDe42025_thumb"
+  },
+  {
     "id": 1306416237,
     "name": "Dutch Racing 2020",
     "imageName": "DutchRacing2020_thumb"
@@ -1780,6 +1850,11 @@
     "imageName": "Trainsharp_thumb"
   },
   {
+    "id": 1343864259,
+    "name": "Soudal Quick-Step",
+    "imageName": "SoudalQuickStep2025_thumb"
+  },
+  {
     "id": 1346889258,
     "name": "BMC",
     "imageName": "BMC_2014_thumb"
@@ -1813,6 +1888,11 @@
     "id": 1384420643,
     "name": "Wahoo Custom",
     "imageName": "WahooCustom2018_thumb"
+  },
+  {
+    "id": 1384679199,
+    "name": "Outside",
+    "imageName": "OutsideMagazine2025_thumb"
   },
   {
     "id": 1391024631,
@@ -1960,6 +2040,11 @@
     "imageName": "BRTWomens2019_thumb"
   },
   {
+    "id": 1561604078,
+    "name": "TNT Eurosport",
+    "imageName": "TNTEurosport2025_thumb"
+  },
+  {
     "id": 1566215999,
     "name": "MyProCoach",
     "imageName": "MyProCoach2023_thumb"
@@ -1983,6 +2068,11 @@
     "id": 1582340905,
     "name": "zFondo Jan 2021",
     "imageName": "ZFondo2021Jan_thumb"
+  },
+  {
+    "id": 1585838103,
+    "name": "C//S",
+    "imageName": "CanyonSRAMRacing2025_thumb"
   },
   {
     "id": 1587982785,
@@ -2070,6 +2160,11 @@
     "imageName": "SEGRacing2019_thumb"
   },
   {
+    "id": 1633681400,
+    "name": "AG Insurance - Soudal",
+    "imageName": "AGInsuranceSoudal2025_thumb"
+  },
+  {
     "id": 1642088012,
     "name": "HISP",
     "imageName": "HispCommunity2023_thumb"
@@ -2110,6 +2205,11 @@
     "imageName": "NextEnshored2021_thumb"
   },
   {
+    "id": 1653550906,
+    "name": "Royal Navy Membership",
+    "imageName": "RoyalNavy2024_thumb"
+  },
+  {
     "id": 1653888411,
     "name": "Tiger Print",
     "imageName": "ZwiftAnimals01_thumb"
@@ -2118,6 +2218,16 @@
     "id": 1665932906,
     "name": "Zwift Riders Scotland",
     "imageName": "ZRScotland2022_thumb"
+  },
+  {
+    "id": 1668644908,
+    "name": "FDJ Suez",
+    "imageName": "FDJSuez2025_thumb"
+  },
+  {
+    "id": 1675960659,
+    "name": "Amatori",
+    "imageName": "Amatori2025_thumb"
   },
   {
     "id": 1676005799,
@@ -2133,6 +2243,11 @@
     "id": 1697837945,
     "name": "Kiwi Crew",
     "imageName": "KiwiCrew2022_thumb"
+  },
+  {
+    "id": 1699319860,
+    "name": "Rosa",
+    "imageName": "RosaKloser2025_thumb"
   },
   {
     "id": 1701380341,
@@ -2198,6 +2313,11 @@
     "id": 1771577861,
     "name": "Rapha Womens 100 2022",
     "imageName": "RaphaWomens1002022_thumb"
+  },
+  {
+    "id": 1773387846,
+    "name": "Groovy Tile Kit",
+    "imageName": "BigSpin70s2025_thumb"
   },
   {
     "id": 1774347173,
@@ -2268,6 +2388,11 @@
     "id": 1827481335,
     "name": "Korea Cup",
     "imageName": "KoreaCup2018_thumb"
+  },
+  {
+    "id": 1831691152,
+    "name": "Red Bull Bora Hansgrohe 2025",
+    "imageName": "BoraHansgrohe2025_thumb"
   },
   {
     "id": 1832490174,
@@ -2428,6 +2553,11 @@
     "id": 1953455256,
     "name": "Ruhrrider 2022",
     "imageName": "RuhrRiders2022_thumb"
+  },
+  {
+    "id": 1955353089,
+    "name": "Uno-X Mobility 2025",
+    "imageName": "UnoX2025_thumb"
   },
   {
     "id": 1965538384,
@@ -2693,6 +2823,11 @@
     "id": 2219699088,
     "name": "Team PTz",
     "imageName": "TeamPTZ_thumb"
+  },
+  {
+    "id": 2237514524,
+    "name": "Alpecin Kit",
+    "imageName": "AlpecinDeceuninck2025_thumb"
   },
   {
     "id": 2242745186,
@@ -3038,6 +3173,11 @@
     "id": 2515880534,
     "name": "ZZRC",
     "imageName": "ZZRC_thumb"
+  },
+  {
+    "id": 2518959415,
+    "name": "DAS-Hutchinson 2025",
+    "imageName": "DASHutchinsonBrother2025_thumb"
   },
   {
     "id": 2521862418,
@@ -3665,6 +3805,11 @@
     "imageName": "Zwift_zFondo2018_Aug_thumb"
   },
   {
+    "id": 3020192776,
+    "name": "Human Powered Health 2025",
+    "imageName": "HPH2025_thumb"
+  },
+  {
     "id": 3020536025,
     "name": "Groupama FDJ",
     "imageName": "FDJMens2020_thumb"
@@ -3713,6 +3858,11 @@
     "id": 3068939527,
     "name": "Cycling Tips",
     "imageName": "CyclingTips_thumb"
+  },
+  {
+    "id": 3069539582,
+    "name": "Rapha Cycling Club Kit 2025",
+    "imageName": "RaphaRCC2024_thumb"
   },
   {
     "id": 3073658735,
@@ -3775,9 +3925,19 @@
     "imageName": "WLBB2023_thumb"
   },
   {
+    "id": 3122850768,
+    "name": "MAAP X Specialized ADL 2025 Kit",
+    "imageName": "MAAPADL2024_thumb"
+  },
+  {
     "id": 3127040018,
     "name": "CCP Zwift Kit",
     "imageName": "CCP_Zwift_Kit_thumb"
+  },
+  {
+    "id": 3135682971,
+    "name": "Fenix Deceuninck",
+    "imageName": "FenixDeceuninck2025_thumb"
   },
   {
     "id": 3150462918,
@@ -3798,6 +3958,11 @@
     "id": 3163204428,
     "name": "NEXT",
     "imageName": "Next20201_thumb"
+  },
+  {
+    "id": 3165152112,
+    "name": "Shimano Super Cycling Sunday",
+    "imageName": "ShimanoSuperCyclingSunday2025_thumb"
   },
   {
     "id": 3168395763,
@@ -3985,6 +4150,11 @@
     "imageName": "TdTietema2022_thumb"
   },
   {
+    "id": 3331801131,
+    "name": "Ascenders",
+    "imageName": "Ascenders2025_thumb"
+  },
+  {
     "id": 3334670194,
     "name": "Giro De Rigo",
     "imageName": "GiroDeRigo2020_thumb"
@@ -4148,6 +4318,11 @@
     "id": 3427652207,
     "name": "Liv Ride Like King 2018",
     "imageName": "RideLikeKing2018_thumb"
+  },
+  {
+    "id": 3428900007,
+    "name": "2025 Zwift Games Kit",
+    "imageName": "ZwiftGames2025_thumb"
   },
   {
     "id": 3430221138,
@@ -4490,6 +4665,11 @@
     "imageName": "StravaPremium2021_thumb"
   },
   {
+    "id": 3706126184,
+    "name": "TrainerRoad Kit",
+    "imageName": "TrainerRoad2024_thumb"
+  },
+  {
     "id": 3706523886,
     "name": "Cigala Cycling",
     "imageName": "CigalaCycling2023_thumb"
@@ -4535,9 +4715,19 @@
     "imageName": "Canyon_thumb"
   },
   {
+    "id": 3733288445,
+    "name": "ZZRC",
+    "imageName": "ZZRC2025_thumb"
+  },
+  {
     "id": 3738771064,
     "name": "Rocacorba Collective",
     "imageName": "RocacorbaCollective2024_thumb"
+  },
+  {
+    "id": 3739190510,
+    "name": "TTL Kit",
+    "imageName": "TTLPaulaFindlay2024_thumb"
   },
   {
     "id": 3743745974,
@@ -4563,6 +4753,11 @@
     "id": 3761002195,
     "name": "Basic 4",
     "imageName": "Plain_05_thumb"
+  },
+  {
+    "id": 3763606106,
+    "name": "Lucy Charles Barclay Kit",
+    "imageName": "LucyCharlesBarclay2024_thumb"
   },
   {
     "id": 3763851073,
@@ -4695,13 +4890,18 @@
     "imageName": "ZSUN_thumb"
   },
   {
+    "id": 3858307522,
+    "name": "BMTR",
+    "imageName": "BMTR2025_thumb"
+  },
+  {
     "id": 3858579217,
     "name": "Team ODivaZ 2018",
     "imageName": "ODZ2018Womens_thumb"
   },
   {
     "id": 3859182028,
-    "name": "The Carnival 2020",
+    "name": "ZTPL Kit",
     "imageName": "TheCarnival2020_thumb"
   },
   {
@@ -4810,6 +5010,11 @@
     "imageName": "Richmond_2015_thumb"
   },
   {
+    "id": 3914937251,
+    "name": "Team Jayco Alula 2025",
+    "imageName": "JaycoAlula2025_thumb"
+  },
+  {
     "id": 3917484491,
     "name": "Camo 3",
     "imageName": "Zwift_Camo_03_thumb"
@@ -4821,7 +5026,7 @@
   },
   {
     "id": 3925895941,
-    "name": "LOC_ACCESSORY_EVO_CYCLING_CLUB_2024",
+    "name": "EVO Black Kit",
     "imageName": "EvoCyclingClub2024_thumb"
   },
   {
@@ -5115,6 +5320,11 @@
     "imageName": "ParkHotelValkenburg2020_thumb"
   },
   {
+    "id": 4102986832,
+    "name": "twenty28",
+    "imageName": "TWENTY282025_thumb"
+  },
+  {
     "id": 4107861598,
     "name": "Super League Tri Arena Games - Pink Jersey",
     "imageName": "SLT2022pink_thumb"
@@ -5180,6 +5390,11 @@
     "imageName": "ZwiftZFondoApr2019_thumb"
   },
   {
+    "id": 4144758799,
+    "name": "LOC_CYCLING_JERSEY_RIDELIKEKING2025",
+    "imageName": "RideLikeKing2025_thumb"
+  },
+  {
     "id": 4144972561,
     "name": "Northhampton CC",
     "imageName": "NorthhamptonCC_thumb"
@@ -5223,6 +5438,11 @@
     "id": 4191972189,
     "name": "Cofidis",
     "imageName": "Cofidis2019_thumb"
+  },
+  {
+    "id": 4199232640,
+    "name": "Memphis Milano Kit",
+    "imageName": "BigSpin80s2025_thumb"
   },
   {
     "id": 4199295486,
@@ -5318,5 +5538,10 @@
     "id": 4288197284,
     "name": "Z Racing B",
     "imageName": "ZRacingB_thumb"
+  },
+  {
+    "id": 4292298859,
+    "name": "Freddy Ovett",
+    "imageName": "FreddyOvett2025_thumb"
   }
 ]

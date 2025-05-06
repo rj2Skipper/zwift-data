@@ -15,6 +15,11 @@
     "imageName": "Glasses_Original"
   },
   {
+    "id": 599629269,
+    "name": "Oakley Velo Kato",
+    "imageName": "Glasses_OakleyVeloKato2025"
+  },
+  {
     "id": 817902595,
     "name": "Wave Wearers",
     "imageName": "Glasses_Generic01"
@@ -148,6 +153,11 @@
     "id": 3027735239,
     "name": "Vintage Goggles",
     "imageName": "Glasses_Goggles"
+  },
+  {
+    "id": 3030096148,
+    "name": "Chrome Sunglasses",
+    "imageName": "Glasses_BigSpin2025"
   },
   {
     "id": 3171375327,

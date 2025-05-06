@@ -51,13 +51,13 @@
     "id": 13,
     "name": "FINISHED EVENT",
     "imageName": "FINISHED_EVENT",
-    "priority": 12
+    "priority": 13
   },
   {
     "id": 15,
     "name": "FINISHED WORKOUT",
     "imageName": "FINISHED_WORKOUT",
-    "priority": 13
+    "priority": 14
   },
   {
     "id": 17,
@@ -73,12 +73,18 @@
   },
   {
     "id": 20,
-    "name": "ACTIVITY BESTS",
-    "imageName": "ACTIVITY_BESTS",
-    "priority": 14
+    "name": "BIKE UPGRADE UNLOCKED!",
+    "imageName": "BIKEUPGRADE_UNLOCKED",
+    "priority": 12
   },
   {
-    "id": 32,
+    "id": 21,
+    "name": "ACTIVITY BESTS",
+    "imageName": "ACTIVITY_BESTS",
+    "priority": 15
+  },
+  {
+    "id": 33,
     "name": "SPECIAL EVENT",
     "imageName": "SPECIAL_EVENT",
     "priority": 9

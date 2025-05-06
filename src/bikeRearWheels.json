@@ -1,8 +1,18 @@
 [
   {
+    "id": 21937401,
+    "name": "Roval PROJECT 74",
+    "imageName": "Wheel_RovalProject74"
+  },
+  {
     "id": 59917648,
     "name": "Roval CLX64",
     "imageName": "Wheel_SpecializedRovalCLX64"
+  },
+  {
+    "id": 201030698,
+    "name": "Cannondale R4000 Roller Blade",
+    "imageName": "Wheel_CannondalePong"
   },
   {
     "id": 214800767,
@@ -35,6 +45,11 @@
     "imageName": "Wheel_Zipp454"
   },
   {
+    "id": 477583088,
+    "name": "Zwift Groovy Time Trial Wheels",
+    "imageName": "Wheel_BigSpin2025"
+  },
+  {
     "id": 530549195,
     "name": "Shimano C40",
     "imageName": "Wheel_ShimanoDuraAceC40"
@@ -63,6 +78,11 @@
     "id": 1023074440,
     "name": "Giant SLR 0",
     "imageName": "Wheel_AdvancedPropel"
+  },
+  {
+    "id": 1040669859,
+    "name": "Zwift BMX Bandit",
+    "imageName": "Wheel_BigSpinBMX2025"
   },
   {
     "id": 1207119882,
@@ -266,7 +286,7 @@
   },
   {
     "id": 4097663513,
-    "name": "Pinarello Pinarello Espada",
+    "name": "Pinarello Espada",
     "imageName": "Wheel_PinarelloEspadaDisc"
   },
   {
