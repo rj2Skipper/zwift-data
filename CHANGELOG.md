@@ -1,3 +1,81 @@
+# [1.43.0](https://github.com/andipaetzold/zwift-data/compare/v1.42.4...v1.43.0) (2025-03-22)
+
+
+### Features
+
+* March 2025 update ([#164](https://github.com/andipaetzold/zwift-data/issues/164)) ([27571fb](https://github.com/andipaetzold/zwift-data/commit/27571fb9bf0cad49d5afeae1edfb4d087e1cd6bd))
+
+## [1.42.4](https://github.com/andipaetzold/zwift-data/compare/v1.42.3...v1.42.4) (2025-03-07)
+
+
+### Bug Fixes
+
+* Update data ([#161](https://github.com/andipaetzold/zwift-data/issues/161)) ([4ceda23](https://github.com/andipaetzold/zwift-data/commit/4ceda237e6e4a0358badc697be67f33e268ca3a5))
+
+## [1.42.3](https://github.com/andipaetzold/zwift-data/compare/v1.42.2...v1.42.3) (2025-02-28)
+
+
+### Bug Fixes
+
+* Update data ([#158](https://github.com/andipaetzold/zwift-data/issues/158)) ([c1f27ee](https://github.com/andipaetzold/zwift-data/commit/c1f27ee0418b3dd218579c4decf72f46ff7a2104))
+
+## [1.42.2](https://github.com/andipaetzold/zwift-data/compare/v1.42.1...v1.42.2) (2025-02-18)
+
+
+### Bug Fixes
+
+* Update data ([#156](https://github.com/andipaetzold/zwift-data/issues/156)) ([7647bbd](https://github.com/andipaetzold/zwift-data/commit/7647bbdd2276e099f0c897ecec8f9b863c6762c7))
+
+## [1.42.1](https://github.com/andipaetzold/zwift-data/compare/v1.42.0...v1.42.1) (2025-02-09)
+
+
+### Bug Fixes
+
+* Update data ([#154](https://github.com/andipaetzold/zwift-data/issues/154)) ([5835119](https://github.com/andipaetzold/zwift-data/commit/58351195e864b3149b2ab145390c120e58636d58))
+
+# [1.42.0](https://github.com/andipaetzold/zwift-data/compare/v1.41.0...v1.42.0) (2025-01-30)
+
+
+### Features
+
+* Danger Noodle ([#152](https://github.com/andipaetzold/zwift-data/issues/152)) ([e663c28](https://github.com/andipaetzold/zwift-data/commit/e663c280fb446d4b5efa2854db8625c9a4bc32fb))
+
+# [1.41.0](https://github.com/andipaetzold/zwift-data/compare/v1.40.3...v1.41.0) (2025-01-11)
+
+
+### Features
+
+* January 2025 update ([#151](https://github.com/andipaetzold/zwift-data/issues/151)) ([8b549cf](https://github.com/andipaetzold/zwift-data/commit/8b549cfc051e45f0e8048dace485bb06eb1afa3a))
+
+## [1.40.3](https://github.com/andipaetzold/zwift-data/compare/v1.40.2...v1.40.3) (2024-12-20)
+
+
+### Bug Fixes
+
+* Update data ([#147](https://github.com/andipaetzold/zwift-data/issues/147)) ([6b2ee16](https://github.com/andipaetzold/zwift-data/commit/6b2ee16cec7aaa6659bb28d64d57cd20c21a5192))
+
+## [1.40.2](https://github.com/andipaetzold/zwift-data/compare/v1.40.1...v1.40.2) (2024-12-06)
+
+
+### Bug Fixes
+
+* Update data ([#146](https://github.com/andipaetzold/zwift-data/issues/146)) ([64fce5d](https://github.com/andipaetzold/zwift-data/commit/64fce5dcc0cc2dab92f78299122b5eb58e15b4c1))
+
+## [1.40.1](https://github.com/andipaetzold/zwift-data/compare/v1.40.0...v1.40.1) (2024-12-04)
+
+
+### Bug Fixes
+
+* typo in "Coast to Coast" slug ([5de1a17](https://github.com/andipaetzold/zwift-data/commit/5de1a172036323dd46a30cd872db4a7f08cca28d))
+* update segment of "Deca Dash" ([44e56ed](https://github.com/andipaetzold/zwift-data/commit/44e56ed64717588433e474766fc2f27907d00568))
+
+# [1.40.0](https://github.com/andipaetzold/zwift-data/compare/v1.39.2...v1.40.0) (2024-11-21)
+
+
+### Features
+
+* November 2024 update  ([#139](https://github.com/andipaetzold/zwift-data/issues/139)) ([e6dfeec](https://github.com/andipaetzold/zwift-data/commit/e6dfeec2903d127ded240cc39de3ad38355f67d1))
+
 ## [1.39.2](https://github.com/andipaetzold/zwift-data/compare/v1.39.1...v1.39.2) (2024-10-23)
 
 

@@ -58,8 +58,9 @@ export async function updateData() {
       //rj2: don't skip any route, i want them all
       /*if (
         item.map === "" ||
-        item.map === "GRAVEL MOUNTAIN"  // skip until release or map bounds are available
-        //item.name === "Critcade Test" // skip test route
+        item.map === "GRAVEL MOUNTAIN" || // skip until release or map bounds are available
+        item.name === "Critcade Test" || // skip test route
+        item.name === "Hilltop Hustle" // not enough data
       ) {
         continue;
       }*/
@@ -118,7 +119,7 @@ export async function updateData() {
         experience:
           item.xp && +item.xp > 10
             ? +item.xp
-            : manualRouteData?.experience ?? undefined,
+            : (manualRouteData?.experience ?? undefined),
         difficulty: parseFloat(item.difficulty),
         duration: parseFloat(item.duration),
         stravaSegmentId: manualRouteData?.stravaSegmentId ?? undefined,

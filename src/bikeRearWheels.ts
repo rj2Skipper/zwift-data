@@ -2,19 +2,23 @@ import { BikeRearWheel } from "./types";
 
 export const bikeRearWheels: ReadonlyArray<BikeRearWheel> = (
   [
+    [21937401, "Roval PROJECT 74", "Wheel_RovalProject74"],
     [59917648, "Roval CLX64", "Wheel_SpecializedRovalCLX64"],
+    [201030698, "Cannondale R4000 Roller Blade", "Wheel_CannondalePong"],
     [214800767, "Zipp 808", "Wheel_Zipp808Firecrest"],
     [345690674, "Zwift Zwift Trike", "Wheel_ZwiftBW"],
     [393022867, "Zipp 808/Super9", "Wheel_ZippDisc"],
     [413360396, "Mavic Cosmic Ultimate UST", "Wheel_MavicCosmicUltUST"],
     [413430806, "Zwift Zwift BW Concept Rear Wheel", "Wheel_ZwiftBW"],
     [461030369, "Zipp 454", "Wheel_Zipp454"],
+    [477583088, "Zwift Groovy Time Trial Wheels", "Wheel_BigSpin2025"],
     [530549195, "Shimano C40", "Wheel_ShimanoDuraAceC40"],
     [705669234, "Zwift Plain", "Wheel_ZwiftPlain"],
     [881139533, "Zipp 858", "Wheel_Zipp858"],
     [886534142, "Enve SES 7.8", "Wheel_Enve78"],
     [961116451, "Zwift Concept", "Wheel_ZwiftConcept"],
     [1023074440, "Giant SLR 0", "Wheel_AdvancedPropel"],
+    [1040669859, "Zwift BMX Bandit", "Wheel_BigSpinBMX2025"],
     [1207119882, "Shimano C60", "Wheel_ShimanoDuraAceC60"],
     [1248620278, "Cadex CADEX AR 35", "Wheel_CadexAR35"],
     [1347687916, "Cadex CADEX 42", "Wheel_Cadex42"],
