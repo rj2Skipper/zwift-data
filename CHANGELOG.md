@@ -1,3 +1,31 @@
+## [1.44.3](https://github.com/andipaetzold/zwift-data/compare/v1.44.2...v1.44.3) (2025-08-29)
+
+
+### Bug Fixes
+
+* Update data ([#175](https://github.com/andipaetzold/zwift-data/issues/175)) ([7b684c0](https://github.com/andipaetzold/zwift-data/commit/7b684c078277b5ddbe5b25168ff97f477ca54e02))
+
+## [1.44.2](https://github.com/andipaetzold/zwift-data/compare/v1.44.1...v1.44.2) (2025-08-16)
+
+
+### Bug Fixes
+
+* Update data ([#174](https://github.com/andipaetzold/zwift-data/issues/174)) ([edbdaef](https://github.com/andipaetzold/zwift-data/commit/edbdaef1844efd25879890d77814853752a6a475))
+
+## [1.44.1](https://github.com/andipaetzold/zwift-data/compare/v1.44.0...v1.44.1) (2025-08-03)
+
+
+### Bug Fixes
+
+* Update data ([#172](https://github.com/andipaetzold/zwift-data/issues/172)) ([ff3a21b](https://github.com/andipaetzold/zwift-data/commit/ff3a21bf5e6f322443e03fd2b320d02825a9c32c))
+
+# [1.44.0](https://github.com/andipaetzold/zwift-data/compare/v1.43.0...v1.44.0) (2025-07-22)
+
+
+### Features
+
+* Q2 2025 update ([#170](https://github.com/andipaetzold/zwift-data/issues/170)) ([8b057e6](https://github.com/andipaetzold/zwift-data/commit/8b057e684d4eefbb1b31f2ca98f27c854b4f38f1))
+
 # [1.43.0](https://github.com/andipaetzold/zwift-data/compare/v1.42.4...v1.43.0) (2025-03-22)
 
 

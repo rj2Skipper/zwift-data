@@ -43,6 +43,7 @@ export const headgears: ReadonlyArray<Headgear> = (
     [639195682, "Zwift Academy Tri 2019", "VisorZwiftAcademyTri2020_Thumb"],
     [677371865, "90s Headphones", "HeadphonesBigSpin90s2025_thumb"],
     [765196864, "Newsy", "Newsy"],
+    [769319873, "2025 Zwift Camp: Baseline", "ZwiftCampBaseline2025_thumb"],
     [
       788235908,
       "Tour de Zwift 2022 Run Cap",
@@ -135,6 +136,7 @@ export const headgears: ReadonlyArray<Headgear> = (
     [2529465619, "Wahoo Custom", "WahooCustomCap2018_thumb"],
     [2546356403, "Le Beret", "CyclingCap_BigSpinBeret2024_thumb"],
     [2551213910, "2025 Watch the Femmes", "HeadphonesWatchTheFemmes2025_thumb"],
+    [2566547961, "Ekoi", "EkoiRAero2025_thumb"],
     [2595853305, "Granny Visor", "VisorBigSpin2025_thumb"],
     [2631621268, "2025 Tour de Zwift", "TourDeZwift2025_thumb"],
     [2638087379, "Zwift Academy Women 2018", "RunningCap_ZA2018_Womens"],
@@ -142,7 +144,7 @@ export const headgears: ReadonlyArray<Headgear> = (
     [2640370438, "Big Spin 2025 Headphones", "HeadphonesBigSpin2025_thumb"],
     [2656884789, "Off the MAAP 2021 Cap", "BackwardsCapOffTheMaap2021_thumb"],
     [2664954147, "NY Baseball Cap", "BackwardsBaseballCap2024_thumb"],
-    [2684416694, "Orange Headphones", "HeadphonesBigSpin2024_thumb"],
+    [2684416694, "Zwift x H20", "HeadphonesBigSpin2024_thumb"],
     [2698520959, "Zwift Running Cap", "RunningCap_Orange"],
     [
       2748617150,
@@ -192,6 +194,7 @@ export const headgears: ReadonlyArray<Headgear> = (
     [3290534814, "Dino Power", "CyclingCapDinoPower_thumb"],
     [3291118897, "ZRS Ciele", "RcZRSCiele2020_thumb"],
     [3324753264, "Rapha Rising 2022", "CyclingCapRaphaRising2022_thumb"],
+    [3339150633, "2025 Zwift Unlocked", "BeanieZwiftUnlocked2025_thumb"],
     [3346861673, "Giro Eclipse Canyon SRAM", "GiroEclipseCanyonSRAM2021"],
     [3351716541, "Retro 80's", "80sHelmet"],
     [3354474434, "Specialized Mix Tape", "SpecializedMixTape2019"],
@@ -202,6 +205,7 @@ export const headgears: ReadonlyArray<Headgear> = (
     [3460366108, "Sticker Skate Helmet", "BigSpinHelmet2025_thumb"],
     [3500373581, "2021 ZA Run Hat", "RunningCapZARun2021_thumb"],
     [3525135378, "2021 ZA Tri Hat Backwards", "BackwardsCapZARun2021_thumb"],
+    [3534088186, "Didi the Devil", "DevilHorns2025_thumb"],
     [
       3556872596,
       "Tour of Watopia '24 Bikepacker",
