@@ -960,6 +960,102 @@
     "duration": null
   },
   {
+    "id": 10045,
+    "name": "Mûr De Bretagne",
+    "slug": "10045",
+    "world": "",
+    "eventOnly": false,
+    "distance": 197.123,
+    "elevation": 12883,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
+    "id": 10046,
+    "name": "Hautacam",
+    "slug": "10046",
+    "world": "",
+    "eventOnly": false,
+    "distance": 1269.735,
+    "elevation": 102303,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
+    "id": 10047,
+    "name": "Col de la Croix Saint-Robert",
+    "slug": "10047",
+    "world": "",
+    "eventOnly": false,
+    "distance": 573.22,
+    "elevation": 34553,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
+    "id": 10048,
+    "name": "Col de la Madeleine",
+    "slug": "10048",
+    "world": "",
+    "eventOnly": false,
+    "distance": 1430.863,
+    "elevation": 111083,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
     "id": 5103974,
     "name": "Lady Liberty",
     "slug": "lady-liberty",
@@ -1333,7 +1429,7 @@
   {
     "id": 136140280,
     "name": "Sacre Bleu",
-    "slug": "136140280",
+    "slug": "sacre-bleu",
     "world": "france",
     "eventOnly": false,
     "distance": 71.18,
@@ -1344,8 +1440,34 @@
     "leadInElevationFreeRide": 5,
     "leadInDistanceMeetups": 0.574,
     "leadInElevationInMeetups": 5,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "aqueduc-kom-rev",
+      "ballon-sprint-rev",
+      "aqueduc-kom",
+      "marina-sprint"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 8.416,
+        "to": 8.814,
+        "segment": "aqueduc-kom-rev"
+      },
+      {
+        "from": 12.806,
+        "to": 13.142,
+        "segment": "ballon-sprint-rev"
+      },
+      {
+        "from": 43.45,
+        "to": 43.874,
+        "segment": "aqueduc-kom"
+      },
+      {
+        "from": 59.166,
+        "to": 59.511,
+        "segment": "marina-sprint"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": true,
@@ -1357,7 +1479,10 @@
     ],
     "experience": 1425,
     "difficulty": 3,
-    "duration": 4
+    "duration": 4,
+    "stravaSegmentId": 39270823,
+    "stravaSegmentUrl": "https://www.strava.com/segments/39270823",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/sacre-bleu"
   },
   {
     "id": 136957568,
@@ -2046,7 +2171,7 @@
   {
     "id": 319138658,
     "name": "Three Musketeers",
-    "slug": "319138658",
+    "slug": "three-musketeers",
     "world": "france",
     "eventOnly": false,
     "distance": 35.195,
@@ -2057,8 +2182,22 @@
     "leadInElevationFreeRide": 5,
     "leadInDistanceMeetups": 0.618,
     "leadInElevationInMeetups": 5,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "aqueduc-kom-rev",
+      "ballon-sprint-rev"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 8.406,
+        "to": 8.817,
+        "segment": "aqueduc-kom-rev"
+      },
+      {
+        "from": 12.813,
+        "to": 13.131,
+        "segment": "ballon-sprint-rev"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": true,
@@ -2070,7 +2209,11 @@
     ],
     "experience": 705,
     "difficulty": 3,
-    "duration": 4
+    "duration": 4,
+    "stravaSegmentId": 38873256,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38873256",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/three-musketeers",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/france/route/three-musketeers"
   },
   {
     "id": 352245150,
@@ -2106,7 +2249,7 @@
   {
     "id": 358794394,
     "name": "Ven-10",
-    "slug": "358794394",
+    "slug": "ven-10",
     "world": "france",
     "eventOnly": false,
     "distance": 10,
@@ -2130,7 +2273,11 @@
     ],
     "experience": 200,
     "difficulty": 4,
-    "duration": 4
+    "duration": 4,
+    "stravaSegmentId": 38856912,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38856912",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/ven-10",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/france/route/ven-10"
   },
   {
     "id": 377566656,
@@ -2295,8 +2442,8 @@
     "experience": 1000,
     "difficulty": 3,
     "duration": 4,
-    "stravaSegmentId": 38146678,
-    "stravaSegmentUrl": "https://www.strava.com/segments/38146678",
+    "stravaSegmentId": 39270881,
+    "stravaSegmentUrl": "https://www.strava.com/segments/39270881",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/deca-dash",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/deca-dash",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/deca-dash"
@@ -2548,7 +2695,7 @@
   {
     "id": 573843083,
     "name": "Macaron",
-    "slug": "573843083",
+    "slug": "macaron",
     "world": "france",
     "eventOnly": true,
     "distance": 2.436,
@@ -2572,7 +2719,11 @@
     ],
     "experience": 50,
     "difficulty": 1,
-    "duration": 1
+    "duration": 1,
+    "stravaSegmentId": 38876339,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38876339",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/macaron",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/france/route/macaron"
   },
   {
     "id": 576953930,
@@ -3899,6 +4050,33 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/neokyo-crit-course"
   },
   {
+    "id": 1201172818,
+    "name": "Power Punches",
+    "slug": "power-punches",
+    "world": "watopia",
+    "eventOnly": true,
+    "distance": 23.48,
+    "elevation": 205,
+    "leadInDistance": 0.19,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.015,
+    "leadInDistanceMeetups": 0.03,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 470,
+    "difficulty": 0,
+    "duration": 0
+  },
+  {
     "id": 1230300449,
     "name": "Leith Hill After Party",
     "slug": "leith-hill-after-party",
@@ -4062,6 +4240,35 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/glasgow-crit-circuit-reverse",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/scotland/route/glasgow-reverse",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/glasgow-reverse"
+  },
+  {
+    "id": 1258526800,
+    "name": "Flat Out Fast",
+    "slug": "flat-out-fast",
+    "world": "watopia",
+    "eventOnly": true,
+    "distance": 21.382,
+    "elevation": 46,
+    "leadInDistance": 0.949,
+    "leadInElevation": 3,
+    "leadInDistanceFreeRide": 0.466,
+    "leadInElevationFreeRide": 2,
+    "leadInDistanceMeetups": 0.482,
+    "leadInElevationInMeetups": 3,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 430,
+    "difficulty": 0,
+    "duration": 0
   },
   {
     "id": 1327147942,
@@ -4448,7 +4655,7 @@
   {
     "id": 1409345545,
     "name": "Rapide Run",
-    "slug": "1409345545",
+    "slug": "rapide-run",
     "world": "france",
     "eventOnly": false,
     "distance": 5.994,
@@ -4471,7 +4678,9 @@
     ],
     "experience": 120,
     "difficulty": 0,
-    "duration": 0
+    "duration": 0,
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/rapide-run",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/france/route/rapide-run"
   },
   {
     "id": 1433431343,
@@ -4652,6 +4861,35 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/twilight-harbor"
   },
   {
+    "id": 1464561389,
+    "name": "Climb Control",
+    "slug": "climb-control",
+    "world": "watopia",
+    "eventOnly": true,
+    "distance": 23.672,
+    "elevation": 191,
+    "leadInDistance": 0.301,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.065,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.08,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 475,
+    "difficulty": null,
+    "duration": null
+  },
+  {
     "id": 1475638265,
     "name": "The Uber Pretzel",
     "slug": "the-uber-pretzel",
@@ -4769,7 +5007,7 @@
   {
     "id": 1538375239,
     "name": "Gentil 8",
-    "slug": "1538375239",
+    "slug": "gentil-8",
     "world": "france",
     "eventOnly": false,
     "distance": 23.18,
@@ -4780,8 +5018,16 @@
     "leadInElevationFreeRide": 5,
     "leadInDistanceMeetups": 0.572,
     "leadInElevationInMeetups": 5,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "petit-kom"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 5.421,
+        "to": 8.104,
+        "segment": "petit-kom"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": true,
@@ -4793,7 +5039,11 @@
     ],
     "experience": 465,
     "difficulty": 2,
-    "duration": 3
+    "duration": 3,
+    "stravaSegmentId": 38856602,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38856602",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/gentil-8",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/france/route/gentil-8"
   },
   {
     "id": 1545087483,
@@ -4917,7 +5167,7 @@
   {
     "id": 1600198346,
     "name": "Croissant",
-    "slug": "1600198346",
+    "slug": "croissant",
     "world": "france",
     "eventOnly": false,
     "distance": 9.273,
@@ -4941,7 +5191,11 @@
     ],
     "experience": 185,
     "difficulty": 2,
-    "duration": 2
+    "duration": 2,
+    "stravaSegmentId": 39270805,
+    "stravaSegmentUrl": "https://www.strava.com/segments/39270805",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/croissant",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/france/route/croissant"
   },
   {
     "id": 1631692097,
@@ -5643,7 +5897,7 @@
   {
     "id": 1793712753,
     "name": "Hell of the North",
-    "slug": "1793712753",
+    "slug": "hell-of-the-north",
     "world": "france",
     "eventOnly": false,
     "distance": 19.816,
@@ -5654,8 +5908,16 @@
     "leadInElevationFreeRide": 0,
     "leadInDistanceMeetups": 0.031,
     "leadInElevationInMeetups": 0,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "petit-kom"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 17.079,
+        "to": 19.768,
+        "segment": "petit-kom"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": false,
@@ -5667,7 +5929,11 @@
     ],
     "experience": 395,
     "difficulty": 3,
-    "duration": 4
+    "duration": 4,
+    "stravaSegmentId": 38859707,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38859707",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/hell-of-the-north",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/france/route/hell-of-the-north"
   },
   {
     "id": 1880443431,
@@ -5834,7 +6100,7 @@
   {
     "id": 1975694067,
     "name": "Ven-10 Run",
-    "slug": "1975694067",
+    "slug": "ven-10-run",
     "world": "france",
     "eventOnly": false,
     "distance": 10,
@@ -6400,7 +6666,7 @@
   {
     "id": 2143464829,
     "name": "Bon Voyage",
-    "slug": "2143464829",
+    "slug": "bon-voyage",
     "world": "france",
     "eventOnly": false,
     "distance": 28.208,
@@ -6424,7 +6690,11 @@
     ],
     "experience": 565,
     "difficulty": 2,
-    "duration": 3
+    "duration": 3,
+    "stravaSegmentId": 39240977,
+    "stravaSegmentUrl": "https://www.strava.com/segments/39240977",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/bon-voyage",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/france/route/bon-voyage"
   },
   {
     "id": 2165880404,
@@ -7682,13 +7952,18 @@
     ],
     "segmentsOnRoute": [
       {
-        "from": 33.497,
-        "to": 34.39,
+        "from": 3.759,
+        "to": 4.676,
         "segment": "titans-grove-kom-rev"
       },
       {
-        "from": 40.195,
-        "to": 47.302,
+        "from": 38.316,
+        "to": 39.209,
+        "segment": "titans-grove-kom-rev"
+      },
+      {
+        "from": 45.014,
+        "to": 52.121,
         "segment": "fuego-flats-rev"
       }
     ],
@@ -7704,8 +7979,8 @@
     "experience": 1080,
     "difficulty": 3.5,
     "duration": 4,
-    "stravaSegmentId": 22458637,
-    "stravaSegmentUrl": "https://www.strava.com/segments/22458637",
+    "stravaSegmentId": 33852827,
+    "stravaSegmentUrl": "https://www.strava.com/segments/33852827",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/dust-in-the-wind",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/dust-in-the-wind",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/dust-in-the-wind"
@@ -8225,7 +8500,7 @@
     "leadInElevation": 0,
     "leadInDistanceFreeRide": 0.103,
     "leadInElevationFreeRide": 0,
-    "leadInDistanceMeetups": 0.104,
+    "leadInDistanceMeetups": 0.103,
     "leadInElevationInMeetups": 0,
     "segments": [
       "bologna-tt"
@@ -8536,6 +8811,35 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/danger-noodle"
   },
   {
+    "id": 2892858917,
+    "name": "Red Zone Repeats",
+    "slug": "red-zone-repeats",
+    "world": "makuri-islands",
+    "eventOnly": true,
+    "distance": 19.388,
+    "elevation": 87,
+    "leadInDistance": 0.207,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.15,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.166,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 390,
+    "difficulty": 0,
+    "duration": 0
+  },
+  {
     "id": 2896159042,
     "name": "Temples and Towers",
     "slug": "temples-and-towers",
@@ -8726,7 +9030,7 @@
     "slug": "makuri-pretzel",
     "world": "makuri-islands",
     "eventOnly": false,
-    "distance": 77.595,
+    "distance": 77.577,
     "elevation": 618,
     "leadInDistance": 1.124,
     "leadInElevation": 5,
@@ -11115,13 +11419,7 @@
       "new-york-sprint",
       "new-york-kom-rev"
     ],
-    "segmentsOnRoute": [
-      {
-        "from": 19.67,
-        "to": 20.808,
-        "segment": "new-york-kom-rev"
-      }
-    ],
+    "segmentsOnRoute": [],
     "levelLocked": false,
     "levelLock": "0",
     "lap": false,
@@ -11134,8 +11432,6 @@
     "experience": 415,
     "difficulty": 2,
     "duration": 2,
-    "stravaSegmentId": 38758184,
-    "stravaSegmentUrl": "https://www.strava.com/segments/38758184",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/laguardia-after-party"
   },
   {
@@ -12238,7 +12534,7 @@
   {
     "id": 3974965857,
     "name": "Knights of the Roundabout",
-    "slug": "3974965857",
+    "slug": "knights-of-the-roundabout",
     "world": "france",
     "eventOnly": false,
     "distance": 51.189,
@@ -12249,8 +12545,22 @@
     "leadInElevationFreeRide": 22,
     "leadInDistanceMeetups": 3.088,
     "leadInElevationInMeetups": 22,
-    "segments": [],
-    "segmentsOnRoute": [],
+    "segments": [
+      "aqueduc-kom",
+      "petit-kom"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 6.876,
+        "to": 7.296,
+        "segment": "aqueduc-kom"
+      },
+      {
+        "from": 34.149,
+        "to": 36.827,
+        "segment": "petit-kom"
+      }
+    ],
     "levelLocked": false,
     "levelLock": "0",
     "lap": true,
@@ -12262,7 +12572,11 @@
     ],
     "experience": 1025,
     "difficulty": 4,
-    "duration": 4
+    "duration": 4,
+    "stravaSegmentId": 38859646,
+    "stravaSegmentUrl": "https://www.strava.com/segments/38859646",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/knights-of-the-roundabout",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/france/route/knights-of-the-roundabout"
   },
   {
     "id": 3976402826,
@@ -12643,10 +12957,14 @@
     "slug": "big-loop-rev",
     "world": "watopia",
     "eventOnly": true,
-    "distance": 42.602,
-    "elevation": 662,
-    "leadInDistance": 0.218,
+    "distance": 42.601,
+    "elevation": 658,
+    "leadInDistance": 0.211,
     "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.069,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.082,
+    "leadInElevationInMeetups": 0,
     "segments": [],
     "segmentsOnRoute": [],
     "levelLocked": false,

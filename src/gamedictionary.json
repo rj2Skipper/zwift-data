@@ -886,6 +886,94 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "12882.7382812500",
+              "blockedForMeetups": "1",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "197122.5781250000",
+              "eventOnly": "0",
+              "eventPaddocks": "",
+              "imageName": "",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "0",
+              "levelLocked": "0",
+              "locKey": "Mûr De Bretagne",
+              "map": "",
+              "name": "Mûr De Bretagne",
+              "sports": "7",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "signature": "10045"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "102302.6015625000",
+              "blockedForMeetups": "1",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "1269734.5000000000",
+              "eventOnly": "0",
+              "eventPaddocks": "",
+              "imageName": "",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "0",
+              "levelLocked": "0",
+              "locKey": "Hautacam",
+              "map": "",
+              "name": "Hautacam",
+              "sports": "7",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "signature": "10046"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "34552.8203125000",
+              "blockedForMeetups": "1",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "573219.7500000000",
+              "eventOnly": "0",
+              "eventPaddocks": "",
+              "imageName": "",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "0",
+              "levelLocked": "0",
+              "locKey": "Col de la Croix Saint-Robert",
+              "map": "",
+              "name": "Col de la Croix Saint-Robert",
+              "sports": "7",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "signature": "10047"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "111083.4921875000",
+              "blockedForMeetups": "1",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "1430862.5000000000",
+              "eventOnly": "0",
+              "eventPaddocks": "",
+              "imageName": "",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "0",
+              "levelLocked": "0",
+              "locKey": "Col de la Madeleine",
+              "map": "",
+              "name": "Col de la Madeleine",
+              "sports": "7",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "signature": "10048"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "206.1",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -1273,7 +1361,7 @@
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
               "blockedForTimeTrial": "0",
-              "difficulty": "1",
+              "difficulty": "1.0",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
               "distanceInMeters": "17820.4",
               "duration": "1",
@@ -3093,6 +3181,36 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "205.3355560303",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
+              "blockedForTimeTrial": "1",
+              "difficulty": "0.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "23479.7324218750",
+              "duration": "0",
+              "eventOnly": "1",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinDistanceInMeters": "15.2049169540",
+              "imageName": "WATOPIA_Power_Punches",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "190.3039550781",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_WATOPIA_PUNCH_YOUR_POWER",
+              "map": "WATOPIA",
+              "meetupLeadinDistanceInMeters": "30.3981342316",
+              "name": "Power Punches",
+              "sports": "7",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "470",
+              "zwiftEventOnly": "1",
+              "signature": "1201172818"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "434.3",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -3217,6 +3335,38 @@
               "xp": "120",
               "zwiftEventOnly": "0",
               "signature": "1258415487"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "45.7612380981",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
+              "blockedForTimeTrial": "1",
+              "difficulty": "0.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "21381.8242187500",
+              "duration": "0",
+              "eventOnly": "1",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "2.3747410774",
+              "freeRideLeadinDistanceInMeters": "465.7765197754",
+              "imageName": "WATOPIA_Flat_Out_Fast",
+              "leadinAscentInMeters": "3.0440323353",
+              "leadinDistanceInMeters": "949.3284301758",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_WATOPIA_TIME_TO_BURN",
+              "map": "WATOPIA",
+              "meetupLeadinAscentInMeters": "2.5421133041",
+              "meetupLeadinDistanceInMeters": "481.6727294922",
+              "name": "Flat Out Fast",
+              "sports": "7",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "430",
+              "zwiftEventOnly": "1",
+              "signature": "1258526800"
             }
           },
           {
@@ -3667,6 +3817,36 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "190.5013122559",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
+              "blockedForTimeTrial": "1",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "23672.0371093750",
+              "eventOnly": "1",
+              "eventPaddocks": "21,22,23,24",
+              "freeRideLeadinAscentInMeters": "0.0197070017",
+              "freeRideLeadinDistanceInMeters": "65.2001190186",
+              "imageName": "WATOPIA_Climb_Control",
+              "leadinAscentInMeters": "0.0069921939",
+              "leadinDistanceInMeters": "301.1654663086",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_WATOPIA_CLIMB_THE_CURVE",
+              "map": "WATOPIA",
+              "meetupLeadinAscentInMeters": "0.0197558291",
+              "meetupLeadinDistanceInMeters": "80.2344436646",
+              "name": "Climb Control",
+              "sports": "7",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "475",
+              "zwiftEventOnly": "1",
+              "signature": "1464561389"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "2379.9",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -4034,7 +4214,7 @@
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
               "blockedForTimeTrial": "0",
-              "difficulty": "2",
+              "difficulty": "2.0",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
               "distanceInMeters": "19440.8",
               "duration": "2",
@@ -4326,7 +4506,7 @@
               "blockedForClubs": "0",
               "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
-              "difficulty": "3",
+              "difficulty": "3.0",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
               "distanceInMeters": "29621.0214843750",
               "duration": "2",
@@ -6209,7 +6389,7 @@
               "locKey": "LOC_ROUTE_BOLOGNATT_TIME_TRIAL_LAP",
               "map": "BOLOGNATT",
               "meetupLeadinAscentInMeters": "0.0024000001",
-              "meetupLeadinDistanceInMeters": "103.5103988647",
+              "meetupLeadinDistanceInMeters": "102.9719543457",
               "name": "Bologna Time Trial",
               "sports": "3",
               "supportedLaps": "0",
@@ -6380,6 +6560,38 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "87.0853195190",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
+              "blockedForTimeTrial": "1",
+              "difficulty": "0.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "19388.2890625000",
+              "duration": "0",
+              "eventOnly": "1",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.0703515708",
+              "freeRideLeadinDistanceInMeters": "150.1013641357",
+              "imageName": "MAKURIISLANDS_Red_Zone_Repeats",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "206.5208740234",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_MAKURIISLANDS_SMASH_THE_SPRINT",
+              "map": "MAKURIISLANDS",
+              "meetupLeadinAscentInMeters": "0.1312304586",
+              "meetupLeadinDistanceInMeters": "166.3374633789",
+              "name": "Red Zone Repeats",
+              "sports": "7",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "390",
+              "zwiftEventOnly": "1",
+              "signature": "2892858917"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "318.3",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -6482,7 +6694,7 @@
               "blockedForTimeTrial": "0",
               "difficulty": "5.0",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
-              "distanceInMeters": "77594.5234375000",
+              "distanceInMeters": "77577.4834375000",
               "duration": "4",
               "eventOnly": "0",
               "eventPaddocks": "16,17,18,19",
@@ -9379,22 +9591,26 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
-              "ascentInMeters": "661.7",
+              "ascentInMeters": "657.7207641602",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
               "blockedForTimeTrial": "0",
               "difficulty": "4.0",
               "distanceBetweenFirstLastLrCPsInMeters": "18.3",
-              "distanceInMeters": "42601.6",
+              "distanceInMeters": "42600.7695312500",
               "duration": "4",
               "eventOnly": "1",
               "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.0004052733",
+              "freeRideLeadinDistanceInMeters": "69.0049743652",
               "imageName": "WATOPIA_Big_Loop_Reverse",
               "leadinAscentInMeters": "0.1",
-              "leadinDistanceInMeters": "217.6",
+              "leadinDistanceInMeters": "211.4873199463",
               "levelLocked": "5",
               "locKey": "LOC_ROUTE_WATOPIA_BIG_LOOP",
               "map": "WATOPIA",
+              "meetupLeadinAscentInMeters": "0.0005371091",
+              "meetupLeadinDistanceInMeters": "82.2973709106",
               "name": "Big Loop Reverse",
               "sports": "7",
               "supportedLaps": "1",
@@ -9825,7 +10041,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/DesertJersey_Icon.tga",
               "jerseyName": "Fuego Flats ",
               "name": "Fuego Flats",
-              "onRoutes": "1475638265,2128890027,2675063596,3368626651,2900074211,1327147942,2746475460,3261167746,3378411990",
+              "onRoutes": "1475638265,2128890027,2675063596,3368626651,2900074211,1327147942,2746475460,3261167746,3378411990,1258526800",
               "roadId": "81",
               "roadTime": "0.0256000000",
               "world": "1",
@@ -9839,7 +10055,7 @@
               "archId": "6",
               "direction": "reverse",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/Badge_Jungle.tga",
-              "name": "none",
+              "name": "Jungle Loop",
               "onRoutes": "743730361,240388043",
               "roadId": "35",
               "roadTime": "0.5417880000",
@@ -9856,7 +10072,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "Stoneway Sprint",
               "name": "Stoneway Sprint",
-              "onRoutes": "2595459121,2569385980,1656629976,1115260805,762151244,2768300955,4280627426,4102513789,806114032,2333249368,4131664304,4084028627",
+              "onRoutes": "2595459121,2569385980,1656629976,1115260805,762151244,2768300955,4280627426,4102513789,806114032,2333249368,4131664304,4084028627,1464561389",
               "roadId": "149",
               "roadTime": "0.1241328033",
               "world": "1",
@@ -9901,7 +10117,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "Acropolis Sprint",
               "name": "Acropolis Sprint",
-              "onRoutes": "2595459121,2569385980,1656629976,1115260805,762151244,2768300955,4280627426,806114032,226950646,2333249368,4131664304,4084028627",
+              "onRoutes": "2595459121,2569385980,1656629976,1115260805,762151244,2768300955,4280627426,806114032,226950646,2333249368,4131664304,4084028627,1464561389",
               "roadId": "149",
               "roadTime": "0.2657975578",
               "world": "1",
@@ -9961,7 +10177,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
               "jerseyName": "Jarvis KOM",
               "name": "Jarvis KOM",
-              "onRoutes": "454871454,3378411990,2644664789,3030004732,1724903700",
+              "onRoutes": "454871454,3378411990,2644664789,3030004732,1724903700,1201172818",
               "roadId": "192",
               "roadTime": "0.4040033757",
               "world": "1",
@@ -10046,7 +10262,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "Jarvis Sprint",
               "name": "Jarvis Sprint",
-              "onRoutes": "454871454,3378411990,2644664789,3030004732,1724903700",
+              "onRoutes": "454871454,3378411990,2644664789,3030004732,1724903700,1201172818",
               "roadId": "192",
               "roadTime": "0.7267690045",
               "world": "1",
@@ -10122,7 +10338,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
               "jerseyName": "Jarvis Lap",
               "name": "Jarvis Lap",
-              "onRoutes": "454871454",
+              "onRoutes": "454871454,1201172818",
               "roadId": "192",
               "roadTime": "0.8926478317",
               "world": "1",
@@ -10252,7 +10468,7 @@
               "direction": "reverse",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "name": "Sprint Forward End",
-              "onRoutes": "3382019812,2494975884,263936293,553661379,242381847,1475638265,107363867,3811569265,3454338139,3312037616,3023359358,2900074211,3453194200,243949867,762151244,3324272424,1696938496,2644664789,2888820995",
+              "onRoutes": "3382019812,2494975884,263936293,553661379,242381847,1475638265,107363867,3811569265,3454338139,3312037616,3023359358,2900074211,3453194200,243949867,762151244,3324272424,1696938496,2644664789,2888820995,1201172818",
               "roadId": "0",
               "roadTime": "0.6042982501",
               "world": "1",
@@ -10508,7 +10724,7 @@
               "archFriendlyNameR": "Volcano",
               "archId": "4",
               "direction": "reverse",
-              "name": "none",
+              "name": "Volcano Lap",
               "onRoutes": "3866241330,2681889340",
               "roadId": "23",
               "roadTime": "0.7861780000",
@@ -10540,7 +10756,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "TOWER SPRINT",
               "name": "TOWER_SPRINT",
-              "onRoutes": "3356878261,3914529041,2866480562,910684583,2927651296,1367364772",
+              "onRoutes": "3356878261,3914529041,2866480562,910684583,2927651296,1367364772,2892858917",
               "roadId": "6",
               "roadTime": "0.2130466684",
               "world": "9",
@@ -10572,7 +10788,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "ALLEY SPRINT",
               "name": "ALLEY_SPRINT",
-              "onRoutes": "3356878261,3914529041,1127056801,2866480562,910684583,4258943387,3330165223,2927651296,186601870,1367364772",
+              "onRoutes": "3356878261,3914529041,1127056801,2866480562,910684583,4258943387,3330165223,2927651296,186601870,1367364772,2892858917",
               "roadId": "4",
               "roadTime": "0.7269605643",
               "world": "9",
@@ -10782,7 +10998,7 @@
               "archId": "0",
               "direction": "forward",
               "name": "none",
-              "onRoutes": "2139708890,3366225080,2748657713,1475638265,1064303857,604330868,3921412335,2207442179,3368626651,2900074211,1327147942,3453194200,2746475460,1656629976,1115260805,1917017591,806114032",
+              "onRoutes": "2139708890,3366225080,2748657713,1475638265,1064303857,604330868,3921412335,2207442179,3368626651,2900074211,3453194200,2746475460,1656629976,1115260805,1917017591,806114032",
               "roadId": "81",
               "roadTime": "0.0988000000",
               "world": "1",
@@ -10794,7 +11010,7 @@
               "archId": "0",
               "direction": "forward",
               "name": "none",
-              "onRoutes": "2139708890,3366225080,2748657713,1475638265,2128890027,1064303857,604330868,3921412335,2207442179,3368626651,2900074211,1327147942,3453194200,2746475460,1656629976,1115260805,1635842477,1917017591,806114032",
+              "onRoutes": "2139708890,3366225080,2748657713,1475638265,2128890027,1064303857,604330868,3921412335,2207442179,3368626651,2900074211,3453194200,2746475460,1656629976,1115260805,1635842477,1917017591,806114032",
               "roadId": "81",
               "roadTime": "0.2565000000",
               "world": "1",
@@ -10806,7 +11022,7 @@
               "archId": "0",
               "direction": "reverse",
               "name": "none",
-              "onRoutes": "1475638265,2128890027,2675063596,3368626651,2900074211,1327147942,2746475460,3261167746,3378411990",
+              "onRoutes": "1475638265,2128890027,2675063596,3368626651,2900074211,2746475460,3261167746,3378411990",
               "roadId": "81",
               "roadTime": "0.0902000000",
               "world": "1",
@@ -10818,7 +11034,7 @@
               "archId": "0",
               "direction": "reverse",
               "name": "none",
-              "onRoutes": "1475638265,2128890027,2675063596,3368626651,2900074211,1327147942,2746475460,3261167746,3378411990",
+              "onRoutes": "1475638265,2128890027,2675063596,3368626651,2900074211,2746475460,3261167746,3378411990",
               "roadId": "81",
               "roadTime": "0.0256000000",
               "world": "1",
@@ -10833,6 +11049,7 @@
               "direction": "forward",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
               "name": "none",
+              "onRoutes": "947394567",
               "roadId": "0",
               "roadTime": "0.6098652289",
               "world": "8",
@@ -10859,7 +11076,6 @@
               "archId": "0",
               "direction": "forward",
               "name": "none",
-              "onRoutes": "2843604888",
               "roadId": "0",
               "roadTime": "0.0829101120",
               "world": "6",
@@ -10871,7 +11087,6 @@
               "archId": "0",
               "direction": "forward",
               "name": "none",
-              "onRoutes": "2843604888",
               "roadId": "0",
               "roadTime": "0.1707411676",
               "world": "6",
@@ -10883,7 +11098,6 @@
               "archId": "0",
               "direction": "forward",
               "name": "none",
-              "onRoutes": "2843604888",
               "roadId": "0",
               "roadTime": "0.2214743626",
               "world": "6",
@@ -10895,7 +11109,6 @@
               "archId": "0",
               "direction": "forward",
               "name": "none",
-              "onRoutes": "2843604888",
               "roadId": "0",
               "roadTime": "0.3535521096",
               "world": "6",
@@ -10907,7 +11120,6 @@
               "archId": "0",
               "direction": "forward",
               "name": "none",
-              "onRoutes": "2843604888",
               "roadId": "0",
               "roadTime": "0.4292843924",
               "world": "6",
@@ -10919,7 +11131,6 @@
               "archId": "0",
               "direction": "forward",
               "name": "none",
-              "onRoutes": "2843604888",
               "roadId": "0",
               "roadTime": "0.5652397397",
               "world": "6",
@@ -10931,7 +11142,6 @@
               "archId": "0",
               "direction": "forward",
               "name": "none",
-              "onRoutes": "2843604888",
               "roadId": "0",
               "roadTime": "0.7967984856",
               "world": "6",
@@ -10943,7 +11153,6 @@
               "archId": "0",
               "direction": "forward",
               "name": "none",
-              "onRoutes": "2843604888",
               "roadId": "0",
               "roadTime": "0.9588890565",
               "world": "6",
@@ -10955,7 +11164,6 @@
               "archId": "0",
               "direction": "forward",
               "name": "none",
-              "onRoutes": "2843604888",
               "roadId": "0",
               "roadTime": "0.9669470000",
               "world": "6",
@@ -10987,7 +11195,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/DesertJersey_Icon.tga",
               "jerseyName": "Fuego Flats ",
               "name": "Fuego Flats",
-              "onRoutes": "2139708890,3366225080,2748657713,1475638265,2128890027,1064303857,604330868,3921412335,2207442179,3368626651,2900074211,1327147942,3453194200,2746475460,1656629976,1917017591,806114032",
+              "onRoutes": "2139708890,3366225080,2748657713,1475638265,2128890027,1064303857,604330868,3921412335,2207442179,3368626651,2900074211,1327147942,3453194200,2746475460,1656629976,1917017591,806114032,1258526800",
               "roadId": "81",
               "roadTime": "0.0256000000",
               "world": "1",
@@ -11001,8 +11209,8 @@
               "archId": "6",
               "direction": "forward",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/Badge_Jungle.tga",
-              "name": "none",
-              "onRoutes": "2839057126",
+              "name": "Jungle Loop",
+              "onRoutes": "2839057126,1464561389",
               "roadId": "35",
               "roadTime": "0.5417880000",
               "world": "1",
@@ -11018,7 +11226,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
               "jerseyName": "Ventoux Half KOM",
               "name": "Ventoux_05_Half",
-              "onRoutes": "2573468147,358794394,1975694067",
+              "onRoutes": "2573468147,1433431343,358794394,1975694067",
               "roadId": "26",
               "roadTime": "0.7578240454",
               "world": "10",
@@ -11318,7 +11526,7 @@
               "archId": "0",
               "direction": "forward",
               "name": "Ventoux_02",
-              "onRoutes": "2573468147,1433431343,358794394,1975694067",
+              "onRoutes": "2573468147,358794394,1975694067",
               "roadId": "26",
               "roadTime": "0.6110374094",
               "world": "10",
@@ -11354,7 +11562,7 @@
               "archId": "0",
               "direction": "forward",
               "name": "Ventoux_03",
-              "onRoutes": "2573468147,1433431343,358794394,1975694067",
+              "onRoutes": "2573468147,358794394,1975694067",
               "roadId": "26",
               "roadTime": "0.6586389954",
               "world": "10",
@@ -11393,7 +11601,7 @@
               "archId": "0",
               "direction": "forward",
               "name": "Ventoux_04",
-              "onRoutes": "2573468147,1433431343,358794394,1975694067",
+              "onRoutes": "2573468147,358794394,1975694067",
               "roadId": "26",
               "roadTime": "0.6952546627",
               "world": "10",
@@ -11421,7 +11629,7 @@
               "archId": "0",
               "direction": "forward",
               "name": "Ventoux_05",
-              "onRoutes": "2573468147,1433431343,358794394,1975694067",
+              "onRoutes": "2573468147,358794394,1975694067",
               "roadId": "26",
               "roadTime": "0.7578240454",
               "world": "10",
@@ -11501,7 +11709,7 @@
               "archId": "0",
               "direction": "forward",
               "name": "Ventoux_06",
-              "onRoutes": "2573468147,1433431343",
+              "onRoutes": "2573468147",
               "roadId": "26",
               "roadTime": "0.7842734394",
               "world": "10",
@@ -11616,7 +11824,6 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
               "jerseyName": "Loch Loop",
               "name": "Loch Loop",
-              "onRoutes": "172610229",
               "roadId": "2",
               "roadTime": "0.9000000000",
               "world": "13",
@@ -12280,6 +12487,7 @@
               "direction": "forward",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
               "name": "none",
+              "onRoutes": "1788889233",
               "roadId": "7",
               "roadTime": "0.8040615123",
               "world": "3",
@@ -12444,7 +12652,7 @@
               "archFriendlyName": "Volcano",
               "archId": "4",
               "direction": "forward",
-              "name": "none",
+              "name": "Volcano Lap",
               "onRoutes": "686828068,3368626651,1327147942",
               "roadId": "23",
               "roadTime": "0.7861780000",
@@ -12539,7 +12747,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "TOWER SPRINT",
               "name": "TOWER_SPRINT",
-              "onRoutes": "3407362320,1453570384,1457923570,3742187716,2927651296,186601870",
+              "onRoutes": "3407362320,1453570384,1457923570,3742187716,2927651296,186601870,2892858917",
               "roadId": "6",
               "roadTime": "0.2130466684",
               "world": "9",
@@ -12694,6 +12902,13 @@
         "JERSEY": [
           {
             "$": {
+              "imageName": "ZwiftLongDistanceRiders2025_thumb",
+              "name": "LOC_CYCLING_JERSEY_ZWIFTLONGDISTANCERIDERS2025",
+              "signature": "1204170"
+            }
+          },
+          {
+            "$": {
               "imageName": "ZARoadFinalist12022_thumb",
               "name": "Zwift Academy Finalist",
               "signature": "1962443"
@@ -12744,7 +12959,7 @@
           {
             "$": {
               "imageName": "TdF2025_thumb",
-              "name": "LOC_CYCLING_JERSEY_TDF2025",
+              "name": "2025 Tour Fever",
               "signature": "64218091"
             }
           },
@@ -13317,6 +13532,13 @@
           },
           {
             "$": {
+              "imageName": "TdFFaZ2025_thumb",
+              "name": "2025 Watch the Femmes",
+              "signature": "341851313"
+            }
+          },
+          {
+            "$": {
               "imageName": "Zwift_02_thumb",
               "name": "Zwift",
               "signature": "351896555"
@@ -13411,6 +13633,13 @@
               "imageName": "AHDRLadies2023_thumb",
               "name": "AHDR Ladies",
               "signature": "396734242"
+            }
+          },
+          {
+            "$": {
+              "imageName": "TdFFaZ2025_thumb",
+              "name": "2025 Watch the Femmes Fietsvrouwen",
+              "signature": "396924038"
             }
           },
           {
@@ -13723,6 +13952,13 @@
           },
           {
             "$": {
+              "imageName": "CoffeeLovers2025_thumb",
+              "name": "Coffee Lovers",
+              "signature": "542634757"
+            }
+          },
+          {
+            "$": {
               "imageName": "vocsnor_thumb",
               "name": "Vocsnor",
               "signature": "550267244"
@@ -13852,6 +14088,13 @@
               "imageName": "Outfield_thumb",
               "name": "Outfield",
               "signature": "605852977"
+            }
+          },
+          {
+            "$": {
+              "imageName": "BromptonCasualAttire2025_thumb",
+              "name": "2025 Brompton Tweed",
+              "signature": "606227812"
             }
           },
           {
@@ -14045,6 +14288,13 @@
           },
           {
             "$": {
+              "imageName": "JETT2025_thumb",
+              "name": "JETT 2025",
+              "signature": "707590131"
+            }
+          },
+          {
+            "$": {
               "imageName": "ElectricSpirit2022_thumb",
               "name": "Electric Spirit Community Team",
               "signature": "709797933"
@@ -14104,6 +14354,13 @@
               "imageName": "RichieCarapazCC2021_thumb",
               "name": "Richie Carapaz Cycling Club",
               "signature": "733758360"
+            }
+          },
+          {
+            "$": {
+              "imageName": "SROZ2025_thumb",
+              "name": "SROZ",
+              "signature": "735858779"
             }
           },
           {
@@ -14314,6 +14571,13 @@
               "imageName": "7Eleven_thumb",
               "name": "7-Eleven",
               "signature": "842129295"
+            }
+          },
+          {
+            "$": {
+              "imageName": "PhoenixRising2025_thumb",
+              "name": "Phoenix Rising",
+              "signature": "845913595"
             }
           },
           {
@@ -14717,6 +14981,13 @@
           },
           {
             "$": {
+              "imageName": "ClubLadder2025_thumb",
+              "name": "Club Ladder 2025",
+              "signature": "1056669642"
+            }
+          },
+          {
+            "$": {
               "imageName": "CaTech2018_thumb",
               "name": "CA Technologies 2018",
               "signature": "1065184178"
@@ -14794,6 +15065,13 @@
           },
           {
             "$": {
+              "imageName": "RhinoRacing2025_thumb",
+              "name": "Rhino Racing 2025",
+              "signature": "1091309531"
+            }
+          },
+          {
+            "$": {
               "imageName": "Zwift_eFondo_Aug_thumb",
               "name": "Zwift eFondo August",
               "signature": "1092846644"
@@ -14804,6 +15082,13 @@
               "imageName": "Computrainer_thumb",
               "name": "Computrainer",
               "signature": "1097944869"
+            }
+          },
+          {
+            "$": {
+              "imageName": "LivAlula2025_thumb",
+              "name": "Liv Alula Jayco 2025",
+              "signature": "1099349849"
             }
           },
           {
@@ -14993,6 +15278,13 @@
               "imageName": "ZwiftNationalChampions_thumb",
               "name": "ZNC - Germany",
               "signature": "1198454936"
+            }
+          },
+          {
+            "$": {
+              "imageName": "INOX2025_thumb",
+              "name": "Team INOX",
+              "signature": "1206463308"
             }
           },
           {
@@ -15410,6 +15702,13 @@
           },
           {
             "$": {
+              "imageName": "TdFFaZ2025_thumb",
+              "name": "2025 Watch the Femmes QB",
+              "signature": "1429709422"
+            }
+          },
+          {
+            "$": {
               "imageName": "HDR_thumb",
               "name": "HDR",
               "signature": "1433773840"
@@ -15431,6 +15730,13 @@
           },
           {
             "$": {
+              "imageName": "FemaleCyclingForce2025_thumb",
+              "name": "Female Cycling Force",
+              "signature": "1445119156"
+            }
+          },
+          {
+            "$": {
               "imageName": "LamontCycling2019_thumb",
               "name": "Lamont Cycling",
               "signature": "1446002244"
@@ -15448,6 +15754,13 @@
               "imageName": "ATOC2018_thumb",
               "name": "ATOC 2018",
               "signature": "1461334436"
+            }
+          },
+          {
+            "$": {
+              "imageName": "4StarRacing2025_thumb",
+              "name": "4Star Racing",
+              "signature": "1463878036"
             }
           },
           {
@@ -15480,6 +15793,13 @@
           },
           {
             "$": {
+              "imageName": "TdFFaZ2025_thumb",
+              "name": "2025 Watch the Femmes FCC",
+              "signature": "1493064817"
+            }
+          },
+          {
+            "$": {
               "imageName": "SDWorx2022_thumb",
               "name": "Team SD Worx",
               "signature": "1494272741"
@@ -15497,6 +15817,13 @@
               "imageName": "WahooLeCoL2021_thumb",
               "name": "Wahoo Le CoL Team Kit",
               "signature": "1499244597"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RO4H2025_thumb",
+              "name": "RO4H 2025",
+              "signature": "1501856096"
             }
           },
           {
@@ -15543,6 +15870,13 @@
           },
           {
             "$": {
+              "imageName": "HerculesCycling2025_thumb",
+              "name": "Hercules Cycling",
+              "signature": "1558316757"
+            }
+          },
+          {
+            "$": {
               "imageName": "BRTWomens2019_thumb",
               "name": "Bolt Race Team Hellcatz",
               "signature": "1561591671"
@@ -15574,6 +15908,13 @@
               "imageName": "ZARoadFinalist52022_thumb",
               "name": "Zwift Academy Finalist",
               "signature": "1576116423"
+            }
+          },
+          {
+            "$": {
+              "imageName": "TeamEvolve2025_thumb",
+              "name": "Team Evolve",
+              "signature": "1578439477"
             }
           },
           {
@@ -15637,6 +15978,13 @@
               "imageName": "TourOfWatopiaRed2021_thumb",
               "name": "Tour of Watopia Finishers Kit",
               "signature": "1599692741"
+            }
+          },
+          {
+            "$": {
+              "imageName": "ZwiftUnlocked2025_thumb",
+              "name": "2025 Zwift Unlocked",
+              "signature": "1600931458"
             }
           },
           {
@@ -15746,6 +16094,13 @@
           },
           {
             "$": {
+              "imageName": "ZwiftCampBaseline2025_thumb",
+              "name": "2025 Zwift Camp: Baseline",
+              "signature": "1646517850"
+            }
+          },
+          {
+            "$": {
               "imageName": "GarminTacx2021_thumb",
               "name": "Garmin Tacx Kit",
               "signature": "1647663707"
@@ -15802,6 +16157,13 @@
           },
           {
             "$": {
+              "imageName": "Team3R2025_thumb",
+              "name": "Team 3R 2025",
+              "signature": "1667241801"
+            }
+          },
+          {
+            "$": {
               "imageName": "FDJSuez2025_thumb",
               "name": "FDJ Suez",
               "signature": "1668644908"
@@ -15851,6 +16213,13 @@
           },
           {
             "$": {
+              "imageName": "DBR2025_thumb",
+              "name": "DBR 2025",
+              "signature": "1713605012"
+            }
+          },
+          {
+            "$": {
               "imageName": "CyclingWeekly2021_thumb",
               "name": "Cycling Weekly Kit",
               "signature": "1716914056"
@@ -15868,6 +16237,13 @@
               "imageName": "UCIBlackHK2022_thumb",
               "name": "Hong Kong Federation Elite 2022",
               "signature": "1727340017"
+            }
+          },
+          {
+            "$": {
+              "imageName": "PineappleTortureFest2025_thumb",
+              "name": "Pineapple Torturefest",
+              "signature": "1731659900"
             }
           },
           {
@@ -16096,6 +16472,13 @@
           },
           {
             "$": {
+              "imageName": "WahooBlue2025_thumb",
+              "name": "Wahoo 2025 - Blue",
+              "signature": "1867934628"
+            }
+          },
+          {
+            "$": {
               "imageName": "Plain_03_thumb",
               "name": "Basic 2",
               "signature": "1869390707"
@@ -16152,6 +16535,13 @@
           },
           {
             "$": {
+              "imageName": "ZsunRacing2025_thumb",
+              "name": "ZSUN 2025",
+              "signature": "1894713822"
+            }
+          },
+          {
+            "$": {
               "imageName": "ZwiftNationalChampions_thumb",
               "name": "ZNC - Korea",
               "signature": "1900024720"
@@ -16197,6 +16587,13 @@
               "imageName": "EnduranceNation2019_thumb",
               "name": "Endurance Nation",
               "signature": "1912822249"
+            }
+          },
+          {
+            "$": {
+              "imageName": "FemaleCyclingTribe2025_thumb",
+              "name": "The Female Cycling Tribe",
+              "signature": "1926960006"
             }
           },
           {
@@ -16649,6 +17046,13 @@
           },
           {
             "$": {
+              "imageName": "FemmeCycleCollab2025_thumb",
+              "name": "FemmeCycle Collab",
+              "signature": "2225469513"
+            }
+          },
+          {
+            "$": {
               "imageName": "AlpecinDeceuninck2025_thumb",
               "name": "Alpecin Kit",
               "signature": "2237514524"
@@ -16722,6 +17126,13 @@
               "imageName": "HexagoneRacing2023_thumb",
               "name": "Hexagone Racing 2023",
               "signature": "2278143572"
+            }
+          },
+          {
+            "$": {
+              "imageName": "TdFFaZ2025_thumb",
+              "name": "2025 Watch the Femmes ZI",
+              "signature": "2280192625"
             }
           },
           {
@@ -16971,6 +17382,13 @@
           },
           {
             "$": {
+              "imageName": "TdFFaZ2025_thumb",
+              "name": "2025 Watch the Femmes FCF",
+              "signature": "2416362469"
+            }
+          },
+          {
+            "$": {
               "imageName": "JLT_Condor_thumb",
               "name": "JLT Condor",
               "signature": "2418675542"
@@ -17079,6 +17497,13 @@
               "imageName": "TeamInnovation_thumb",
               "name": "Team Innovation",
               "signature": "2474999752"
+            }
+          },
+          {
+            "$": {
+              "imageName": "Lefty2025_thumb",
+              "name": "Lefty 2025",
+              "signature": "2475884332"
             }
           },
           {
@@ -17209,6 +17634,13 @@
           },
           {
             "$": {
+              "imageName": "BZReCycling2025_thumb",
+              "name": "BZR eCycling",
+              "signature": "2570853795"
+            }
+          },
+          {
+            "$": {
               "imageName": "Castelli2022_thumb",
               "name": "Castelli 2022",
               "signature": "2574836639"
@@ -17286,6 +17718,13 @@
           },
           {
             "$": {
+              "imageName": "TheWattSquad2025_thumb",
+              "name": "The Watt Squad",
+              "signature": "2637363176"
+            }
+          },
+          {
+            "$": {
               "imageName": "IntermarcheWantyCircus2023_thumb",
               "name": "Intermarché Wanty Circus 2023",
               "signature": "2642337455"
@@ -17310,6 +17749,13 @@
               "imageName": "daniela_ryf_thumb",
               "name": "Daniela Ryf",
               "signature": "2654375510"
+            }
+          },
+          {
+            "$": {
+              "imageName": "TdFDidi2025_thumb",
+              "name": "Didi the Devil",
+              "signature": "2657009020"
             }
           },
           {
@@ -17405,6 +17851,13 @@
           },
           {
             "$": {
+              "imageName": "WahooBlack2025_thumb",
+              "name": "Wahoo 2025 - Black",
+              "signature": "2711637705"
+            }
+          },
+          {
+            "$": {
               "imageName": "jumbo_visma_women_thumb",
               "name": "Team Jumbo-Visma Women 2023",
               "signature": "2713824438"
@@ -17422,6 +17875,13 @@
               "imageName": "BingoalPauwels2022_thumb",
               "name": "Bingoal Pauwels Sauces WB",
               "signature": "2715375431"
+            }
+          },
+          {
+            "$": {
+              "imageName": "SwedishZwiftRacers2025_thumb",
+              "name": "Swedish Zwift Racers",
+              "signature": "2716852024"
             }
           },
           {
@@ -17594,6 +18054,13 @@
           },
           {
             "$": {
+              "imageName": "LionelSanders2025_thumb",
+              "name": "Lionel Sanders 2025",
+              "signature": "2782542283"
+            }
+          },
+          {
+            "$": {
               "imageName": "GarneauClub2018_thumb",
               "name": "Garneau Club 2018",
               "signature": "2784272641"
@@ -17678,6 +18145,13 @@
           },
           {
             "$": {
+              "imageName": "SynCycling2025_thumb",
+              "name": "SYN Cycling Club",
+              "signature": "2814556306"
+            }
+          },
+          {
+            "$": {
               "imageName": "Zwift_CamoPix_01_thumb",
               "name": "DigiCamo 1",
               "signature": "2818028945"
@@ -17737,6 +18211,13 @@
               "imageName": "OVSPlain2021_thumb",
               "name": "2021 Virtual Series Kit",
               "signature": "2856076954"
+            }
+          },
+          {
+            "$": {
+              "imageName": "DadBodCyclingInc2025_thumb",
+              "name": "LOC_CYCLING_JERSEY_DADBODCYCLINGINC2025",
+              "signature": "2856359988"
             }
           },
           {
@@ -18035,6 +18516,13 @@
           },
           {
             "$": {
+              "imageName": "AEOSocial2025_thumb",
+              "name": "AEO Social",
+              "signature": "3025198313"
+            }
+          },
+          {
+            "$": {
               "imageName": "WKGWattsUp_thumb",
               "name": "WKG",
               "signature": "3027591243"
@@ -18112,9 +18600,23 @@
           },
           {
             "$": {
+              "imageName": "SisuBlue2025_thumb",
+              "name": "SISU Blue",
+              "signature": "3079296575"
+            }
+          },
+          {
+            "$": {
               "imageName": "L39ION2023_thumb",
               "name": "L39ION LA 2023",
               "signature": "3079493093"
+            }
+          },
+          {
+            "$": {
+              "imageName": "TeamVegan2025_thumb",
+              "name": "Team Vegan 2025",
+              "signature": "3084571347"
             }
           },
           {
@@ -18255,6 +18757,13 @@
               "imageName": "TeamVeselka2022_thumb",
               "name": "Team Veselka",
               "signature": "3169737262"
+            }
+          },
+          {
+            "$": {
+              "imageName": "WahooWhite2025_thumb",
+              "name": "Wahoo Kit 2025 - White",
+              "signature": "3170746425"
             }
           },
           {
@@ -18567,6 +19076,13 @@
           },
           {
             "$": {
+              "imageName": "TBR2025_thumb",
+              "name": "TBR 2025",
+              "signature": "3369422175"
+            }
+          },
+          {
+            "$": {
               "imageName": "TrekTour2019_thumb",
               "name": "Trek Tour",
               "signature": "3370254609"
@@ -18588,9 +19104,23 @@
           },
           {
             "$": {
+              "imageName": "TdFFaZ2025_thumb",
+              "name": "2025 Watch the Femmes HS",
+              "signature": "3375543571"
+            }
+          },
+          {
+            "$": {
               "imageName": "OffTheMAAP2024_thumb",
               "name": "Off the MAAP",
               "signature": "3377071816"
+            }
+          },
+          {
+            "$": {
+              "imageName": "TdFFaZ2025_thumb",
+              "name": "2025 Watch the Femmes FCT",
+              "signature": "3379440773"
             }
           },
           {
@@ -19162,6 +19692,13 @@
           },
           {
             "$": {
+              "imageName": "CheesecakeCrew2025_thumb",
+              "name": "Cheesecake Crew",
+              "signature": "3660039747"
+            }
+          },
+          {
+            "$": {
               "imageName": "WSR_thumb",
               "name": "World Social Riders",
               "signature": "3660609812"
@@ -19193,6 +19730,13 @@
               "imageName": "MountainMassif2023_thumb",
               "name": "Mountain Massif 2023",
               "signature": "3681814664"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RaphaWomens1002025_thumb",
+              "name": "Rapha Women's 100 + Kelly Anna",
+              "signature": "3686333973"
             }
           },
           {
@@ -19333,6 +19877,13 @@
               "imageName": "JETT2021_thumb",
               "name": "JETT",
               "signature": "3752612147"
+            }
+          },
+          {
+            "$": {
+              "imageName": "HertsCountyTriathletes2025_thumb",
+              "name": "Herts County Triathletes",
+              "signature": "3754285428"
             }
           },
           {
@@ -19659,6 +20210,13 @@
           },
           {
             "$": {
+              "imageName": "ZwifteursGhostTeam2025_thumb",
+              "name": "Zwifteurs Ghost Team",
+              "signature": "3895503603"
+            }
+          },
+          {
+            "$": {
               "imageName": "QhubekaAssos2021_thumb",
               "name": "Qhubeka Assos Pro Team Kit",
               "signature": "3895671417"
@@ -19781,6 +20339,13 @@
               "imageName": "UCIZwiftChamps2020_thumb",
               "name": "Zwift UCI 2020 Champion",
               "signature": "3940719237"
+            }
+          },
+          {
+            "$": {
+              "imageName": "Fietsvrouwen2025_thumb",
+              "name": "Fietsvrouwen",
+              "signature": "3952322364"
             }
           },
           {
@@ -20241,7 +20806,7 @@
           {
             "$": {
               "imageName": "RideLikeKing2025_thumb",
-              "name": "LOC_CYCLING_JERSEY_RIDELIKEKING2025",
+              "name": "Ride Like King",
               "signature": "4144758799"
             }
           },
@@ -20425,6 +20990,13 @@
               "imageName": "AHDRAustralia2023_thumb",
               "name": "AHDR Australia 2023",
               "signature": "4272071449"
+            }
+          },
+          {
+            "$": {
+              "imageName": "TdFFaZ2025_thumb",
+              "name": "2025 Watch the Femmes RC",
+              "signature": "4279464621"
             }
           },
           {
@@ -20904,6 +21476,13 @@
           },
           {
             "$": {
+              "imageName": "EpicRunCrew2025_thumb",
+              "name": "Epic Run Crew",
+              "signature": "1543112234"
+            }
+          },
+          {
+            "$": {
               "imageName": "TourOfWatopia2024_thumb",
               "name": "Tour of Watopia '24",
               "signature": "1556464651"
@@ -21047,6 +21626,13 @@
               "imageName": "AsicsRun2022_thumb",
               "name": "ASICS VENTILATE ACTIBREEZE™ SS",
               "signature": "2053684003"
+            }
+          },
+          {
+            "$": {
+              "imageName": "ZwiftUnlocked2025_thumb",
+              "name": "2025 Zwift Unlocked",
+              "signature": "2056352041"
             }
           },
           {
@@ -21872,6 +22458,13 @@
               "imageName": "CollinsCupRunRed2020_thumb",
               "name": "Collins Cup USA",
               "signature": "641588231"
+            }
+          },
+          {
+            "$": {
+              "imageName": "ZwiftUnlocked2025_thumb",
+              "name": "2025 Zwift Unlocked",
+              "signature": "675798294"
             }
           },
           {
@@ -22777,6 +23370,13 @@
         "BIKESHOE": [
           {
             "$": {
+              "imageName": "ZwiftCampBaseline2025_thumb",
+              "name": "2025 Zwift Camp: Baseline Lace Ups",
+              "signature": "119293702"
+            }
+          },
+          {
+            "$": {
               "imageName": "BigSpin2024_thumb",
               "name": "The Zwift Big Spin Shoes",
               "signature": "123888986"
@@ -22946,7 +23546,7 @@
           {
             "$": {
               "imageName": "NimblFEATUltimate_thumb",
-              "name": "Nimbl Ultimate Pro",
+              "name": "nimbl Ultimate Pro",
               "signature": "3389594817"
             }
           },
@@ -23021,8 +23621,15 @@
           },
           {
             "$": {
+              "imageName": "Wheel_DTSwissARC1100DICUT65",
+              "name": "DTSwiss ARC 1100 DICUT 65",
+              "signature": "195571528"
+            }
+          },
+          {
+            "$": {
               "imageName": "Wheel_ShimanoDuraAceC60",
-              "name": "Shimano C60",
+              "name": "Shimano DURA-ACE C60",
               "signature": "272842014"
             }
           },
@@ -23038,6 +23645,13 @@
               "imageName": "Wheel_ZwiftCampBaseline2024",
               "name": "Zwift Zwift Baseline Wheels",
               "signature": "291681757"
+            }
+          },
+          {
+            "$": {
+              "imageName": "Wheel_ShimanoDuraAceC36",
+              "name": "Shimano Shimano C36",
+              "signature": "304842870"
             }
           },
           {
@@ -23133,6 +23747,13 @@
           },
           {
             "$": {
+              "imageName": "Wheel_DTSwissARC1100DICUT85DISC",
+              "name": "DTSwiss ARC 1100 DICUT 85/Disc",
+              "signature": "1213183664"
+            }
+          },
+          {
+            "$": {
               "imageName": "Wheel_BigSpin2025",
               "name": "Zwift Groovy Time Trial Wheels",
               "signature": "1299227258"
@@ -23204,7 +23825,7 @@
           {
             "$": {
               "imageName": "Wheel_ShimanoDuraAceC50",
-              "name": "Shimano C50",
+              "name": "Shimano DURA-ACE C50",
               "signature": "1742598126"
             }
           },
@@ -23364,6 +23985,13 @@
           },
           {
             "$": {
+              "imageName": "Wheel_ENVESES4",
+              "name": "Enve ENVE SES 4.5 PRO",
+              "signature": "3114121871"
+            }
+          },
+          {
+            "$": {
               "imageName": "Wheel_BigSpinBMX2025",
               "name": "Zwift BMX Bandit",
               "signature": "3207647806"
@@ -23374,6 +24002,20 @@
               "imageName": "Wheel_Enve67",
               "name": "Enve SES 6.7",
               "signature": "3251069251"
+            }
+          },
+          {
+            "$": {
+              "imageName": "Wheel_BromptonPLine2025",
+              "name": "Zwift Brompton P Line",
+              "signature": "3557711998"
+            }
+          },
+          {
+            "$": {
+              "imageName": "Wheel_ZwiftPrideOn2025",
+              "name": "Zwift Pride On Disc",
+              "signature": "3682262345"
             }
           },
           {
@@ -23524,6 +24166,27 @@
           },
           {
             "$": {
+              "imageName": "Wheel_ZwiftPrideOn2025",
+              "name": "Zwift Pride On Disc",
+              "signature": "530639802"
+            }
+          },
+          {
+            "$": {
+              "imageName": "Wheel_DTSwissARC1100DICUT85DISC",
+              "name": "DTSwiss ARC 1100 DICUT 85/Disc",
+              "signature": "590647095"
+            }
+          },
+          {
+            "$": {
+              "imageName": "Wheel_ENVESES4",
+              "name": "Enve ENVE SES 4.5 PRO",
+              "signature": "635106022"
+            }
+          },
+          {
+            "$": {
               "imageName": "Wheel_ZwiftPlain",
               "name": "Zwift Plain",
               "signature": "705669234"
@@ -23552,6 +24215,13 @@
           },
           {
             "$": {
+              "imageName": "Wheel_ShimanoDuraAceC36",
+              "name": "Shimano Shimano C36",
+              "signature": "1002105871"
+            }
+          },
+          {
+            "$": {
               "imageName": "Wheel_AdvancedPropel",
               "name": "Giant SLR 0",
               "signature": "1023074440"
@@ -23567,7 +24237,7 @@
           {
             "$": {
               "imageName": "Wheel_ShimanoDuraAceC60",
-              "name": "Shimano C60",
+              "name": "Shimano DURA-ACE C60",
               "signature": "1207119882"
             }
           },
@@ -23625,6 +24295,13 @@
               "imageName": "",
               "name": "Zwift Mountain",
               "signature": "1796445915"
+            }
+          },
+          {
+            "$": {
+              "imageName": "Wheel_BromptonPLine2025",
+              "name": "Zwift Brompton P Line",
+              "signature": "1810163955"
             }
           },
           {
@@ -23748,6 +24425,13 @@
           },
           {
             "$": {
+              "imageName": "Wheel_DTSwissARC1100DICUT65",
+              "name": "DTSwiss ARC 1100 DICUT 65",
+              "signature": "2906922335"
+            }
+          },
+          {
+            "$": {
               "imageName": "Wheel_VanquishRC6",
               "name": "HED HED Vanquish RC6 Pro",
               "signature": "2913819265"
@@ -23805,7 +24489,7 @@
           {
             "$": {
               "imageName": "Wheel_ShimanoDuraAceC50",
-              "name": "Shimano C50",
+              "name": "Shimano DURA-ACE C50",
               "signature": "3725678091"
             }
           },
@@ -23904,7 +24588,7 @@
               "bikeClass": "HIGH_END",
               "brand": "Ventum",
               "isTT": "1",
-              "lvId": "405837660",
+              "lvId": "4169711732",
               "modelYear": "2018",
               "name": "Ventum One",
               "price0": "100000",
@@ -23922,7 +24606,7 @@
               "isTT": "1",
               "lvId": "405837660",
               "modelYear": "2021",
-              "name": "Felt Felt TT 2021",
+              "name": "Felt IA 2.0",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -23938,7 +24622,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2022",
-              "name": "Scott ScottFoil2022",
+              "name": "Scott Foil 2023",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -23954,7 +24638,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2021",
-              "name": "Liv LivLangma2021",
+              "name": "Liv Langma SL Advanced Disc",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -23998,9 +24682,25 @@
           {
             "$": {
               "bikeClass": "HIGH_END",
+              "brand": "Liv",
+              "isTT": "0",
+              "lvId": "4169711732",
+              "modelYear": "2025",
+              "name": "Liv Langma Advanced SL 2025",
+              "price0": "100000",
+              "price1": "200000",
+              "price2": "350000",
+              "price3": "500000",
+              "price4": "750000",
+              "signature": "120090876"
+            }
+          },
+          {
+            "$": {
+              "bikeClass": "HIGH_END",
               "brand": "Cervelo",
               "isTT": "1",
-              "lvId": "405837660",
+              "lvId": "4169711732",
               "modelYear": "2017",
               "name": "Cervelo PX-Series",
               "price0": "100000",
@@ -24082,7 +24782,7 @@
               "isTT": "1",
               "lvId": "405837660",
               "modelYear": "2021",
-              "name": "Trek Speed Concept 2021",
+              "name": "Trek Speed Concept SLR 9",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24130,7 +24830,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2021",
-              "name": "Canyon Aeroad Team Edition",
+              "name": "Canyon Aeroad Team Edition 2021",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24178,7 +24878,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2021",
-              "name": "Allied AlliedAble2022",
+              "name": "Allied Able",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -24210,7 +24910,7 @@
               "isTT": "0",
               "lvId": "1253068759",
               "modelYear": "2020",
-              "name": "Trek Super Caliber 2020",
+              "name": "Trek Super Caliber",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24242,7 +24942,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2024",
-              "name": "Specialized SWorksTarmacSL8",
+              "name": "Specialized S-Works Tarmac SL8",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24258,7 +24958,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2024",
-              "name": "Specialized SpecializedTarmacSL8",
+              "name": "Specialized Tarmac SL8",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24304,7 +25004,7 @@
               "bikeClass": "HIGH_END",
               "brand": "Specialized",
               "isTT": "0",
-              "lvId": "4169711732",
+              "lvId": "405837660",
               "modelYear": "0",
               "name": "Specialized Roubaix S-Works",
               "price0": "100000",
@@ -24338,7 +25038,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2022",
-              "name": "Ventum VentumNS12022",
+              "name": "Ventum NS1",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -24386,7 +25086,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2015",
-              "name": "Specialized Venge",
+              "name": "Specialized Venge 2015",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -24450,7 +25150,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2024",
-              "name": "Canyon AeroadSRAM2024",
+              "name": "Canyon Aeroad 2024 / SRAM",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24466,7 +25166,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2022",
-              "name": "Specialized SpecializedDiverge2022",
+              "name": "Specialized Diverge",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -24482,7 +25182,7 @@
               "isTT": "1",
               "lvId": "405837660",
               "modelYear": "2022",
-              "name": "QuintanaRoo QuintanaVPR2022",
+              "name": "QuintanaRoo Roo V-PR",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24514,7 +25214,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2021",
-              "name": "Chapter2 Chapter2TOA2021",
+              "name": "Chapter2 Toa",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -24530,7 +25230,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2021",
-              "name": "Specialized Tarmac SL7 Sram",
+              "name": "Specialized Tarmac SL7 SRAM",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24562,7 +25262,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2015",
-              "name": "Scott Foil",
+              "name": "Scott Foil 2015",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -24594,7 +25294,7 @@
               "isTT": "0",
               "lvId": "28476688",
               "modelYear": "1885",
-              "name": "Zwift BigSpinCruiser2024",
+              "name": "Zwift Atomic Cruiser",
               "price0": "25000",
               "price1": "50000",
               "price2": "75000",
@@ -24688,7 +25388,7 @@
               "bikeClass": "MID_RANGE",
               "brand": "Cannondale",
               "isTT": "0",
-              "lvId": "2351078103",
+              "lvId": "3276754954",
               "modelYear": "2015",
               "name": "Cannondale EVO",
               "price0": "50000",
@@ -24722,7 +25422,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2024",
-              "name": "Cannondale Super Six EVO LAB71",
+              "name": "Cannondale SuperSix Evo LAB71",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24738,7 +25438,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2022",
-              "name": "Specialized Specialized Crux 2022",
+              "name": "Specialized Crux",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24754,7 +25454,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2021",
-              "name": "Canyon CanyonUltimate2021",
+              "name": "Canyon Ultimate CFR",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24770,7 +25470,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2021",
-              "name": "Cube CubeLitening2021",
+              "name": "Cube Litening C:68X",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24802,7 +25502,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2018",
-              "name": "Cube Cube Litening",
+              "name": "Cube Litening",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -24834,7 +25534,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2022",
-              "name": "Mosaic MosaicRT12022",
+              "name": "Mosaic RT-1d",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -24850,7 +25550,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2021",
-              "name": "Moots MootsVamoots2021",
+              "name": "Moots Vamoots RCS",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24882,7 +25582,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2022",
-              "name": "Chapter2 Chapter2KOKO2022",
+              "name": "Chapter2 Koko",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24898,7 +25598,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2024",
-              "name": "Pinarello DogmaF2024",
+              "name": "Pinarello Dogma F 2024",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24914,7 +25614,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2021",
-              "name": "Cervelo CerveloS52021",
+              "name": "Cervelo S5 2020",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24930,7 +25630,7 @@
               "isTT": "1",
               "lvId": "405837660",
               "modelYear": "2022",
-              "name": "Scott ScottPlasma2022",
+              "name": "Scott Plasma RC Ultimate",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -24962,7 +25662,7 @@
               "isTT": "0",
               "lvId": "28476688",
               "modelYear": "0",
-              "name": "Zwift BigWheel-Concept",
+              "name": "Zwift BigWheel",
               "price0": "25000",
               "price1": "50000",
               "price2": "75000",
@@ -25058,7 +25758,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2021",
-              "name": "Uranium UraniumNuclear2021",
+              "name": "Uranium Nuclear",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -25074,7 +25774,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2021",
-              "name": "Liv LivDevote2022",
+              "name": "Liv Devote Advanced Pro",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -25090,7 +25790,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2015",
-              "name": "Giant TCR Advanced SL",
+              "name": "Giant TCR Advanced SL 2021",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -25106,7 +25806,7 @@
               "isTT": "0",
               "lvId": "1060224344",
               "modelYear": "2024",
-              "name": "Specialized Project74",
+              "name": "Specialized PROJECT 74",
               "price0": "400000",
               "price1": "800000",
               "price2": "1200000",
@@ -25122,7 +25822,7 @@
               "isTT": "0",
               "lvId": "1253068759",
               "modelYear": "2021",
-              "name": "Specialized SpecializedAethos2021",
+              "name": "Specialized Aethos S-Works",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25138,7 +25838,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2022",
-              "name": "Giant GiantRevolt2022",
+              "name": "Giant Revolt Advanced Pro",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -25218,7 +25918,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2021",
-              "name": "VanRysel VanRyselEDR2021",
+              "name": "VanRysel EDR CF",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -25250,7 +25950,7 @@
               "isTT": "1",
               "lvId": "405837660",
               "modelYear": "2021",
-              "name": "Canyon CanyonSpeedmaxCRSLXDisc2021",
+              "name": "Canyon Speedmax CF SLX Disc",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25266,7 +25966,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2021",
-              "name": "Giant GiantTCRAdvancedSL",
+              "name": "Giant TCR BikeExchange-Jayco Team",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25282,7 +25982,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2024",
-              "name": "Canyon Aeroad2024",
+              "name": "Canyon Aeroad 2024",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25298,7 +25998,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2015",
-              "name": "Cervelo S5",
+              "name": "Cervelo S5 2015",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -25378,7 +26078,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2022",
-              "name": "Canyon CanyonSRAMUltimate2022",
+              "name": "Canyon Ultimate Generation",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25426,7 +26126,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2021",
-              "name": "BMC BMCRoadMachine2021",
+              "name": "BMC Roadmachine",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -25437,18 +26137,34 @@
           },
           {
             "$": {
-              "bikeClass": "HIGH_END",
+              "bikeClass": "MID_RANGE",
               "brand": "Felt",
               "isTT": "0",
-              "lvId": "4169711732",
+              "lvId": "3276754954",
               "modelYear": "2018",
               "name": "Felt AR",
-              "price0": "100000",
-              "price1": "200000",
-              "price2": "350000",
-              "price3": "500000",
-              "price4": "750000",
+              "price0": "50000",
+              "price1": "100000",
+              "price2": "150000",
+              "price3": "200000",
+              "price4": "250000",
               "signature": "3002729519"
+            }
+          },
+          {
+            "$": {
+              "bikeClass": "ENTRY",
+              "brand": "Zwift",
+              "isTT": "0",
+              "lvId": "28476688",
+              "modelYear": "2025",
+              "name": "Zwift Brompton P Line",
+              "price0": "25000",
+              "price1": "50000",
+              "price2": "75000",
+              "price3": "100000",
+              "price4": "150000",
+              "signature": "3017804836"
             }
           },
           {
@@ -25506,7 +26222,7 @@
               "isTT": "0",
               "lvId": "1253068759",
               "modelYear": "2022",
-              "name": "Scott ScottSparkMTB2022",
+              "name": "Scott Spark RC World Cup",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25545,6 +26261,22 @@
               "price3": "100000",
               "price4": "150000",
               "signature": "3247466139"
+            }
+          },
+          {
+            "$": {
+              "bikeClass": "HIGH_END",
+              "brand": "Giant",
+              "isTT": "0",
+              "lvId": "4169711732",
+              "modelYear": "2025",
+              "name": "Giant TCR Advanced SL 2025",
+              "price0": "100000",
+              "price1": "200000",
+              "price2": "350000",
+              "price3": "500000",
+              "price4": "750000",
+              "signature": "3261976214"
             }
           },
           {
@@ -25602,7 +26334,7 @@
               "isTT": "1",
               "lvId": "405837660",
               "modelYear": "2022",
-              "name": "Cadex CadexTri2022",
+              "name": "Cadex Tri",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25648,9 +26380,9 @@
               "bikeClass": "HIGH_END",
               "brand": "Liv",
               "isTT": "0",
-              "lvId": "4169711732",
+              "lvId": "405837660",
               "modelYear": "2018",
-              "name": "Liv Langma Advanced SL",
+              "name": "Liv Langma Advanced SL 2021",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25666,7 +26398,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2019",
-              "name": "Specialized Venge S-Works",
+              "name": "Specialized Venge S-Works 2019",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25714,7 +26446,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2020",
-              "name": "Colnago Colnago V3RS",
+              "name": "Colnago V3RS",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25730,7 +26462,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2022",
-              "name": "Felt FeltFR2022",
+              "name": "Felt FR",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25762,7 +26494,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2023",
-              "name": "Pinarello DogmaX2024",
+              "name": "Pinarello Dogma X",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25778,7 +26510,7 @@
               "isTT": "0",
               "lvId": "1060224344",
               "modelYear": "1995",
-              "name": "Cannondale CannondaleR4000RollerBlade",
+              "name": "Cannondale R4000 Roller Blade",
               "price0": "400000",
               "price1": "800000",
               "price2": "1200000",
@@ -25810,7 +26542,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2021",
-              "name": "Lauf Lauf True Grit",
+              "name": "Lauf True Grit",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -25842,7 +26574,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2020",
-              "name": "Focus Izalco Max 2020",
+              "name": "Focus Izalco Max",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -25858,7 +26590,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2022",
-              "name": "BMC BmcTeamMachine2022",
+              "name": "BMC TeamMachine",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -25906,7 +26638,7 @@
               "isTT": "0",
               "lvId": "2351078103",
               "modelYear": "2021",
-              "name": "Bridgestone BridgestoneOVS2021",
+              "name": "Bridgestone Anchor RS9s",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -25970,7 +26702,7 @@
               "isTT": "0",
               "lvId": "28476688",
               "modelYear": "1885",
-              "name": "Zwift BigSpin2025",
+              "name": "Zwift BMX Bandit",
               "price0": "25000",
               "price1": "50000",
               "price2": "75000",
@@ -26018,7 +26750,7 @@
               "isTT": "0",
               "lvId": "3276754954",
               "modelYear": "2021",
-              "name": "Scott ScottAddict2021",
+              "name": "Scott Addict RC",
               "price0": "50000",
               "price1": "100000",
               "price2": "150000",
@@ -26098,7 +26830,7 @@
               "isTT": "0",
               "lvId": "4169711732",
               "modelYear": "2021",
-              "name": "Pinarello Dogma F",
+              "name": "Pinarello Dogma F 2021",
               "price0": "100000",
               "price1": "200000",
               "price2": "350000",
@@ -26114,7 +26846,7 @@
               "isTT": "0",
               "lvId": "1060224344",
               "modelYear": "2115",
-              "name": "Zwift Concept Z1 Gold",
+              "name": "Zwift Golden Concept Z1",
               "price0": "400000",
               "price1": "800000",
               "price2": "1200000",
@@ -26149,6 +26881,12 @@
             "$": {
               "name": "Zwift BigSpin2025-",
               "signature": "0"
+            }
+          },
+          {
+            "$": {
+              "name": "Giant GiantTCRAdvancedSL2023-default",
+              "signature": "12577204"
             }
           },
           {
@@ -26315,6 +27053,12 @@
           },
           {
             "$": {
+              "name": "Zwift BromptonPLine2025-Default",
+              "signature": "674138548"
+            }
+          },
+          {
+            "$": {
               "name": "Specialized Tarmac Mixtape-Specialized MixTape",
               "signature": "689888077"
             }
@@ -26437,6 +27181,12 @@
             "$": {
               "name": "Specialized Roubaix S-Works-Rocket Red",
               "signature": "1132004705"
+            }
+          },
+          {
+            "$": {
+              "name": "Liv LivLangmaAdvancedSL2023-default",
+              "signature": "1192921579"
             }
           },
           {
@@ -28713,6 +29463,13 @@
           },
           {
             "$": {
+              "imageName": "ZwiftCampBaseline2025_thumb",
+              "name": "2025 Zwift Camp: Baseline",
+              "signature": "769319873"
+            }
+          },
+          {
+            "$": {
               "imageName": "RunningCapTourDeZwift2022_thumb",
               "name": "Tour de Zwift 2022 Run Cap",
               "signature": "788235908"
@@ -29105,6 +29862,13 @@
           },
           {
             "$": {
+              "imageName": "EkoiRAero2025_thumb",
+              "name": "Ekoi",
+              "signature": "2566547961"
+            }
+          },
+          {
+            "$": {
               "imageName": "VisorBigSpin2025_thumb",
               "name": "Granny Visor",
               "signature": "2595853305"
@@ -29155,7 +29919,7 @@
           {
             "$": {
               "imageName": "HeadphonesBigSpin2024_thumb",
-              "name": "Orange Headphones",
+              "name": "Zwift x H20",
               "signature": "2684416694"
             }
           },
@@ -29336,6 +30100,13 @@
           },
           {
             "$": {
+              "imageName": "BeanieZwiftUnlocked2025_thumb",
+              "name": "2025 Zwift Unlocked",
+              "signature": "3339150633"
+            }
+          },
+          {
+            "$": {
               "imageName": "GiroEclipseCanyonSRAM2021",
               "name": "Giro Eclipse Canyon SRAM",
               "signature": "3346861673"
@@ -29402,6 +30173,13 @@
               "imageName": "BackwardsCapZARun2021_thumb",
               "name": "2021 ZA Tri Hat Backwards",
               "signature": "3525135378"
+            }
+          },
+          {
+            "$": {
+              "imageName": "DevilHorns2025_thumb",
+              "name": "Didi the Devil",
+              "signature": "3534088186"
             }
           },
           {
@@ -31882,7 +32660,7 @@
           {
             "$": {
               "imageName": "RouteComplete",
-              "name": "TRIPLE TWISTS",
+              "name": "TRIPLE TWIST",
               "routeSignature": "2644664789",
               "sport": "0",
               "signature": "272"
@@ -32130,6 +32908,42 @@
               "sport": "1",
               "signature": "299"
             }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "RED ZONE REPEATS",
+              "routeSignature": "2892858917",
+              "sport": "0",
+              "signature": "300"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "POWER PUNCHES",
+              "routeSignature": "1201172818",
+              "sport": "0",
+              "signature": "301"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "CLIMB CONTROL",
+              "routeSignature": "1464561389",
+              "sport": "0",
+              "signature": "302"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "FLAT OUT FAST",
+              "routeSignature": "1258526800",
+              "sport": "0",
+              "signature": "303"
+            }
           }
         ]
       }
@@ -32288,7 +33102,15 @@
               "imageName": "SPECIAL_EVENT",
               "name": "SPECIAL EVENT",
               "priority": "9",
-              "signature": "33"
+              "signature": "34"
+            }
+          },
+          {
+            "$": {
+              "imageName": "NEW_POWER_PR",
+              "name": "NEW POWER PR:",
+              "priority": "16",
+              "signature": "35"
             }
           }
         ]
@@ -33702,7 +34524,7 @@
               "JerseyPath": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_01.tgax",
               "JerseyPathFemale": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_Female.tgax",
               "LeaderJerseyName": "Climb Champion",
-              "MinCompletionTime": "101.0000000000",
+              "MinCompletionTime": "78.0000000000",
               "MinimapIconPath": "UI/minimap/map_arch_start_watopia.tga",
               "PinIconPath": "UI/WhiteOrangeTheme/HUD/Marker_Crown.tga",
               "UserFacingName": "Cauberg",
@@ -33738,6 +34560,122 @@
               "difficulty_levels": "050,075,100,125",
               "name": "Côte de la Redoute",
               "signature": "10044"
+            }
+          },
+          {
+            "$": {
+              "ArchFemaleName": "Mûr De Bretagne",
+              "ArchFriendlyName": "Mûr De Bretagne",
+              "ArchID": "2",
+              "AverageSlope": "6.5628795624",
+              "CourseAscentF": "12882.7382812500",
+              "CourseAscentR": "-1.0000000000",
+              "CourseLength": "197122.5781250000",
+              "Description": "Mûr De Bretagne",
+              "Duration": "0",
+              "Effort": "0.0000000000",
+              "Hash": "10045",
+              "InternalName": "Mûr De Bretagne",
+              "JerseyFemaleHash": "1832490174",
+              "JerseyHash": "2498899049",
+              "JerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
+              "JerseyPath": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_01.tgax",
+              "JerseyPathFemale": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_Female.tgax",
+              "LeaderJerseyName": "Climb Champion",
+              "MinCompletionTime": "101.0000000000",
+              "MinimapIconPath": "UI/minimap/map_arch_start_watopia.tga",
+              "PinIconPath": "UI/WhiteOrangeTheme/HUD/Marker_Crown.tga",
+              "UserFacingName": "Mûr De Bretagne",
+              "difficulty_levels": "050,075,100,125",
+              "name": "Mûr De Bretagne",
+              "signature": "10045"
+            }
+          },
+          {
+            "$": {
+              "ArchFemaleName": "Hautacam",
+              "ArchFriendlyName": "Hautacam",
+              "ArchID": "2",
+              "AverageSlope": "8.0555725098",
+              "CourseAscentF": "102302.6015625000",
+              "CourseAscentR": "-1.0000000000",
+              "CourseLength": "1269734.5000000000",
+              "Description": "Hautacam",
+              "Duration": "0",
+              "Effort": "0.0000000000",
+              "Hash": "10046",
+              "InternalName": "Hautacam",
+              "JerseyFemaleHash": "1832490174",
+              "JerseyHash": "2498899049",
+              "JerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
+              "JerseyPath": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_01.tgax",
+              "JerseyPathFemale": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_Female.tgax",
+              "LeaderJerseyName": "Climb Champion",
+              "MinCompletionTime": "101.0000000000",
+              "MinimapIconPath": "UI/minimap/map_arch_start_watopia.tga",
+              "PinIconPath": "UI/WhiteOrangeTheme/HUD/Marker_Crown.tga",
+              "UserFacingName": "Hautacam",
+              "difficulty_levels": "050,075,100,125",
+              "name": "Hautacam",
+              "signature": "10046"
+            }
+          },
+          {
+            "$": {
+              "ArchFemaleName": "Col de la Croix Saint-Robert",
+              "ArchFriendlyName": "Col de la Croix Saint-Robert",
+              "ArchID": "2",
+              "AverageSlope": "6.0320458412",
+              "CourseAscentF": "34552.8203125000",
+              "CourseAscentR": "-1.0000000000",
+              "CourseLength": "573219.7500000000",
+              "Description": "Col de la Croix Saint-Robert",
+              "Duration": "0",
+              "Effort": "0.0000000000",
+              "Hash": "10047",
+              "InternalName": "Col de la Croix Saint-Robert",
+              "JerseyFemaleHash": "1832490174",
+              "JerseyHash": "2498899049",
+              "JerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
+              "JerseyPath": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_01.tgax",
+              "JerseyPathFemale": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_Female.tgax",
+              "LeaderJerseyName": "Climb Champion",
+              "MinCompletionTime": "101.0000000000",
+              "MinimapIconPath": "UI/minimap/map_arch_start_watopia.tga",
+              "PinIconPath": "UI/WhiteOrangeTheme/HUD/Marker_Crown.tga",
+              "UserFacingName": "Col de la Croix Saint-Robert",
+              "difficulty_levels": "050,075,100,125",
+              "name": "Col de la Croix Saint-Robert",
+              "signature": "10047"
+            }
+          },
+          {
+            "$": {
+              "ArchFemaleName": "Col de la Madeleine",
+              "ArchFriendlyName": "Col de la Madeleine",
+              "ArchID": "2",
+              "AverageSlope": "7.7892026901",
+              "CourseAscentF": "111083.4921875000",
+              "CourseAscentR": "-1.0000000000",
+              "CourseLength": "1430862.5000000000",
+              "Description": "Col de la Madeleine",
+              "Duration": "73",
+              "Effort": "5.0000000000",
+              "Hash": "10048",
+              "InternalName": "Col de la Madeleine",
+              "JerseyFemaleHash": "1832490174",
+              "JerseyHash": "2498899049",
+              "JerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
+              "JerseyPath": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_01.tgax",
+              "JerseyPathFemale": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_Female.tgax",
+              "LeaderJerseyName": "Climb Champion",
+              "MinCompletionTime": "101.0000000000",
+              "MinimapIconPath": "UI/minimap/map_arch_start_watopia.tga",
+              "PinIconPath": "UI/WhiteOrangeTheme/HUD/Marker_Crown.tga",
+              "UserFacingName": "Col de la Madeleine",
+              "difficulty_levels": "050,075,100,125",
+              "name": "Col de la Madeleine",
+              "signature": "10048"
             }
           }
         ]

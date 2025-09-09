@@ -125,6 +125,11 @@
     "imageName": "Newsy"
   },
   {
+    "id": 769319873,
+    "name": "2025 Zwift Camp: Baseline",
+    "imageName": "ZwiftCampBaseline2025_thumb"
+  },
+  {
     "id": 788235908,
     "name": "Tour de Zwift 2022 Run Cap",
     "imageName": "RunningCapTourDeZwift2022_thumb"
@@ -405,6 +410,11 @@
     "imageName": "HeadphonesWatchTheFemmes2025_thumb"
   },
   {
+    "id": 2566547961,
+    "name": "Ekoi",
+    "imageName": "EkoiRAero2025_thumb"
+  },
+  {
     "id": 2595853305,
     "name": "Granny Visor",
     "imageName": "VisorBigSpin2025_thumb"
@@ -441,7 +451,7 @@
   },
   {
     "id": 2684416694,
-    "name": "Orange Headphones",
+    "name": "Zwift x H20",
     "imageName": "HeadphonesBigSpin2024_thumb"
   },
   {
@@ -570,6 +580,11 @@
     "imageName": "CyclingCapRaphaRising2022_thumb"
   },
   {
+    "id": 3339150633,
+    "name": "2025 Zwift Unlocked",
+    "imageName": "BeanieZwiftUnlocked2025_thumb"
+  },
+  {
     "id": 3346861673,
     "name": "Giro Eclipse Canyon SRAM",
     "imageName": "GiroEclipseCanyonSRAM2021"
@@ -618,6 +633,11 @@
     "id": 3525135378,
     "name": "2021 ZA Tri Hat Backwards",
     "imageName": "BackwardsCapZARun2021_thumb"
+  },
+  {
+    "id": 3534088186,
+    "name": "Didi the Devil",
+    "imageName": "DevilHorns2025_thumb"
   },
   {
     "id": 3556872596,

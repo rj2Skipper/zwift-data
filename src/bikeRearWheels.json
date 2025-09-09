@@ -55,6 +55,21 @@
     "imageName": "Wheel_ShimanoDuraAceC40"
   },
   {
+    "id": 530639802,
+    "name": "Zwift Pride On Disc",
+    "imageName": "Wheel_ZwiftPrideOn2025"
+  },
+  {
+    "id": 590647095,
+    "name": "DTSwiss ARC 1100 DICUT 85/Disc",
+    "imageName": "Wheel_DTSwissARC1100DICUT85DISC"
+  },
+  {
+    "id": 635106022,
+    "name": "Enve ENVE SES 4.5 PRO",
+    "imageName": "Wheel_ENVESES4"
+  },
+  {
     "id": 705669234,
     "name": "Zwift Plain",
     "imageName": "Wheel_ZwiftPlain"
@@ -75,6 +90,11 @@
     "imageName": "Wheel_ZwiftConcept"
   },
   {
+    "id": 1002105871,
+    "name": "Shimano Shimano C36",
+    "imageName": "Wheel_ShimanoDuraAceC36"
+  },
+  {
     "id": 1023074440,
     "name": "Giant SLR 0",
     "imageName": "Wheel_AdvancedPropel"
@@ -86,7 +106,7 @@
   },
   {
     "id": 1207119882,
-    "name": "Shimano C60",
+    "name": "Shimano DURA-ACE C60",
     "imageName": "Wheel_ShimanoDuraAceC60"
   },
   {
@@ -128,6 +148,11 @@
     "id": 1796445915,
     "name": "Zwift Mountain",
     "imageName": ""
+  },
+  {
+    "id": 1810163955,
+    "name": "Zwift Brompton P Line",
+    "imageName": "Wheel_BromptonPLine2025"
   },
   {
     "id": 1842698274,
@@ -215,6 +240,11 @@
     "imageName": "Wheel_DTSwissARC1100AeroTT"
   },
   {
+    "id": 2906922335,
+    "name": "DTSwiss ARC 1100 DICUT 65",
+    "imageName": "Wheel_DTSwissARC1100DICUT65"
+  },
+  {
     "id": 2913819265,
     "name": "HED HED Vanquish RC6 Pro",
     "imageName": "Wheel_VanquishRC6"
@@ -256,7 +286,7 @@
   },
   {
     "id": 3725678091,
-    "name": "Shimano C50",
+    "name": "Shimano DURA-ACE C50",
     "imageName": "Wheel_ShimanoDuraAceC50"
   },
   {

@@ -1291,7 +1291,7 @@
   },
   {
     "id": 272,
-    "name": "TRIPLE TWISTS",
+    "name": "TRIPLE TWIST",
     "imageName": "RouteComplete"
   },
   {
@@ -1427,6 +1427,26 @@
   {
     "id": 299,
     "name": "RAPIDE RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 300,
+    "name": "RED ZONE REPEATS",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 301,
+    "name": "POWER PUNCHES",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 302,
+    "name": "CLIMB CONTROL",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 303,
+    "name": "FLAT OUT FAST",
     "imageName": "RouteComplete"
   }
 ]

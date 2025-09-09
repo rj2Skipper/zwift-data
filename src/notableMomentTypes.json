@@ -84,9 +84,15 @@
     "priority": 15
   },
   {
-    "id": 33,
+    "id": 34,
     "name": "SPECIAL EVENT",
     "imageName": "SPECIAL_EVENT",
     "priority": 9
+  },
+  {
+    "id": 35,
+    "name": "NEW POWER PR:",
+    "imageName": "NEW_POWER_PR",
+    "priority": 16
   }
 ]

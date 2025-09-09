@@ -15,8 +15,13 @@
     "imageName": "Wheel_RovalAlpinistCLX"
   },
   {
+    "id": 195571528,
+    "name": "DTSwiss ARC 1100 DICUT 65",
+    "imageName": "Wheel_DTSwissARC1100DICUT65"
+  },
+  {
     "id": 272842014,
-    "name": "Shimano C60",
+    "name": "Shimano DURA-ACE C60",
     "imageName": "Wheel_ShimanoDuraAceC60"
   },
   {
@@ -28,6 +33,11 @@
     "id": 291681757,
     "name": "Zwift Zwift Baseline Wheels",
     "imageName": "Wheel_ZwiftCampBaseline2024"
+  },
+  {
+    "id": 304842870,
+    "name": "Shimano Shimano C36",
+    "imageName": "Wheel_ShimanoDuraAceC36"
   },
   {
     "id": 327143135,
@@ -95,6 +105,11 @@
     "imageName": "Wheel_CannondalePong"
   },
   {
+    "id": 1213183664,
+    "name": "DTSwiss ARC 1100 DICUT 85/Disc",
+    "imageName": "Wheel_DTSwissARC1100DICUT85DISC"
+  },
+  {
     "id": 1299227258,
     "name": "Zwift Groovy Time Trial Wheels",
     "imageName": "Wheel_BigSpin2025"
@@ -146,7 +161,7 @@
   },
   {
     "id": 1742598126,
-    "name": "Shimano C50",
+    "name": "Shimano DURA-ACE C50",
     "imageName": "Wheel_ShimanoDuraAceC50"
   },
   {
@@ -260,6 +275,11 @@
     "imageName": ""
   },
   {
+    "id": 3114121871,
+    "name": "Enve ENVE SES 4.5 PRO",
+    "imageName": "Wheel_ENVESES4"
+  },
+  {
     "id": 3207647806,
     "name": "Zwift BMX Bandit",
     "imageName": "Wheel_BigSpinBMX2025"
@@ -268,6 +288,16 @@
     "id": 3251069251,
     "name": "Enve SES 6.7",
     "imageName": "Wheel_Enve67"
+  },
+  {
+    "id": 3557711998,
+    "name": "Zwift Brompton P Line",
+    "imageName": "Wheel_BromptonPLine2025"
+  },
+  {
+    "id": 3682262345,
+    "name": "Zwift Pride On Disc",
+    "imageName": "Wheel_ZwiftPrideOn2025"
   },
   {
     "id": 3787145210,

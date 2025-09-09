@@ -1,5 +1,10 @@
 [
   {
+    "id": 1204170,
+    "name": "LOC_CYCLING_JERSEY_ZWIFTLONGDISTANCERIDERS2025",
+    "imageName": "ZwiftLongDistanceRiders2025_thumb"
+  },
+  {
     "id": 1962443,
     "name": "Zwift Academy Finalist",
     "imageName": "ZARoadFinalist12022_thumb"
@@ -36,7 +41,7 @@
   },
   {
     "id": 64218091,
-    "name": "LOC_CYCLING_JERSEY_TDF2025",
+    "name": "2025 Tour Fever",
     "imageName": "TdF2025_thumb"
   },
   {
@@ -445,6 +450,11 @@
     "imageName": "GGCC2020_thumb"
   },
   {
+    "id": 341851313,
+    "name": "2025 Watch the Femmes",
+    "imageName": "TdFFaZ2025_thumb"
+  },
+  {
     "id": 351896555,
     "name": "Zwift",
     "imageName": "Zwift_02_thumb"
@@ -513,6 +523,11 @@
     "id": 396734242,
     "name": "AHDR Ladies",
     "imageName": "AHDRLadies2023_thumb"
+  },
+  {
+    "id": 396924038,
+    "name": "2025 Watch the Femmes Fietsvrouwen",
+    "imageName": "TdFFaZ2025_thumb"
   },
   {
     "id": 405683158,
@@ -735,6 +750,11 @@
     "imageName": "INEOSGrenadiers2021_thumb"
   },
   {
+    "id": 542634757,
+    "name": "Coffee Lovers",
+    "imageName": "CoffeeLovers2025_thumb"
+  },
+  {
     "id": 550267244,
     "name": "Vocsnor",
     "imageName": "vocsnor_thumb"
@@ -828,6 +848,11 @@
     "id": 605852977,
     "name": "Outfield",
     "imageName": "Outfield_thumb"
+  },
+  {
+    "id": 606227812,
+    "name": "2025 Brompton Tweed",
+    "imageName": "BromptonCasualAttire2025_thumb"
   },
   {
     "id": 608088435,
@@ -965,6 +990,11 @@
     "imageName": "UCIBlackEritrea2022_thumb"
   },
   {
+    "id": 707590131,
+    "name": "JETT 2025",
+    "imageName": "JETT2025_thumb"
+  },
+  {
     "id": 709797933,
     "name": "Electric Spirit Community Team",
     "imageName": "ElectricSpirit2022_thumb"
@@ -1008,6 +1038,11 @@
     "id": 733758360,
     "name": "Richie Carapaz Cycling Club",
     "imageName": "RichieCarapazCC2021_thumb"
+  },
+  {
+    "id": 735858779,
+    "name": "SROZ",
+    "imageName": "SROZ2025_thumb"
   },
   {
     "id": 750929824,
@@ -1158,6 +1193,11 @@
     "id": 842129295,
     "name": "7-Eleven",
     "imageName": "7Eleven_thumb"
+  },
+  {
+    "id": 845913595,
+    "name": "Phoenix Rising",
+    "imageName": "PhoenixRising2025_thumb"
   },
   {
     "id": 850907408,
@@ -1445,6 +1485,11 @@
     "imageName": "ZFondo2021Mar_thumb"
   },
   {
+    "id": 1056669642,
+    "name": "Club Ladder 2025",
+    "imageName": "ClubLadder2025_thumb"
+  },
+  {
     "id": 1065184178,
     "name": "CA Technologies 2018",
     "imageName": "CaTech2018_thumb"
@@ -1500,6 +1545,11 @@
     "imageName": "CollinsCupRed2020_thumb"
   },
   {
+    "id": 1091309531,
+    "name": "Rhino Racing 2025",
+    "imageName": "RhinoRacing2025_thumb"
+  },
+  {
     "id": 1092846644,
     "name": "Zwift eFondo August",
     "imageName": "Zwift_eFondo_Aug_thumb"
@@ -1508,6 +1558,11 @@
     "id": 1097944869,
     "name": "Computrainer",
     "imageName": "Computrainer_thumb"
+  },
+  {
+    "id": 1099349849,
+    "name": "Liv Alula Jayco 2025",
+    "imageName": "LivAlula2025_thumb"
   },
   {
     "id": 1106501889,
@@ -1643,6 +1698,11 @@
     "id": 1198454936,
     "name": "ZNC - Germany",
     "imageName": "ZwiftNationalChampions_thumb"
+  },
+  {
+    "id": 1206463308,
+    "name": "Team INOX",
+    "imageName": "INOX2025_thumb"
   },
   {
     "id": 1214754061,
@@ -1940,6 +2000,11 @@
     "imageName": "LottoSoudalWomens_thumb"
   },
   {
+    "id": 1429709422,
+    "name": "2025 Watch the Femmes QB",
+    "imageName": "TdFFaZ2025_thumb"
+  },
+  {
     "id": 1433773840,
     "name": "HDR",
     "imageName": "HDR_thumb"
@@ -1955,6 +2020,11 @@
     "imageName": "JensieGranFondo2015_thumb"
   },
   {
+    "id": 1445119156,
+    "name": "Female Cycling Force",
+    "imageName": "FemaleCyclingForce2025_thumb"
+  },
+  {
     "id": 1446002244,
     "name": "Lamont Cycling",
     "imageName": "LamontCycling2019_thumb"
@@ -1968,6 +2038,11 @@
     "id": 1461334436,
     "name": "ATOC 2018",
     "imageName": "ATOC2018_thumb"
+  },
+  {
+    "id": 1463878036,
+    "name": "4Star Racing",
+    "imageName": "4StarRacing2025_thumb"
   },
   {
     "id": 1464573843,
@@ -1990,6 +2065,11 @@
     "imageName": "GeelongClub_thumb"
   },
   {
+    "id": 1493064817,
+    "name": "2025 Watch the Femmes FCC",
+    "imageName": "TdFFaZ2025_thumb"
+  },
+  {
     "id": 1494272741,
     "name": "Team SD Worx",
     "imageName": "SDWorx2022_thumb"
@@ -2003,6 +2083,11 @@
     "id": 1499244597,
     "name": "Wahoo Le CoL Team Kit",
     "imageName": "WahooLeCoL2021_thumb"
+  },
+  {
+    "id": 1501856096,
+    "name": "RO4H 2025",
+    "imageName": "RO4H2025_thumb"
   },
   {
     "id": 1502842919,
@@ -2035,6 +2120,11 @@
     "imageName": "JumboVismaWomen2022_thumb"
   },
   {
+    "id": 1558316757,
+    "name": "Hercules Cycling",
+    "imageName": "HerculesCycling2025_thumb"
+  },
+  {
     "id": 1561591671,
     "name": "Bolt Race Team Hellcatz",
     "imageName": "BRTWomens2019_thumb"
@@ -2058,6 +2148,11 @@
     "id": 1576116423,
     "name": "Zwift Academy Finalist",
     "imageName": "ZARoadFinalist52022_thumb"
+  },
+  {
+    "id": 1578439477,
+    "name": "Team Evolve",
+    "imageName": "TeamEvolve2025_thumb"
   },
   {
     "id": 1578477980,
@@ -2103,6 +2198,11 @@
     "id": 1599692741,
     "name": "Tour of Watopia Finishers Kit",
     "imageName": "TourOfWatopiaRed2021_thumb"
+  },
+  {
+    "id": 1600931458,
+    "name": "2025 Zwift Unlocked",
+    "imageName": "ZwiftUnlocked2025_thumb"
   },
   {
     "id": 1607064666,
@@ -2180,6 +2280,11 @@
     "imageName": "QT2Systems2019_thumb"
   },
   {
+    "id": 1646517850,
+    "name": "2025 Zwift Camp: Baseline",
+    "imageName": "ZwiftCampBaseline2025_thumb"
+  },
+  {
     "id": 1647663707,
     "name": "Garmin Tacx Kit",
     "imageName": "GarminTacx2021_thumb"
@@ -2220,6 +2325,11 @@
     "imageName": "ZRScotland2022_thumb"
   },
   {
+    "id": 1667241801,
+    "name": "Team 3R 2025",
+    "imageName": "Team3R2025_thumb"
+  },
+  {
     "id": 1668644908,
     "name": "FDJ Suez",
     "imageName": "FDJSuez2025_thumb"
@@ -2255,6 +2365,11 @@
     "imageName": "AssosSpeedClub2019_thumb"
   },
   {
+    "id": 1713605012,
+    "name": "DBR 2025",
+    "imageName": "DBR2025_thumb"
+  },
+  {
     "id": 1716914056,
     "name": "Cycling Weekly Kit",
     "imageName": "CyclingWeekly2021_thumb"
@@ -2268,6 +2383,11 @@
     "id": 1727340017,
     "name": "Hong Kong Federation Elite 2022",
     "imageName": "UCIBlackHK2022_thumb"
+  },
+  {
+    "id": 1731659900,
+    "name": "Pineapple Torturefest",
+    "imageName": "PineappleTortureFest2025_thumb"
   },
   {
     "id": 1735340823,
@@ -2430,6 +2550,11 @@
     "imageName": "BestBuddies2021_thumb"
   },
   {
+    "id": 1867934628,
+    "name": "Wahoo 2025 - Blue",
+    "imageName": "WahooBlue2025_thumb"
+  },
+  {
     "id": 1869390707,
     "name": "Basic 2",
     "imageName": "Plain_03_thumb"
@@ -2470,6 +2595,11 @@
     "imageName": "ZRacingD_thumb"
   },
   {
+    "id": 1894713822,
+    "name": "ZSUN 2025",
+    "imageName": "ZsunRacing2025_thumb"
+  },
+  {
     "id": 1900024720,
     "name": "ZNC - Korea",
     "imageName": "ZwiftNationalChampions_thumb"
@@ -2503,6 +2633,11 @@
     "id": 1912822249,
     "name": "Endurance Nation",
     "imageName": "EnduranceNation2019_thumb"
+  },
+  {
+    "id": 1926960006,
+    "name": "The Female Cycling Tribe",
+    "imageName": "FemaleCyclingTribe2025_thumb"
   },
   {
     "id": 1932078427,
@@ -2825,6 +2960,11 @@
     "imageName": "TeamPTZ_thumb"
   },
   {
+    "id": 2225469513,
+    "name": "FemmeCycle Collab",
+    "imageName": "FemmeCycleCollab2025_thumb"
+  },
+  {
     "id": 2237514524,
     "name": "Alpecin Kit",
     "imageName": "AlpecinDeceuninck2025_thumb"
@@ -2878,6 +3018,11 @@
     "id": 2278143572,
     "name": "Hexagone Racing 2023",
     "imageName": "HexagoneRacing2023_thumb"
+  },
+  {
+    "id": 2280192625,
+    "name": "2025 Watch the Femmes ZI",
+    "imageName": "TdFFaZ2025_thumb"
   },
   {
     "id": 2280956876,
@@ -3055,6 +3200,11 @@
     "imageName": "INEOSEnergyStation2021_thumb"
   },
   {
+    "id": 2416362469,
+    "name": "2025 Watch the Femmes FCF",
+    "imageName": "TdFFaZ2025_thumb"
+  },
+  {
     "id": 2418675542,
     "name": "JLT Condor",
     "imageName": "JLT_Condor_thumb"
@@ -3133,6 +3283,11 @@
     "id": 2474999752,
     "name": "Team Innovation",
     "imageName": "TeamInnovation_thumb"
+  },
+  {
+    "id": 2475884332,
+    "name": "Lefty 2025",
+    "imageName": "Lefty2025_thumb"
   },
   {
     "id": 2476945236,
@@ -3225,6 +3380,11 @@
     "imageName": "TacxBlack_thumb"
   },
   {
+    "id": 2570853795,
+    "name": "BZR eCycling",
+    "imageName": "BZReCycling2025_thumb"
+  },
+  {
     "id": 2574836639,
     "name": "Castelli 2022",
     "imageName": "Castelli2022_thumb"
@@ -3280,6 +3440,11 @@
     "imageName": "TeamGreece2022_thumb"
   },
   {
+    "id": 2637363176,
+    "name": "The Watt Squad",
+    "imageName": "TheWattSquad2025_thumb"
+  },
+  {
     "id": 2642337455,
     "name": "Intermarché Wanty Circus 2023",
     "imageName": "IntermarcheWantyCircus2023_thumb"
@@ -3298,6 +3463,11 @@
     "id": 2654375510,
     "name": "Daniela Ryf",
     "imageName": "daniela_ryf_thumb"
+  },
+  {
+    "id": 2657009020,
+    "name": "Didi the Devil",
+    "imageName": "TdFDidi2025_thumb"
   },
   {
     "id": 2662676193,
@@ -3365,6 +3535,11 @@
     "imageName": "TourDeTohoku2018_thumb"
   },
   {
+    "id": 2711637705,
+    "name": "Wahoo 2025 - Black",
+    "imageName": "WahooBlack2025_thumb"
+  },
+  {
     "id": 2713824438,
     "name": "Team Jumbo-Visma Women 2023",
     "imageName": "jumbo_visma_women_thumb"
@@ -3378,6 +3553,11 @@
     "id": 2715375431,
     "name": "Bingoal Pauwels Sauces WB",
     "imageName": "BingoalPauwels2022_thumb"
+  },
+  {
+    "id": 2716852024,
+    "name": "Swedish Zwift Racers",
+    "imageName": "SwedishZwiftRacers2025_thumb"
   },
   {
     "id": 2721512078,
@@ -3500,6 +3680,11 @@
     "imageName": "HaloID2022_thumb"
   },
   {
+    "id": 2782542283,
+    "name": "Lionel Sanders 2025",
+    "imageName": "LionelSanders2025_thumb"
+  },
+  {
     "id": 2784272641,
     "name": "Garneau Club 2018",
     "imageName": "GarneauClub2018_thumb"
@@ -3560,6 +3745,11 @@
     "imageName": "groupama_fdj_thumb"
   },
   {
+    "id": 2814556306,
+    "name": "SYN Cycling Club",
+    "imageName": "SynCycling2025_thumb"
+  },
+  {
     "id": 2818028945,
     "name": "DigiCamo 1",
     "imageName": "Zwift_CamoPix_01_thumb"
@@ -3603,6 +3793,11 @@
     "id": 2856076954,
     "name": "2021 Virtual Series Kit",
     "imageName": "OVSPlain2021_thumb"
+  },
+  {
+    "id": 2856359988,
+    "name": "LOC_CYCLING_JERSEY_DADBODCYCLINGINC2025",
+    "imageName": "DadBodCyclingInc2025_thumb"
   },
   {
     "id": 2872877007,
@@ -3815,6 +4010,11 @@
     "imageName": "FDJMens2020_thumb"
   },
   {
+    "id": 3025198313,
+    "name": "AEO Social",
+    "imageName": "AEOSocial2025_thumb"
+  },
+  {
     "id": 3027591243,
     "name": "WKG",
     "imageName": "WKGWattsUp_thumb"
@@ -3870,9 +4070,19 @@
     "imageName": "HauteRoute2021_thumb"
   },
   {
+    "id": 3079296575,
+    "name": "SISU Blue",
+    "imageName": "SisuBlue2025_thumb"
+  },
+  {
     "id": 3079493093,
     "name": "L39ION LA 2023",
     "imageName": "L39ION2023_thumb"
+  },
+  {
+    "id": 3084571347,
+    "name": "Team Vegan 2025",
+    "imageName": "TeamVegan2025_thumb"
   },
   {
     "id": 3090729076,
@@ -3973,6 +4183,11 @@
     "id": 3169737262,
     "name": "Team Veselka",
     "imageName": "TeamVeselka2022_thumb"
+  },
+  {
+    "id": 3170746425,
+    "name": "Wahoo Kit 2025 - White",
+    "imageName": "WahooWhite2025_thumb"
   },
   {
     "id": 3170941906,
@@ -4195,6 +4410,11 @@
     "imageName": "Yeoleo2022_thumb"
   },
   {
+    "id": 3369422175,
+    "name": "TBR 2025",
+    "imageName": "TBR2025_thumb"
+  },
+  {
     "id": 3370254609,
     "name": "Trek Tour",
     "imageName": "TrekTour2019_thumb"
@@ -4210,9 +4430,19 @@
     "imageName": "ValcarCylance2019_thumb"
   },
   {
+    "id": 3375543571,
+    "name": "2025 Watch the Femmes HS",
+    "imageName": "TdFFaZ2025_thumb"
+  },
+  {
     "id": 3377071816,
     "name": "Off the MAAP",
     "imageName": "OffTheMAAP2024_thumb"
+  },
+  {
+    "id": 3379440773,
+    "name": "2025 Watch the Femmes FCT",
+    "imageName": "TdFFaZ2025_thumb"
   },
   {
     "id": 3382087244,
@@ -4620,6 +4850,11 @@
     "imageName": "PASRacing2022_thumb"
   },
   {
+    "id": 3660039747,
+    "name": "Cheesecake Crew",
+    "imageName": "CheesecakeCrew2025_thumb"
+  },
+  {
     "id": 3660609812,
     "name": "World Social Riders",
     "imageName": "WSR_thumb"
@@ -4643,6 +4878,11 @@
     "id": 3681814664,
     "name": "Mountain Massif 2023",
     "imageName": "MountainMassif2023_thumb"
+  },
+  {
+    "id": 3686333973,
+    "name": "Rapha Women's 100 + Kelly Anna",
+    "imageName": "RaphaWomens1002025_thumb"
   },
   {
     "id": 3687043191,
@@ -4743,6 +4983,11 @@
     "id": 3752612147,
     "name": "JETT",
     "imageName": "JETT2021_thumb"
+  },
+  {
+    "id": 3754285428,
+    "name": "Herts County Triathletes",
+    "imageName": "HertsCountyTriathletes2025_thumb"
   },
   {
     "id": 3757074019,
@@ -4975,6 +5220,11 @@
     "imageName": "BeastMode2021_thumb"
   },
   {
+    "id": 3895503603,
+    "name": "Zwifteurs Ghost Team",
+    "imageName": "ZwifteursGhostTeam2025_thumb"
+  },
+  {
     "id": 3895671417,
     "name": "Qhubeka Assos Pro Team Kit",
     "imageName": "QhubekaAssos2021_thumb"
@@ -5063,6 +5313,11 @@
     "id": 3940719237,
     "name": "Zwift UCI 2020 Champion",
     "imageName": "UCIZwiftChamps2020_thumb"
+  },
+  {
+    "id": 3952322364,
+    "name": "Fietsvrouwen",
+    "imageName": "Fietsvrouwen2025_thumb"
   },
   {
     "id": 3955133527,
@@ -5391,7 +5646,7 @@
   },
   {
     "id": 4144758799,
-    "name": "LOC_CYCLING_JERSEY_RIDELIKEKING2025",
+    "name": "Ride Like King",
     "imageName": "RideLikeKing2025_thumb"
   },
   {
@@ -5523,6 +5778,11 @@
     "id": 4272071449,
     "name": "AHDR Australia 2023",
     "imageName": "AHDRAustralia2023_thumb"
+  },
+  {
+    "id": 4279464621,
+    "name": "2025 Watch the Femmes RC",
+    "imageName": "TdFFaZ2025_thumb"
   },
   {
     "id": 4283549492,

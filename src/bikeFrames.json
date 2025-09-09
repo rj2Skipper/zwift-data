@@ -7,19 +7,19 @@
   },
   {
     "id": 11394848,
-    "name": "Felt Felt TT 2021",
+    "name": "Felt IA 2.0",
     "modelYear": 2021,
     "isTT": true
   },
   {
     "id": 43434703,
-    "name": "Scott ScottFoil2022",
+    "name": "Scott Foil 2023",
     "modelYear": 2022,
     "isTT": false
   },
   {
     "id": 57842352,
-    "name": "Liv LivLangma2021",
+    "name": "Liv Langma SL Advanced Disc",
     "modelYear": 2021,
     "isTT": false
   },
@@ -33,6 +33,12 @@
     "id": 106535518,
     "name": "Cervelo R5",
     "modelYear": 2016,
+    "isTT": false
+  },
+  {
+    "id": 120090876,
+    "name": "Liv Langma Advanced SL 2025",
+    "modelYear": 2025,
     "isTT": false
   },
   {
@@ -65,7 +71,7 @@
   },
   {
     "id": 291034584,
-    "name": "Trek Speed Concept 2021",
+    "name": "Trek Speed Concept SLR 9",
     "modelYear": 2021,
     "isTT": true
   },
@@ -83,7 +89,7 @@
   },
   {
     "id": 390579581,
-    "name": "Canyon Aeroad Team Edition",
+    "name": "Canyon Aeroad Team Edition 2021",
     "modelYear": 2021,
     "isTT": false
   },
@@ -101,7 +107,7 @@
   },
   {
     "id": 431820725,
-    "name": "Allied AlliedAble2022",
+    "name": "Allied Able",
     "modelYear": 2021,
     "isTT": false
   },
@@ -113,7 +119,7 @@
   },
   {
     "id": 594642753,
-    "name": "Trek Super Caliber 2020",
+    "name": "Trek Super Caliber",
     "modelYear": 2020,
     "isTT": false
   },
@@ -125,13 +131,13 @@
   },
   {
     "id": 687998653,
-    "name": "Specialized SWorksTarmacSL8",
+    "name": "Specialized S-Works Tarmac SL8",
     "modelYear": 2024,
     "isTT": false
   },
   {
     "id": 694663426,
-    "name": "Specialized SpecializedTarmacSL8",
+    "name": "Specialized Tarmac SL8",
     "modelYear": 2024,
     "isTT": false
   },
@@ -159,7 +165,7 @@
   },
   {
     "id": 835142897,
-    "name": "Ventum VentumNS12022",
+    "name": "Ventum NS1",
     "modelYear": 2022,
     "isTT": false
   },
@@ -177,7 +183,7 @@
   },
   {
     "id": 973848540,
-    "name": "Specialized Venge",
+    "name": "Specialized Venge 2015",
     "modelYear": 2015,
     "isTT": false
   },
@@ -201,19 +207,19 @@
   },
   {
     "id": 1122831861,
-    "name": "Canyon AeroadSRAM2024",
+    "name": "Canyon Aeroad 2024 / SRAM",
     "modelYear": 2024,
     "isTT": false
   },
   {
     "id": 1133663232,
-    "name": "Specialized SpecializedDiverge2022",
+    "name": "Specialized Diverge",
     "modelYear": 2022,
     "isTT": false
   },
   {
     "id": 1152794347,
-    "name": "QuintanaRoo QuintanaVPR2022",
+    "name": "QuintanaRoo Roo V-PR",
     "modelYear": 2022,
     "isTT": true
   },
@@ -225,13 +231,13 @@
   },
   {
     "id": 1174020494,
-    "name": "Chapter2 Chapter2TOA2021",
+    "name": "Chapter2 Toa",
     "modelYear": 2021,
     "isTT": false
   },
   {
     "id": 1188190925,
-    "name": "Specialized Tarmac SL7 Sram",
+    "name": "Specialized Tarmac SL7 SRAM",
     "modelYear": 2021,
     "isTT": false
   },
@@ -243,7 +249,7 @@
   },
   {
     "id": 1315158373,
-    "name": "Scott Foil",
+    "name": "Scott Foil 2015",
     "modelYear": 2015,
     "isTT": false
   },
@@ -255,7 +261,7 @@
   },
   {
     "id": 1409258486,
-    "name": "Zwift BigSpinCruiser2024",
+    "name": "Zwift Atomic Cruiser",
     "modelYear": 1885,
     "isTT": false
   },
@@ -301,25 +307,25 @@
   },
   {
     "id": 1597621725,
-    "name": "Cannondale Super Six EVO LAB71",
+    "name": "Cannondale SuperSix Evo LAB71",
     "modelYear": 2024,
     "isTT": false
   },
   {
     "id": 1639102673,
-    "name": "Specialized Specialized Crux 2022",
+    "name": "Specialized Crux",
     "modelYear": 2022,
     "isTT": false
   },
   {
     "id": 1675779900,
-    "name": "Canyon CanyonUltimate2021",
+    "name": "Canyon Ultimate CFR",
     "modelYear": 2021,
     "isTT": false
   },
   {
     "id": 1703496698,
-    "name": "Cube CubeLitening2021",
+    "name": "Cube Litening C:68X",
     "modelYear": 2021,
     "isTT": false
   },
@@ -331,7 +337,7 @@
   },
   {
     "id": 1767548815,
-    "name": "Cube Cube Litening",
+    "name": "Cube Litening",
     "modelYear": 2018,
     "isTT": false
   },
@@ -343,13 +349,13 @@
   },
   {
     "id": 1821736990,
-    "name": "Mosaic MosaicRT12022",
+    "name": "Mosaic RT-1d",
     "modelYear": 2022,
     "isTT": false
   },
   {
     "id": 1874220070,
-    "name": "Moots MootsVamoots2021",
+    "name": "Moots Vamoots RCS",
     "modelYear": 2021,
     "isTT": false
   },
@@ -360,25 +366,25 @@
   },
   {
     "id": 1936733870,
-    "name": "Chapter2 Chapter2KOKO2022",
+    "name": "Chapter2 Koko",
     "modelYear": 2022,
     "isTT": false
   },
   {
     "id": 1950596038,
-    "name": "Pinarello DogmaF2024",
+    "name": "Pinarello Dogma F 2024",
     "modelYear": 2024,
     "isTT": false
   },
   {
     "id": 1972610461,
-    "name": "Cervelo CerveloS52021",
+    "name": "Cervelo S5 2020",
     "modelYear": 2021,
     "isTT": false
   },
   {
     "id": 2002850191,
-    "name": "Scott ScottPlasma2022",
+    "name": "Scott Plasma RC Ultimate",
     "modelYear": 2022,
     "isTT": true
   },
@@ -390,7 +396,7 @@
   },
   {
     "id": 2029842509,
-    "name": "Zwift BigWheel-Concept",
+    "name": "Zwift BigWheel",
     "isTT": false
   },
   {
@@ -424,37 +430,37 @@
   },
   {
     "id": 2132445842,
-    "name": "Uranium UraniumNuclear2021",
+    "name": "Uranium Nuclear",
     "modelYear": 2021,
     "isTT": false
   },
   {
     "id": 2162282312,
-    "name": "Liv LivDevote2022",
+    "name": "Liv Devote Advanced Pro",
     "modelYear": 2021,
     "isTT": false
   },
   {
     "id": 2205705045,
-    "name": "Giant TCR Advanced SL",
+    "name": "Giant TCR Advanced SL 2021",
     "modelYear": 2015,
     "isTT": false
   },
   {
     "id": 2309775418,
-    "name": "Specialized Project74",
+    "name": "Specialized PROJECT 74",
     "modelYear": 2024,
     "isTT": false
   },
   {
     "id": 2346116422,
-    "name": "Specialized SpecializedAethos2021",
+    "name": "Specialized Aethos S-Works",
     "modelYear": 2021,
     "isTT": false
   },
   {
     "id": 2360271970,
-    "name": "Giant GiantRevolt2022",
+    "name": "Giant Revolt Advanced Pro",
     "modelYear": 2022,
     "isTT": false
   },
@@ -484,7 +490,7 @@
   },
   {
     "id": 2459800850,
-    "name": "VanRysel VanRyselEDR2021",
+    "name": "VanRysel EDR CF",
     "modelYear": 2021,
     "isTT": false
   },
@@ -496,25 +502,25 @@
   },
   {
     "id": 2513788321,
-    "name": "Canyon CanyonSpeedmaxCRSLXDisc2021",
+    "name": "Canyon Speedmax CF SLX Disc",
     "modelYear": 2021,
     "isTT": true
   },
   {
     "id": 2583787351,
-    "name": "Giant GiantTCRAdvancedSL",
+    "name": "Giant TCR BikeExchange-Jayco Team",
     "modelYear": 2021,
     "isTT": false
   },
   {
     "id": 2629993294,
-    "name": "Canyon Aeroad2024",
+    "name": "Canyon Aeroad 2024",
     "modelYear": 2024,
     "isTT": false
   },
   {
     "id": 2650592817,
-    "name": "Cervelo S5",
+    "name": "Cervelo S5 2015",
     "modelYear": 2015,
     "isTT": false
   },
@@ -543,7 +549,7 @@
   },
   {
     "id": 2884593499,
-    "name": "Canyon CanyonSRAMUltimate2022",
+    "name": "Canyon Ultimate Generation",
     "modelYear": 2022,
     "isTT": false
   },
@@ -561,7 +567,7 @@
   },
   {
     "id": 2985335789,
-    "name": "BMC BMCRoadMachine2021",
+    "name": "BMC Roadmachine",
     "modelYear": 2021,
     "isTT": false
   },
@@ -569,6 +575,12 @@
     "id": 3002729519,
     "name": "Felt AR",
     "modelYear": 2018,
+    "isTT": false
+  },
+  {
+    "id": 3017804836,
+    "name": "Zwift Brompton P Line",
+    "modelYear": 2025,
     "isTT": false
   },
   {
@@ -589,7 +601,7 @@
   },
   {
     "id": 3133382714,
-    "name": "Scott ScottSparkMTB2022",
+    "name": "Scott Spark RC World Cup",
     "modelYear": 2022,
     "isTT": false
   },
@@ -603,6 +615,12 @@
     "id": 3247466139,
     "name": "Ribble Endurance",
     "modelYear": 2019,
+    "isTT": false
+  },
+  {
+    "id": 3261976214,
+    "name": "Giant TCR Advanced SL 2025",
+    "modelYear": 2025,
     "isTT": false
   },
   {
@@ -624,7 +642,7 @@
   },
   {
     "id": 3402382031,
-    "name": "Cadex CadexTri2022",
+    "name": "Cadex Tri",
     "modelYear": 2022,
     "isTT": true
   },
@@ -642,13 +660,13 @@
   },
   {
     "id": 3495124341,
-    "name": "Liv Langma Advanced SL",
+    "name": "Liv Langma Advanced SL 2021",
     "modelYear": 2018,
     "isTT": false
   },
   {
     "id": 3523334161,
-    "name": "Specialized Venge S-Works",
+    "name": "Specialized Venge S-Works 2019",
     "modelYear": 2019,
     "isTT": false
   },
@@ -665,13 +683,13 @@
   },
   {
     "id": 3628259811,
-    "name": "Colnago Colnago V3RS",
+    "name": "Colnago V3RS",
     "modelYear": 2020,
     "isTT": false
   },
   {
     "id": 3660740142,
-    "name": "Felt FeltFR2022",
+    "name": "Felt FR",
     "modelYear": 2022,
     "isTT": false
   },
@@ -683,13 +701,13 @@
   },
   {
     "id": 3713154300,
-    "name": "Pinarello DogmaX2024",
+    "name": "Pinarello Dogma X",
     "modelYear": 2023,
     "isTT": false
   },
   {
     "id": 3754284507,
-    "name": "Cannondale CannondaleR4000RollerBlade",
+    "name": "Cannondale R4000 Roller Blade",
     "modelYear": 1995,
     "isTT": false
   },
@@ -701,7 +719,7 @@
   },
   {
     "id": 3787085621,
-    "name": "Lauf Lauf True Grit",
+    "name": "Lauf True Grit",
     "modelYear": 2021,
     "isTT": false
   },
@@ -712,13 +730,13 @@
   },
   {
     "id": 3867639546,
-    "name": "Focus Izalco Max 2020",
+    "name": "Focus Izalco Max",
     "modelYear": 2020,
     "isTT": false
   },
   {
     "id": 3868468027,
-    "name": "BMC BmcTeamMachine2022",
+    "name": "BMC TeamMachine",
     "modelYear": 2022,
     "isTT": false
   },
@@ -736,7 +754,7 @@
   },
   {
     "id": 3928995152,
-    "name": "Bridgestone BridgestoneOVS2021",
+    "name": "Bridgestone Anchor RS9s",
     "modelYear": 2021,
     "isTT": false
   },
@@ -760,7 +778,7 @@
   },
   {
     "id": 3988344633,
-    "name": "Zwift BigSpin2025",
+    "name": "Zwift BMX Bandit",
     "modelYear": 1885,
     "isTT": false
   },
@@ -778,7 +796,7 @@
   },
   {
     "id": 4100131524,
-    "name": "Scott ScottAddict2021",
+    "name": "Scott Addict RC",
     "modelYear": 2021,
     "isTT": false
   },
@@ -807,13 +825,13 @@
   },
   {
     "id": 4208139356,
-    "name": "Pinarello Dogma F",
+    "name": "Pinarello Dogma F 2021",
     "modelYear": 2021,
     "isTT": false
   },
   {
     "id": 4243692575,
-    "name": "Zwift Concept Z1 Gold",
+    "name": "Zwift Golden Concept Z1",
     "modelYear": 2115,
     "isTT": false
   },
