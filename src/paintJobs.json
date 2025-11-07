@@ -117,7 +117,7 @@
   },
   {
     "id": 674138548,
-    "name": "Zwift BromptonPLine2025-Default"
+    "name": "Brompton BromptonPLine2025-Default"
   },
   {
     "id": 689888077,
@@ -184,6 +184,10 @@
     "name": "Scott ScottFoil2022-Scott Foil 2022"
   },
   {
+    "id": 1018505599,
+    "name": "Canyon CanyonAeroadPantone2025-CanyonAeroad2025 Pantone"
+  },
+  {
     "id": 1032098364,
     "name": "Canyon Aeroad 2021-Zwift Academy 2023"
   },
@@ -218,6 +222,10 @@
   {
     "id": 1208416225,
     "name": "Zwift Carbon-Astana"
+  },
+  {
+    "id": 1209886555,
+    "name": "Canyon CanyonAeroadFabrio2025-CanyonAeroad2025 Fabrio"
   },
   {
     "id": 1211837755,
@@ -338,6 +346,10 @@
   {
     "id": 1836980898,
     "name": "Felt AR-Felt AR 2018 Blue"
+  },
+  {
+    "id": 1882405181,
+    "name": "Canyon CanyonAeroadSalmistraro2025-CanyonAeroad2025 Salmistraro"
   },
   {
     "id": 1908781639,
@@ -520,12 +532,20 @@
     "name": "Giant GiantTCRAdvancedSL-"
   },
   {
+    "id": 2701915750,
+    "name": "Canyon CanyonAeroadMano2025-CanyonAeroad2025 Mano"
+  },
+  {
     "id": 2704151007,
     "name": "Scott Spark RC-Cape Epic"
   },
   {
     "id": 2730699339,
     "name": "Zwift Buffalo Fahrrad-Buffalo Fahrrad"
+  },
+  {
+    "id": 2745763723,
+    "name": "Brompton BromptonPLine2025-TdF2025"
   },
   {
     "id": 2814305325,

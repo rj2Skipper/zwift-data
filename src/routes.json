@@ -480,6 +480,30 @@
     "duration": null
   },
   {
+    "id": 10024,
+    "name": "Passo dello Stelvio",
+    "slug": "10024",
+    "world": "",
+    "eventOnly": false,
+    "distance": 2336.206,
+    "elevation": 159616,
+    "leadInDistance": 0,
+    "leadInElevation": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "difficulty": null,
+    "duration": null
+  },
+  {
     "id": 10025,
     "name": "Col de la Couillole",
     "slug": "10025",
@@ -1152,6 +1176,35 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/downtown-titans"
   },
   {
+    "id": 22757204,
+    "name": "Prospect Park Loop",
+    "slug": "22757204",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 5.428,
+    "elevation": 37,
+    "leadInDistance": 0.072,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.01,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.017,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 110,
+    "difficulty": 2,
+    "duration": 1
+  },
+  {
     "id": 46799750,
     "name": "Rolling Highlands",
     "slug": "rolling-highlands",
@@ -1266,6 +1319,77 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/libby-hill-after-party",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/richmond/route/libby-hill-after-party",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/libby-hill-after-party"
+  },
+  {
+    "id": 65777922,
+    "name": "Electric Break",
+    "slug": "electric-break",
+    "world": "makuri-islands",
+    "eventOnly": false,
+    "distance": 17.76,
+    "elevation": 190,
+    "leadInDistance": 1.839,
+    "leadInElevation": 13,
+    "leadInDistanceFreeRide": 0.01,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.024,
+    "leadInElevationInMeetups": 0,
+    "segments": [
+      "castle-park-sprint",
+      "rooftop-kom"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 15.835,
+        "to": 17.712,
+        "segment": "rooftop-kom"
+      }
+    ],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 355,
+    "difficulty": 3,
+    "duration": 3,
+    "stravaSegmentId": 40233903,
+    "stravaSegmentUrl": "https://www.strava.com/segments/40233903",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/electric-break",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/makuri-islands/route/electric-break"
+  },
+  {
+    "id": 79243399,
+    "name": "Glasgow Crit Six",
+    "slug": "79243399",
+    "world": "scotland",
+    "eventOnly": true,
+    "distance": 18.07,
+    "elevation": 199,
+    "leadInDistance": 0.248,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.016,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.031,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 360,
+    "difficulty": 3,
+    "duration": 3
   },
   {
     "id": 86621553,
@@ -1389,8 +1513,12 @@
     "eventOnly": true,
     "distance": 9.193,
     "elevation": 109,
-    "leadInDistance": 0.23,
+    "leadInDistance": 0.214,
     "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.095,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.111,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "hilly-loop-rev",
       "watopia-sprint-rev",
@@ -1417,7 +1545,7 @@
       "running",
       "cycling"
     ],
-    "experience": 180,
+    "experience": 185,
     "difficulty": 1.5,
     "duration": 2,
     "stravaSegmentId": 12128037,
@@ -1425,6 +1553,35 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/hilly-route-reverse",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/hilly-route-reverse",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/hilly-route-reverse"
+  },
+  {
+    "id": 112312944,
+    "name": "Issendorf Express",
+    "slug": "112312944",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 7.234,
+    "elevation": 53,
+    "leadInDistance": 0.072,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.016,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.031,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 145,
+    "difficulty": 2,
+    "duration": 2
   },
   {
     "id": 136140280,
@@ -1515,6 +1672,36 @@
     "stravaSegmentUrl": "https://www.strava.com/segments/18993345",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/jons-route",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/jon-s-route"
+  },
+  {
+    "id": 152965568,
+    "name": "Yoru Run",
+    "slug": "yoru-run",
+    "world": "makuri-islands",
+    "eventOnly": false,
+    "distance": 6.89,
+    "elevation": 32,
+    "leadInDistance": 1.124,
+    "leadInElevation": 5,
+    "leadInDistanceFreeRide": 0.024,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.04,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running"
+    ],
+    "experience": 140,
+    "difficulty": 2,
+    "duration": 2,
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/yoru-run",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/makuri-islands/route/yoru-run"
   },
   {
     "id": 156457316,
@@ -1934,7 +2121,7 @@
     "levelLock": "5",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": true,
+    "supportsMeetups": false,
     "sports": [
       "running",
       "cycling"
@@ -2563,6 +2750,34 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/gotham-grind"
   },
   {
+    "id": 494933300,
+    "name": "Avon Flyer Run",
+    "slug": "494933300",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 3.307,
+    "elevation": 25,
+    "leadInDistance": 1.823,
+    "leadInElevation": 5,
+    "leadInDistanceFreeRide": 0.033,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.072,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running"
+    ],
+    "experience": 65,
+    "difficulty": 1,
+    "duration": 1
+  },
+  {
     "id": 525587103,
     "name": "Mech Isle Loop Run",
     "slug": "mech-isle-loop-run",
@@ -2927,6 +3142,35 @@
     "duration": null,
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/flat-irons",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/new-york/route/flat-irons"
+  },
+  {
+    "id": 730052368,
+    "name": "Spinfinity Ultra",
+    "slug": "730052368",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 35.006,
+    "elevation": 291,
+    "leadInDistance": 0.023,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.03,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.045,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 710,
+    "difficulty": 5,
+    "duration": 4
   },
   {
     "id": 742057576,
@@ -3597,13 +3841,51 @@
     "slug": "richmond-rollercoaster",
     "world": "richmond",
     "eventOnly": true,
-    "distance": 5.057,
+    "distance": 5.059,
     "elevation": 20,
     "leadInDistance": 12.147,
     "leadInElevation": 150,
+    "leadInDistanceFreeRide": 0.138,
+    "leadInElevationFreeRide": 1,
+    "leadInDistanceMeetups": 0.16,
+    "leadInElevationInMeetups": 1,
     "segments": [
       "richmond-sprint"
     ],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 100,
+    "difficulty": 1,
+    "duration": 1,
+    "stravaSegmentId": 22900025,
+    "stravaSegmentUrl": "https://www.strava.com/segments/22900025",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/richmond-rollercoaster",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/richmond/route/richmond-rollercoaster",
+    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/richmond-rollercoaster"
+  },
+  {
+    "id": 975408707,
+    "name": "Avon Flyer",
+    "slug": "975408707",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 3.307,
+    "elevation": 25,
+    "leadInDistance": 1.823,
+    "leadInElevation": 5,
+    "leadInDistanceFreeRide": 0.033,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.072,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
     "segmentsOnRoute": [],
     "levelLocked": false,
     "levelLock": "0",
@@ -3614,13 +3896,69 @@
       "running",
       "cycling"
     ],
+    "experience": 65,
     "difficulty": 1,
-    "duration": 1,
-    "stravaSegmentId": 22900025,
-    "stravaSegmentUrl": "https://www.strava.com/segments/22900025",
-    "zwiftInsiderUrl": "https://zwiftinsider.com/route/richmond-rollercoaster",
-    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/richmond/route/richmond-rollercoaster",
-    "zwifterBikesUrl": "https://zwifterbikes.web.app/route/richmond-rollercoaster"
+    "duration": 1
+  },
+  {
+    "id": 979250573,
+    "name": "Watts of the Wild",
+    "slug": "watts-of-the-wild",
+    "world": "watopia",
+    "eventOnly": false,
+    "distance": 42.023,
+    "elevation": 309,
+    "leadInDistance": 0.194,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.014,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.029,
+    "leadInElevationInMeetups": 0,
+    "segments": [
+      "watopia-sprint-rev",
+      "jarvis-kom",
+      "jarvis-sprint",
+      "fuego-flats",
+      "titans-grove-kom"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 6.445,
+        "to": 8.247,
+        "segment": "jarvis-kom"
+      },
+      {
+        "from": 9.587,
+        "to": 9.801,
+        "segment": "jarvis-sprint"
+      },
+      {
+        "from": 21.906,
+        "to": 22.405,
+        "segment": "fuego-flats"
+      },
+      {
+        "from": 32.677,
+        "to": 35.282,
+        "segment": "titans-grove-kom"
+      }
+    ],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 840,
+    "difficulty": 4,
+    "duration": 4,
+    "stravaSegmentId": 40234360,
+    "stravaSegmentUrl": "https://www.strava.com/segments/40234360",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/watts-of-the-wild",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/watts-of-the-wild"
   },
   {
     "id": 982239385,
@@ -3966,6 +4304,35 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/loopin-lava"
   },
   {
+    "id": 1099226581,
+    "name": "Double Span Spin",
+    "slug": "1099226581",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 7.018,
+    "elevation": 80,
+    "leadInDistance": 5.567,
+    "leadInElevation": 40,
+    "leadInDistanceFreeRide": 0.028,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.065,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 145,
+    "difficulty": 4,
+    "duration": 3
+  },
+  {
     "id": 1115260805,
     "name": "Accelerate to Elevate",
     "slug": "accelerate-to-elevate",
@@ -4050,11 +4417,40 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/neokyo-crit-course"
   },
   {
+    "id": 1178708985,
+    "name": "Green to Screen",
+    "slug": "1178708985",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 28.377,
+    "elevation": 207,
+    "leadInDistance": 0.072,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.113,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.118,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 575,
+    "difficulty": 3,
+    "duration": 3
+  },
+  {
     "id": 1201172818,
     "name": "Power Punches",
     "slug": "power-punches",
     "world": "watopia",
-    "eventOnly": true,
+    "eventOnly": false,
     "distance": 23.48,
     "elevation": 205,
     "leadInDistance": 0.19,
@@ -4067,14 +4463,14 @@
     "levelLock": "0",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": false,
+    "supportsMeetups": true,
     "sports": [
       "running",
       "cycling"
     ],
     "experience": 470,
-    "difficulty": 0,
-    "duration": 0
+    "difficulty": 3,
+    "duration": 2
   },
   {
     "id": 1230300449,
@@ -4246,7 +4642,7 @@
     "name": "Flat Out Fast",
     "slug": "flat-out-fast",
     "world": "watopia",
-    "eventOnly": true,
+    "eventOnly": false,
     "distance": 21.382,
     "elevation": 46,
     "leadInDistance": 0.949,
@@ -4261,14 +4657,14 @@
     "levelLock": "0",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": false,
+    "supportsMeetups": true,
     "sports": [
       "running",
       "cycling"
     ],
     "experience": 430,
-    "difficulty": 0,
-    "duration": 0
+    "difficulty": 1,
+    "duration": 2
   },
   {
     "id": 1327147942,
@@ -4865,7 +5261,7 @@
     "name": "Climb Control",
     "slug": "climb-control",
     "world": "watopia",
-    "eventOnly": true,
+    "eventOnly": false,
     "distance": 23.672,
     "elevation": 191,
     "leadInDistance": 0.301,
@@ -4880,14 +5276,42 @@
     "levelLock": "0",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": false,
+    "supportsMeetups": true,
     "sports": [
       "running",
       "cycling"
     ],
     "experience": 475,
-    "difficulty": null,
-    "duration": null
+    "difficulty": 2,
+    "duration": 2
+  },
+  {
+    "id": 1472166107,
+    "name": "Toefield Tornado Run",
+    "slug": "1472166107",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 10.219,
+    "elevation": 53,
+    "leadInDistance": 0.072,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.016,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.031,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running"
+    ],
+    "experience": 205,
+    "difficulty": 2,
+    "duration": 3
   },
   {
     "id": 1475638265,
@@ -5090,6 +5514,35 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/cobbled-climbs",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/richmond/route/cobbled-climbs",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/cobbled-climbs"
+  },
+  {
+    "id": 1552189318,
+    "name": "The Double Borough",
+    "slug": "1552189318",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 17.809,
+    "elevation": 147,
+    "leadInDistance": 0.051,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.013,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.028,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 360,
+    "difficulty": 4,
+    "duration": 3
   },
   {
     "id": 1562187590,
@@ -5372,6 +5825,35 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/the-big-ring",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/the-big-ring",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/the-big-ring"
+  },
+  {
+    "id": 1671282746,
+    "name": "Empire Elevation",
+    "slug": "1671282746",
+    "world": "new-york",
+    "eventOnly": true,
+    "distance": 24.155,
+    "elevation": 261,
+    "leadInDistance": 1.824,
+    "leadInElevation": 5,
+    "leadInDistanceFreeRide": 0.025,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.04,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 485,
+    "difficulty": 2,
+    "duration": 2
   },
   {
     "id": 1675611962,
@@ -6098,6 +6580,35 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/valley-to-mountaintop"
   },
   {
+    "id": 1942591558,
+    "name": "Times Square Circuit",
+    "slug": "1942591558",
+    "world": "new-york",
+    "eventOnly": true,
+    "distance": 3.5,
+    "elevation": 20,
+    "leadInDistance": 0.023,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.118,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.125,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 70,
+    "difficulty": 2,
+    "duration": 1
+  },
+  {
     "id": 1975694067,
     "name": "Ven-10 Run",
     "slug": "ven-10-run",
@@ -6376,6 +6887,35 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/power-to-the-tower",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/power-to-the-tower",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/power-to-the-tower"
+  },
+  {
+    "id": 2101060245,
+    "name": "Double Parked",
+    "slug": "2101060245",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 42.171,
+    "elevation": 330,
+    "leadInDistance": 0.072,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.107,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.113,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 845,
+    "difficulty": 3,
+    "duration": 4
   },
   {
     "id": 2128890027,
@@ -7102,6 +7642,83 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/wbr-climbing-series"
   },
   {
+    "id": 2251715424,
+    "name": "Hot Laps",
+    "slug": "2251715424",
+    "world": "watopia",
+    "eventOnly": true,
+    "distance": 23.28,
+    "elevation": 149,
+    "leadInDistance": 0.194,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.014,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.029,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 465,
+    "difficulty": 3,
+    "duration": 3
+  },
+  {
+    "id": 2312882507,
+    "name": "Dùn Dash",
+    "slug": "dun-dash",
+    "world": "scotland",
+    "eventOnly": false,
+    "distance": 12.419,
+    "elevation": 138,
+    "leadInDistance": 0.048,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.015,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.031,
+    "leadInElevationInMeetups": 0,
+    "segments": [
+      "the-clyde-kicker",
+      "breakaway-brae-rev",
+      "sgurr-summit-south"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 7.501,
+        "to": 8.125,
+        "segment": "breakaway-brae-rev"
+      },
+      {
+        "from": 11.376,
+        "to": 12.372,
+        "segment": "sgurr-summit-south"
+      }
+    ],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 250,
+    "difficulty": 4,
+    "duration": 4,
+    "stravaSegmentId": 40233889,
+    "stravaSegmentUrl": "https://www.strava.com/segments/40233889",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/dun-dash",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/scotland/route/dun-dash"
+  },
+  {
     "id": 2328501978,
     "name": "Shorelines and Summits",
     "slug": "shorelines-and-summits",
@@ -7367,9 +7984,13 @@
     "world": "new-york",
     "eventOnly": true,
     "distance": 2.79,
-    "elevation": 27,
+    "elevation": 26,
     "leadInDistance": 1.424,
     "leadInElevation": 19,
+    "leadInDistanceFreeRide": 0.015,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.03,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "new-york-kom"
     ],
@@ -7397,8 +8018,8 @@
     "slug": "2022-cycling-esports-world-championships-route",
     "world": "new-york",
     "eventOnly": true,
-    "distance": 54.743,
-    "elevation": 942,
+    "distance": 54.744,
+    "elevation": 941,
     "leadInDistance": 0.22,
     "leadInElevation": 0,
     "leadInDistanceFreeRide": 0.15,
@@ -7891,6 +8512,48 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/two-village-loop"
   },
   {
+    "id": 2661047295,
+    "name": "Jarvis Seaside Sprint",
+    "slug": "jarvis-seaside-sprint",
+    "world": "watopia",
+    "eventOnly": true,
+    "distance": 12.501,
+    "elevation": 95,
+    "leadInDistance": 2.831,
+    "leadInElevation": 36,
+    "leadInDistanceFreeRide": 0.234,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.253,
+    "leadInElevationInMeetups": 1,
+    "segments": [
+      "watopia-sprint-rev",
+      "jarvis-kom-rev"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 3.443,
+        "to": 4.73,
+        "segment": "jarvis-kom-rev"
+      }
+    ],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 250,
+    "difficulty": 2,
+    "duration": 2,
+    "stravaSegmentId": 40054523,
+    "stravaSegmentUrl": "https://www.strava.com/segments/40054523",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/jarvis-seaside-sprint",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/jarvis-seaside-sprint"
+  },
+  {
     "id": 2663908549,
     "name": "Road to Sky",
     "slug": "road-to-sky",
@@ -7990,7 +8653,7 @@
     "name": "Climb Portal - Volcano",
     "slug": "climb-portal-volcano",
     "world": "watopia",
-    "eventOnly": false,
+    "eventOnly": true,
     "distance": 7.354,
     "elevation": 20,
     "leadInDistance": 1.99,
@@ -8007,7 +8670,7 @@
     "levelLock": "0",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": true,
+    "supportsMeetups": false,
     "sports": [
       "running",
       "cycling"
@@ -8136,9 +8799,11 @@
     "eventOnly": false,
     "distance": 9.193,
     "elevation": 109,
-    "leadInDistance": 0.466,
+    "leadInDistance": 0.502,
     "leadInElevation": 1,
-    "leadInDistanceMeetups": 1.129,
+    "leadInDistanceFreeRide": 0.457,
+    "leadInElevationFreeRide": 1,
+    "leadInDistanceMeetups": 0.467,
     "leadInElevationInMeetups": 1,
     "segments": [
       "hilly-loop",
@@ -8171,7 +8836,7 @@
       "running",
       "cycling"
     ],
-    "experience": 180,
+    "experience": 175,
     "difficulty": 1.5,
     "duration": 1,
     "stravaSegmentId": 12118362,
@@ -8350,6 +9015,36 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/coastal-crown-loop"
   },
   {
+    "id": 2773927650,
+    "name": "Highland Run",
+    "slug": "highland-run",
+    "world": "scotland",
+    "eventOnly": false,
+    "distance": 5.729,
+    "elevation": 52,
+    "leadInDistance": 1.138,
+    "leadInElevation": 6,
+    "leadInDistanceFreeRide": 0.051,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.029,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running"
+    ],
+    "experience": 115,
+    "difficulty": 2,
+    "duration": 3,
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/highland-run",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/scotland/route/highland-run"
+  },
+  {
     "id": 2818536273,
     "name": "Champs-Élysées Run",
     "slug": "champs-elysees-run",
@@ -8456,6 +9151,47 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/serpentine-8",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/serpentine-8",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/serpentine-8"
+  },
+  {
+    "id": 2836167073,
+    "name": "London Calling",
+    "slug": "london-calling",
+    "world": "london",
+    "eventOnly": false,
+    "distance": 31.228,
+    "elevation": 207,
+    "leadInDistance": 0.462,
+    "leadInElevation": 4,
+    "leadInDistanceFreeRide": 0.052,
+    "leadInElevationFreeRide": 1,
+    "leadInDistanceMeetups": 0.035,
+    "leadInElevationInMeetups": 1,
+    "segments": [
+      "london-sprint"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 15.721,
+        "to": 15.904,
+        "segment": "london-sprint"
+      }
+    ],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 625,
+    "difficulty": 2,
+    "duration": 3,
+    "stravaSegmentId": 40232835,
+    "stravaSegmentUrl": "https://www.strava.com/segments/40232835",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/london-calling",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/london/route/london-calling"
   },
   {
     "id": 2839057126,
@@ -8815,7 +9551,7 @@
     "name": "Red Zone Repeats",
     "slug": "red-zone-repeats",
     "world": "makuri-islands",
-    "eventOnly": true,
+    "eventOnly": false,
     "distance": 19.388,
     "elevation": 87,
     "leadInDistance": 0.207,
@@ -8830,14 +9566,14 @@
     "levelLock": "0",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": false,
+    "supportsMeetups": true,
     "sports": [
       "running",
       "cycling"
     ],
     "experience": 390,
-    "difficulty": 0,
-    "duration": 0
+    "difficulty": 1,
+    "duration": 2
   },
   {
     "id": 2896159042,
@@ -8892,6 +9628,35 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/temples-and-towers",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/makuri-islands/route/temples-and-towers",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/temples-and-towers"
+  },
+  {
+    "id": 2898229208,
+    "name": "Watts the Limit",
+    "slug": "2898229208",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 29.532,
+    "elevation": 200,
+    "leadInDistance": 1.424,
+    "leadInElevation": 19,
+    "leadInDistanceFreeRide": 0.026,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.053,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 595,
+    "difficulty": 3,
+    "duration": 3
   },
   {
     "id": 2900074211,
@@ -9155,6 +9920,34 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/big-loop",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/big-loop",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/big-loop"
+  },
+  {
+    "id": 2949228237,
+    "name": "Times Square Circuit Run",
+    "slug": "2949228237",
+    "world": "new-york",
+    "eventOnly": true,
+    "distance": 3.5,
+    "elevation": 20,
+    "leadInDistance": 0.023,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.118,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.125,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running"
+    ],
+    "experience": 70,
+    "difficulty": 2,
+    "duration": 1
   },
   {
     "id": 2953010285,
@@ -9575,7 +10368,7 @@
     "levelLock": "0",
     "lap": true,
     "supportsTT": false,
-    "supportsMeetups": true,
+    "supportsMeetups": false,
     "sports": [
       "running",
       "cycling"
@@ -9584,6 +10377,35 @@
     "difficulty": 4,
     "duration": 3,
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/power-to-the-portal"
+  },
+  {
+    "id": 3051823795,
+    "name": "The Greenway",
+    "slug": "3051823795",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 36.223,
+    "elevation": 290,
+    "leadInDistance": 0.582,
+    "leadInElevation": 2,
+    "leadInDistanceFreeRide": 0.026,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.044,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 805,
+    "difficulty": 4,
+    "duration": 3
   },
   {
     "id": 3068694512,
@@ -9679,6 +10501,35 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/rising-empire",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/new-york/route/rising-empire",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/rising-empire"
+  },
+  {
+    "id": 3079921742,
+    "name": "Stay Puft Pursuit",
+    "slug": "3079921742",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 31.181,
+    "elevation": 416,
+    "leadInDistance": 0.023,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.032,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.047,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 625,
+    "difficulty": 4,
+    "duration": 4
   },
   {
     "id": 3099224394,
@@ -10182,6 +11033,35 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/two-bridges-loop",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/two-bridges-loop",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/two-bridges-loop"
+  },
+  {
+    "id": 3314406972,
+    "name": "Spinfinity",
+    "slug": "3314406972",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 19.28,
+    "elevation": 155,
+    "leadInDistance": 0.023,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.028,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.043,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 390,
+    "difficulty": 4,
+    "duration": 4
   },
   {
     "id": 3324272424,
@@ -11263,7 +12143,7 @@
     "levelLock": "5",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": true,
+    "supportsMeetups": false,
     "sports": [
       "running",
       "cycling"
@@ -11277,15 +12157,70 @@
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/bambino-fondo"
   },
   {
+    "id": 3636436865,
+    "name": "Tropic Rush",
+    "slug": "tropic-rush",
+    "world": "makuri-islands",
+    "eventOnly": false,
+    "distance": 41.267,
+    "elevation": 327,
+    "leadInDistance": 1.606,
+    "leadInElevation": 6,
+    "leadInDistanceFreeRide": 0.016,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.036,
+    "leadInElevationInMeetups": 1,
+    "segments": [
+      "alley-sprint-rev",
+      "railway-sprint",
+      "shisa-sprint-rev",
+      "castle-park-sprint",
+      "rooftop-kom",
+      "tower-sprint-rev"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 6.284,
+        "to": 6.776,
+        "segment": "railway-sprint"
+      },
+      {
+        "from": 34.276,
+        "to": 36.143,
+        "segment": "rooftop-kom"
+      }
+    ],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 825,
+    "difficulty": 3,
+    "duration": 3,
+    "stravaSegmentId": 40232566,
+    "stravaSegmentUrl": "https://www.strava.com/segments/40232566",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/tropic-rush",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/makuri-islands/route/tropic-rush"
+  },
+  {
     "id": 3649347250,
     "name": "Innsbruck KOM After Party",
     "slug": "innsbruck-kom-after-party",
     "world": "innsbruck",
     "eventOnly": true,
-    "distance": 36.973,
+    "distance": 36.971,
     "elevation": 657,
-    "leadInDistance": 0.224,
+    "leadInDistance": 0.222,
     "leadInElevation": 1,
+    "leadInDistanceFreeRide": 0.022,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.04,
+    "leadInElevationInMeetups": 0,
     "segments": [
       "innsbruck-uci-lap",
       "innsbruck-sprint",
@@ -11302,11 +12237,12 @@
     "levelLock": "0",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": true,
+    "supportsMeetups": false,
     "sports": [
       "running",
       "cycling"
     ],
+    "experience": 740,
     "difficulty": 3.5,
     "duration": 4,
     "stravaSegmentId": 20539949,
@@ -11408,7 +12344,7 @@
     "world": "new-york",
     "eventOnly": false,
     "distance": 20.74,
-    "elevation": 300,
+    "elevation": 295,
     "leadInDistance": 0.051,
     "leadInElevation": 0,
     "leadInDistanceFreeRide": 0.019,
@@ -11435,6 +12371,79 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/laguardia-after-party"
   },
   {
+    "id": 3678866163,
+    "name": "Fuhgeddaboudit",
+    "slug": "3678866163",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 78.905,
+    "elevation": 838,
+    "leadInDistance": 0.072,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.159,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.161,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 1595,
+    "difficulty": 5,
+    "duration": 4
+  },
+  {
+    "id": 3680493479,
+    "name": "Southern Coast Cruise",
+    "slug": "southern-coast-cruise",
+    "world": "watopia",
+    "eventOnly": true,
+    "distance": 23.623,
+    "elevation": 136,
+    "leadInDistance": 2.669,
+    "leadInElevation": 10,
+    "leadInDistanceFreeRide": 0.03,
+    "leadInElevationFreeRide": 33,
+    "leadInDistanceMeetups": 0.053,
+    "leadInElevationInMeetups": 33,
+    "segments": [
+      "woodland-sprint",
+      "woodland-sprint-rev",
+      "sasquatch-sprint-rev",
+      "sasquatch-sprint"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 6.951,
+        "to": 7.458,
+        "segment": "woodland-sprint"
+      }
+    ],
+    "levelLocked": false,
+    "levelLock": "10",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": false,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 475,
+    "difficulty": 1,
+    "duration": 2,
+    "stravaSegmentId": 40097976,
+    "stravaSegmentUrl": "https://www.strava.com/segments/40097976",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/southern-coast-cruise",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/southern-coast-cruise"
+  },
+  {
     "id": 3687150686,
     "name": "Gravel Mountain",
     "slug": "3687150686",
@@ -11454,7 +12463,7 @@
     "levelLock": "0",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": true,
+    "supportsMeetups": false,
     "sports": [
       "running",
       "cycling"
@@ -11787,7 +12796,7 @@
     "levelLock": "5",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": true,
+    "supportsMeetups": false,
     "sports": [
       "running",
       "cycling"
@@ -11844,9 +12853,13 @@
     "world": "new-york",
     "eventOnly": true,
     "distance": 2.791,
-    "elevation": 27,
+    "elevation": 26,
     "leadInDistance": 2.356,
-    "leadInElevation": 21,
+    "leadInElevation": 20,
+    "leadInDistanceFreeRide": 0.015,
+    "leadInElevationFreeRide": 1,
+    "leadInDistanceMeetups": 0.03,
+    "leadInElevationInMeetups": 1,
     "segments": [
       "new-york-sprint"
     ],
@@ -11968,6 +12981,34 @@
     "stravaSegmentUrl": "https://www.strava.com/segments/18960184",
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/5k-loop",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/5k-loop"
+  },
+  {
+    "id": 3835625237,
+    "name": "Prospect Park Loop Run",
+    "slug": "3835625237",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 5.428,
+    "elevation": 37,
+    "leadInDistance": 0.072,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.16,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.161,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running"
+    ],
+    "experience": 110,
+    "difficulty": 2,
+    "duration": 1
   },
   {
     "id": 3848492017,
@@ -12169,6 +13210,36 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/volcano-circuit-ccw",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/volcano-circuit-ccw",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/volcano-circuit-ccw"
+  },
+  {
+    "id": 3871332877,
+    "name": "Track Meet",
+    "slug": "track-meet",
+    "world": "watopia",
+    "eventOnly": false,
+    "distance": 6.073,
+    "elevation": 22,
+    "leadInDistance": 0.462,
+    "leadInElevation": 3,
+    "leadInDistanceFreeRide": 0.049,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.054,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running"
+    ],
+    "experience": 115,
+    "difficulty": 2,
+    "duration": 2,
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/track-meet",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/watopia/route/track-meet"
   },
   {
     "id": 3872978134,
@@ -13111,7 +14182,7 @@
     "name": "Climb Portal - Mont Saint-Michel",
     "slug": "climb-portal-mont-saint-michel",
     "world": "france",
-    "eventOnly": false,
+    "eventOnly": true,
     "distance": 2.469,
     "elevation": 11,
     "leadInDistance": 6.145,
@@ -13126,7 +14197,7 @@
     "levelLock": "0",
     "lap": false,
     "supportsTT": false,
-    "supportsMeetups": true,
+    "supportsMeetups": false,
     "sports": [
       "running",
       "cycling"
@@ -13315,6 +14386,78 @@
     "zwiftInsiderUrl": "https://zwiftinsider.com/route/london-triple-loops",
     "whatsOnZwiftUrl": "https://whatsonzwift.com/world/london/route/triple-loops",
     "zwifterBikesUrl": "https://zwifterbikes.web.app/route/triple-loops"
+  },
+  {
+    "id": 4227232797,
+    "name": "Scotland After Party",
+    "slug": "scotland-after-party",
+    "world": "scotland",
+    "eventOnly": false,
+    "distance": 13.634,
+    "elevation": 189,
+    "leadInDistance": 1.138,
+    "leadInElevation": 6,
+    "leadInDistanceFreeRide": 0.043,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.043,
+    "leadInElevationInMeetups": 0,
+    "segments": [
+      "champions-sprint",
+      "the-clyde-kicker",
+      "sgurr-summit-north"
+    ],
+    "segmentsOnRoute": [
+      {
+        "from": 11.988,
+        "to": 13.57,
+        "segment": "sgurr-summit-north"
+      }
+    ],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": false,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 275,
+    "difficulty": 4,
+    "duration": 2,
+    "stravaSegmentId": 40233914,
+    "stravaSegmentUrl": "https://www.strava.com/segments/40233914",
+    "zwiftInsiderUrl": "https://zwiftinsider.com/route/scotland-after-party",
+    "whatsOnZwiftUrl": "https://whatsonzwift.com/world/scotland/route/scotland-after-party"
+  },
+  {
+    "id": 4232620535,
+    "name": "Toefield Tornado",
+    "slug": "4232620535",
+    "world": "new-york",
+    "eventOnly": false,
+    "distance": 10.216,
+    "elevation": 53,
+    "leadInDistance": 0.072,
+    "leadInElevation": 0,
+    "leadInDistanceFreeRide": 0.016,
+    "leadInElevationFreeRide": 0,
+    "leadInDistanceMeetups": 0.031,
+    "leadInElevationInMeetups": 0,
+    "segments": [],
+    "segmentsOnRoute": [],
+    "levelLocked": false,
+    "levelLock": "0",
+    "lap": true,
+    "supportsTT": false,
+    "supportsMeetups": true,
+    "sports": [
+      "running",
+      "cycling"
+    ],
+    "experience": 205,
+    "difficulty": 2,
+    "duration": 2
   },
   {
     "id": 4232726854,

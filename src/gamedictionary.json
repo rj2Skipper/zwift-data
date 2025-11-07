@@ -446,6 +446,28 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "159615.6093750000",
+              "blockedForMeetups": "1",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "2336206.0000000000",
+              "eventOnly": "0",
+              "eventPaddocks": "",
+              "imageName": "",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "0",
+              "levelLocked": "0",
+              "locKey": "Passo dello Stelvio",
+              "map": "",
+              "name": "Passo dello Stelvio",
+              "sports": "7",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "signature": "10024"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "120230.8828125000",
               "blockedForMeetups": "1",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
@@ -1038,6 +1060,41 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "37.3170509338",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "5427.9902343750",
+              "duration": "1",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0.0096240258",
+              "freeRideLeadinDistanceInMeters": "9.9669370651",
+              "imageName": "NEWYORK_Prospect_Park_Loop",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "72.3463211060",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_PROSPECT_PARK_LOOP",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0.0135424845",
+              "meetupLeadinDistanceInMeters": "16.8948345184",
+              "name": "Prospect Park Loop",
+              "publishedOn": "2025-10-27",
+              "runRec": "1",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "110",
+              "zwiftEventOnly": "0",
+              "signature": "22757204"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "77.4",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -1097,6 +1154,73 @@
               "xp": "660",
               "zwiftEventOnly": "0",
               "signature": "54700404"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "190.2864532471",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "3",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "17759.9453125000",
+              "duration": "3",
+              "eventOnly": "0",
+              "eventPaddocks": "16,17,18,19",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "10.0291423798",
+              "imageName": "MAKURIISLANDS_Electric_Break",
+              "leadinAscentInMeters": "13.2099533081",
+              "leadinDistanceInMeters": "1838.7584228516",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_MAKURIISLANDS_ELECTRIC_BREAK",
+              "map": "MAKURIISLANDS",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "23.6147403717",
+              "name": "Electric Break",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "355",
+              "zwiftEventOnly": "0",
+              "signature": "65777922"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "198.5810546875",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "3.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "18070.4843750000",
+              "duration": "3",
+              "eventOnly": "1",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.0725341663",
+              "freeRideLeadinDistanceInMeters": "15.7890596390",
+              "imageName": "SCOTLAND_Glasgow_Crit_Six",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "248.3587646484",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_SCOTLAND_GLASGOW_CRIT_SIX",
+              "map": "SCOTLAND",
+              "meetupLeadinAscentInMeters": "0.2043017745",
+              "meetupLeadinDistanceInMeters": "30.7888412476",
+              "name": "Glasgow Crit Six",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "360",
+              "zwiftEventOnly": "1",
+              "signature": "79243399"
             }
           },
           {
@@ -1200,28 +1324,67 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "108.9",
+              "bikeRec": "1",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
               "blockedForTimeTrial": "0",
               "difficulty": "1.5",
-              "distanceBetweenFirstLastLrCPsInMeters": "30.9",
+              "distanceBetweenFirstLastLrCPsInMeters": "19.7861328125",
               "distanceInMeters": "9192.8",
               "duration": "2",
               "eventOnly": "1",
               "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.0104785282",
+              "freeRideLeadinDistanceInMeters": "95.0245590210",
               "imageName": "WATOPIA_Hilly_Route_Reverse",
               "leadinAscentInMeters": "0.1",
-              "leadinDistanceInMeters": "230.2",
+              "leadinDistanceInMeters": "214.0699768066",
               "levelLocked": "0",
               "locKey": "LOC_ROUTE_WATOPIA_HILLY_ROUTE",
               "map": "WATOPIA",
+              "meetupLeadinAscentInMeters": "0.0026220784",
+              "meetupLeadinDistanceInMeters": "110.7958145142",
               "name": "Hilly Route Reverse",
-              "sports": "7",
+              "sports": "1",
               "supportedLaps": "1",
               "supportsTimeTrialMode": "0",
-              "xp": "180",
+              "xp": "185",
               "zwiftEventOnly": "0",
               "signature": "107363867"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "52.8127822876",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "7233.6904296875",
+              "duration": "2",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0.0058520511",
+              "freeRideLeadinDistanceInMeters": "16.1940574646",
+              "imageName": "NEWYORK_Issendorf_Express",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "72.3463211060",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_ISSENDORF_EXPRESS",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0.0134106437",
+              "meetupLeadinDistanceInMeters": "31.0808277130",
+              "name": "Issendorf Express",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "145",
+              "zwiftEventOnly": "0",
+              "signature": "112312944"
             }
           },
           {
@@ -1286,6 +1449,40 @@
               "xp": "500",
               "zwiftEventOnly": "0",
               "signature": "136957568"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "32.0298385620",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "6889.7138671875",
+              "duration": "2",
+              "eventOnly": "0",
+              "eventPaddocks": "16,17,18,19",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "23.6579608917",
+              "imageName": "MAKURIISLANDS_Yoru_Run",
+              "leadinAscentInMeters": "4.8508000374",
+              "leadinDistanceInMeters": "1123.9208984375",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_MAKURIISLANDS_YORU_RUN",
+              "map": "MAKURIISLANDS",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "40.1756362915",
+              "name": "Yoru Run",
+              "publishedOn": "2025-10-27",
+              "runRec": "1",
+              "sports": "2",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "140",
+              "zwiftEventOnly": "0",
+              "signature": "152965568"
             }
           },
           {
@@ -1553,8 +1750,8 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "1192.5454101562",
-              "blockedForClubs": "0",
-              "blockedForMeetups": "0",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "difficulty": "5.0",
               "distanceBetweenFirstLastLrCPsInMeters": "0.0",
@@ -2054,6 +2251,39 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "24.8592281342",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "1.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "3307.1503906250",
+              "duration": "1",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "33.1832542419",
+              "imageName": "NEWYORK_Avon_Flyer_Run",
+              "leadinAscentInMeters": "4.7677135468",
+              "leadinDistanceInMeters": "1823.3183593750",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_AVON_FLYER_RUN",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "71.5553207397",
+              "name": "Avon Flyer Run",
+              "publishedOn": "2025-10-27",
+              "sports": "2",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "65",
+              "zwiftEventOnly": "0",
+              "signature": "494933300"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "38.7638931274",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -2338,6 +2568,40 @@
               "supportsTimeTrialMode": "0",
               "zwiftEventOnly": "0",
               "signature": "711818913"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "290.7071838379",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "5.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "35005.6562500000",
+              "duration": "4",
+              "eventOnly": "0",
+              "eventPaddocks": "6,7,8,9",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "30.0070552826",
+              "imageName": "NEWYORK_Spinfinity_Ultra",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "22.9232711792",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_SPINFINITY_ULTRA",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "44.7637825012",
+              "name": "Spinfinity Ultra",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "710",
+              "zwiftEventOnly": "0",
+              "signature": "730052368"
             }
           },
           {
@@ -2828,27 +3092,100 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "19.9",
-              "blockedForClubs": "0",
-              "blockedForMeetups": "0",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "difficulty": "1.0",
               "distanceBetweenFirstLastLrCPsInMeters": "84.7",
-              "distanceInMeters": "5057.2",
+              "distanceInMeters": "5058.5878906250",
               "duration": "1",
               "eventOnly": "1",
               "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.6318651438",
+              "freeRideLeadinDistanceInMeters": "137.5503540039",
               "imageName": "RICHMOND_Richmond_Rollercoaster",
-              "leadinAscentInMeters": "150.0",
+              "leadinAscentInMeters": "149.9785614014",
               "leadinDistanceInMeters": "12146.6",
               "levelLocked": "0",
               "locKey": "LOC_ROUTE_RICHMOND_FAN_FLATS_REVERSE",
               "map": "RICHMOND",
+              "meetupLeadinAscentInMeters": "0.6996877193",
+              "meetupLeadinDistanceInMeters": "160.1290588379",
               "name": "Richmond Rollercoaster",
               "sports": "3",
               "supportedLaps": "1",
               "supportsTimeTrialMode": "0",
+              "xp": "100",
               "zwiftEventOnly": "0",
               "signature": "948831673"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "24.8592281342",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "1.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "3307.1503906250",
+              "duration": "1",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "33.1832542419",
+              "imageName": "NEWYORK_Avon_Flyer_",
+              "leadinAscentInMeters": "4.7677135468",
+              "leadinDistanceInMeters": "1823.3183593750",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_AVON_FLYER",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "71.5553207397",
+              "name": "Avon Flyer",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "65",
+              "zwiftEventOnly": "0",
+              "signature": "975408707"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "308.8671264648",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "4",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "42023.3710937500",
+              "duration": "4",
+              "eventOnly": "0",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "13.6123390198",
+              "imageName": "WATOPIA_Watts_of_the_Wild",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "193.9167175293",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_WATOPIA_WATTS_OF_THE_WILD",
+              "map": "WATOPIA",
+              "meetupLeadinAscentInMeters": "0.0001220703",
+              "meetupLeadinDistanceInMeters": "28.6870994568",
+              "name": "Watts of the Wild",
+              "publishedOn": "2025-10-27",
+              "sports": "7",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "840",
+              "zwiftEventOnly": "0",
+              "signature": "979250573"
             }
           },
           {
@@ -3117,6 +3454,41 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "79.9722137451",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "4.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "7017.7465820312",
+              "duration": "3",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0.1115698218",
+              "freeRideLeadinDistanceInMeters": "27.5367641449",
+              "imageName": "NEWYORK_Double_Span_Spin",
+              "leadinAscentInMeters": "39.7537307739",
+              "leadinDistanceInMeters": "5567.4873046875",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_DOUBLE_SPAN_SPIN",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0.1283349395",
+              "meetupLeadinDistanceInMeters": "64.9702987671",
+              "name": "Double Span Spin",
+              "publishedOn": "2025-10-27",
+              "runRec": "1",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "145",
+              "zwiftEventOnly": "0",
+              "signature": "1099226581"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "1152",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -3181,15 +3553,50 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "207.1245880127",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "3.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "28377.3144531250",
+              "duration": "3",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0.0570776314",
+              "freeRideLeadinDistanceInMeters": "112.6465377808",
+              "imageName": "NEWYORK_Green_to_Screen",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "72.3463211060",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_GREEN_TO_SCREEN",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0.1305981278",
+              "meetupLeadinDistanceInMeters": "118.1220169067",
+              "name": "Green to Screen",
+              "publishedOn": "2025-10-27",
+              "runRec": "1",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "575",
+              "zwiftEventOnly": "0",
+              "signature": "1178708985"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "205.3355560303",
-              "blockedForClubs": "1",
-              "blockedForMeetups": "1",
-              "blockedForTimeTrial": "1",
-              "difficulty": "0.0",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "3",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
               "distanceInMeters": "23479.7324218750",
-              "duration": "0",
-              "eventOnly": "1",
+              "duration": "2",
+              "eventOnly": "0",
               "eventPaddocks": "1,2,3,4",
               "freeRideLeadinDistanceInMeters": "15.2049169540",
               "imageName": "WATOPIA_Power_Punches",
@@ -3200,11 +3607,12 @@
               "map": "WATOPIA",
               "meetupLeadinDistanceInMeters": "30.3981342316",
               "name": "Power Punches",
+              "publishedOn": "2025-10-27",
               "sports": "7",
               "supportedLaps": "0",
               "supportsTimeTrialMode": "0",
               "xp": "470",
-              "zwiftEventOnly": "1",
+              "zwiftEventOnly": "0",
               "signature": "1201172818"
             }
           },
@@ -3341,14 +3749,14 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "45.7612380981",
-              "blockedForClubs": "1",
-              "blockedForMeetups": "1",
-              "blockedForTimeTrial": "1",
-              "difficulty": "0.0",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "1",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
               "distanceInMeters": "21381.8242187500",
-              "duration": "0",
-              "eventOnly": "1",
+              "duration": "2",
+              "eventOnly": "0",
               "eventPaddocks": "1,2,3,4",
               "freeRideLeadinAscentInMeters": "2.3747410774",
               "freeRideLeadinDistanceInMeters": "465.7765197754",
@@ -3361,11 +3769,12 @@
               "meetupLeadinAscentInMeters": "2.5421133041",
               "meetupLeadinDistanceInMeters": "481.6727294922",
               "name": "Flat Out Fast",
+              "publishedOn": "2025-10-27",
               "sports": "7",
               "supportedLaps": "0",
               "supportsTimeTrialMode": "0",
               "xp": "430",
-              "zwiftEventOnly": "1",
+              "zwiftEventOnly": "0",
               "signature": "1258526800"
             }
           },
@@ -3373,7 +3782,7 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "1114.4089355469",
-              "blockedForClubs": "0",
+              "blockedForClubs": "1",
               "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "distanceBetweenFirstLastLrCPsInMeters": "0.0",
@@ -3818,12 +4227,14 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "190.5013122559",
-              "blockedForClubs": "1",
-              "blockedForMeetups": "1",
-              "blockedForTimeTrial": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
               "distanceInMeters": "23672.0371093750",
-              "eventOnly": "1",
+              "duration": "2",
+              "eventOnly": "0",
               "eventPaddocks": "21,22,23,24",
               "freeRideLeadinAscentInMeters": "0.0197070017",
               "freeRideLeadinDistanceInMeters": "65.2001190186",
@@ -3836,12 +4247,46 @@
               "meetupLeadinAscentInMeters": "0.0197558291",
               "meetupLeadinDistanceInMeters": "80.2344436646",
               "name": "Climb Control",
+              "publishedOn": "2025-10-27",
               "sports": "7",
               "supportedLaps": "0",
               "supportsTimeTrialMode": "0",
               "xp": "475",
-              "zwiftEventOnly": "1",
+              "zwiftEventOnly": "0",
               "signature": "1464561389"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "52.8133621216",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "10218.5322265625",
+              "duration": "3",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0.0063281246",
+              "freeRideLeadinDistanceInMeters": "15.7341403961",
+              "imageName": "NEWYORK_Toefield_Tornado_Run",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "72.3463211060",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_TOEFIELD_TORNADO_RUN",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0.0138793951",
+              "meetupLeadinDistanceInMeters": "30.8607654572",
+              "name": "Toefield Tornado Run",
+              "publishedOn": "2025-10-27",
+              "sports": "2",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "205",
+              "zwiftEventOnly": "0",
+              "signature": "1472166107"
             }
           },
           {
@@ -3975,6 +4420,40 @@
               "xp": "180",
               "zwiftEventOnly": "0",
               "signature": "1545087483"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "146.9983367920",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "4.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "17809.0722656250",
+              "duration": "3",
+              "eventOnly": "0",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "12.6858263016",
+              "imageName": "NEWYORK_The_Double_Borough",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "50.8252563477",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_THE_DOUBLE_BOROUGH",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "28.0141773224",
+              "name": "The Double Borough",
+              "publishedOn": "2025-11-03",
+              "sports": "1",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "360",
+              "zwiftEventOnly": "0",
+              "signature": "1552189318"
             }
           },
           {
@@ -4204,6 +4683,39 @@
               "xp": "977",
               "zwiftEventOnly": "0",
               "signature": "1656629976"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "260.8303222656",
+              "bikeRec": "1",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "24154.6679687500",
+              "duration": "2",
+              "eventOnly": "1",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "25.4374732971",
+              "imageName": "NEWYORK_Empire_Elevation",
+              "leadinAscentInMeters": "4.7677035332",
+              "leadinDistanceInMeters": "1823.5837402344",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_EMPIRE_ELEVATION",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "39.6574592590",
+              "name": "Empire Elevation",
+              "sports": "1",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "485",
+              "zwiftEventOnly": "1",
+              "signature": "1671282746"
             }
           },
           {
@@ -4756,6 +5268,40 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "19.9729404449",
+              "bikeRec": "1",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "3500.3317871094",
+              "duration": "1",
+              "eventOnly": "1",
+              "eventPaddocks": "6,7,8,9",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "117.8703384399",
+              "imageName": "NEWYORK_Times_Square_Circuit",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "22.9232711792",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_TIMES_SQUARE_CIRCUIT",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "124.7462844849",
+              "name": "Times Square Circuit",
+              "publishedOn": "2025-11-24",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "70",
+              "zwiftEventOnly": "1",
+              "signature": "1942591558"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "779.8211669922",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -4980,6 +5526,40 @@
               "xp": "900",
               "zwiftEventOnly": "0",
               "signature": "2064290391"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "329.7257385254",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "3.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "42170.5937500000",
+              "duration": "4",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0.0112060513",
+              "freeRideLeadinDistanceInMeters": "107.3365631104",
+              "imageName": "NEWYORK_Double_Parked",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "72.3463211060",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_DOUBLE_PARKED",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0.0111181606",
+              "meetupLeadinDistanceInMeters": "113.4276046753",
+              "name": "Double Parked",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "845",
+              "zwiftEventOnly": "0",
+              "signature": "2101060245"
             }
           },
           {
@@ -5369,6 +5949,74 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "149.0331878662",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "3.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "23279.8867187500",
+              "duration": "3",
+              "eventOnly": "1",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "13.6123390198",
+              "imageName": "WATOPIA_Hot_Laps",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "193.9167175293",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_WATOPIA_HOT_LAPS",
+              "map": "WATOPIA",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "28.6870994568",
+              "name": "Hot Laps",
+              "sports": "1",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "465",
+              "zwiftEventOnly": "1",
+              "signature": "2251715424"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "138.3578491211",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "4.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "12418.5312500000",
+              "duration": "4",
+              "eventOnly": "0",
+              "eventPaddocks": "6,7,8,9",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "15.0048894882",
+              "imageName": "SCOTLAND_D_n_Dash",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "47.8429374695",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_SCOTLAND_DN_DASH",
+              "map": "SCOTLAND",
+              "meetupLeadinAscentInMeters": "0.0027832012",
+              "meetupLeadinDistanceInMeters": "30.5868797302",
+              "name": "Dùn Dash",
+              "publishedOn": "2025-10-27",
+              "runRec": "1",
+              "sports": "1",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "250",
+              "zwiftEventOnly": "0",
+              "signature": "2312882507"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "772.9612426758",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -5530,7 +6178,7 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
-              "ascentInMeters": "27.3",
+              "ascentInMeters": "26.4338016510",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
               "blockedForTimeTrial": "0",
@@ -5540,12 +6188,16 @@
               "duration": "1",
               "eventOnly": "1",
               "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.0",
+              "freeRideLeadinDistanceInMeters": "15.4117612839",
               "imageName": "NEWYORK_LaGuardia_Loop",
               "leadinAscentInMeters": "18.6",
-              "leadinDistanceInMeters": "1423.734009",
+              "leadinDistanceInMeters": "1423.6071777344",
               "levelLocked": "0",
               "locKey": "LOC_ROUTE_NEWYORK_LAGUARDIA_LOOP",
               "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0.0",
+              "meetupLeadinDistanceInMeters": "30.4796447754",
               "name": "LaGuardia Loop",
               "sports": "3",
               "supportedLaps": "1",
@@ -5557,12 +6209,12 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
-              "ascentInMeters": "942.4",
+              "ascentInMeters": "940.5689086914",
               "blockedForClubs": "0",
               "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "distanceBetweenFirstLastLrCPsInMeters": "0.0",
-              "distanceInMeters": "54743.4",
+              "distanceInMeters": "54744.2265625000",
               "eventOnly": "1",
               "eventPaddocks": "1,2,3,4",
               "freeRideLeadinAscentInMeters": "0.5",
@@ -5913,6 +6565,39 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "95.3124008179",
+              "bikeRec": "1",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "12500.6464843750",
+              "duration": "2",
+              "eventOnly": "1",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.3482130170",
+              "freeRideLeadinDistanceInMeters": "234.4797210693",
+              "imageName": "WATOPIA_Jarvis_Seaside_Sprint",
+              "leadinAscentInMeters": "35.7421340942",
+              "leadinDistanceInMeters": "2831.1442871094",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_WATOPIA_JARVIS_SEASIDE_SPRINT",
+              "map": "WATOPIA",
+              "meetupLeadinAscentInMeters": "0.6786423326",
+              "meetupLeadinDistanceInMeters": "253.0917968750",
+              "name": "Jarvis Seaside Sprint",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "250",
+              "zwiftEventOnly": "1",
+              "signature": "2661047295"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "1044.3046875000",
               "bikeRec": "1",
               "blockedForClubs": "0",
@@ -5979,14 +6664,14 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0.0",
               "ascentInMeters": "20.4",
-              "blockedForClubs": "0",
-              "blockedForMeetups": "0",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "difficulty": "1.0",
               "distanceBetweenFirstLastLrCPsInMeters": "0.0",
               "distanceInMeters": "7354",
               "duration": "1",
-              "eventOnly": "0",
+              "eventOnly": "1",
               "eventPaddocks": "1,2,3,4",
               "freeRideLeadinAscentInMeters": "0",
               "freeRideLeadinDistanceInMeters": "475.76",
@@ -6003,7 +6688,7 @@
               "supportedLaps": "0",
               "supportsTimeTrialMode": "0",
               "xp": "80",
-              "zwiftEventOnly": "1",
+              "zwiftEventOnly": "0",
               "signature": "2681889340"
             }
           },
@@ -6114,28 +6799,28 @@
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
               "blockedForTimeTrial": "0",
-              "defaultLeadinAscentInMeters": "0.62",
-              "defaultLeadinDistanceInMeters": "599.98",
               "difficulty": "1.5",
-              "distanceBetweenFirstLastLrCPsInMeters": "390.7",
-              "distanceInMeters": "9193.1",
+              "distanceBetweenFirstLastLrCPsInMeters": "426.4707031250",
+              "distanceInMeters": "9193.2431640625",
               "duration": "1",
               "eventOnly": "0",
               "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.9816164374",
+              "freeRideLeadinDistanceInMeters": "457.1227111816",
               "imageName": "WATOPIA_Watopia_Hilly_Route",
               "leadinAscentInMeters": "0.5",
-              "leadinDistanceInMeters": "465.9",
+              "leadinDistanceInMeters": "501.6069335938",
               "levelLocked": "0",
               "locKey": "LOC_ROUTE_WATOPIA_HILLY",
               "map": "WATOPIA",
               "meetupLeadinAscentInMeters": "0.8747",
-              "meetupLeadinDistanceInMeters": "1128.6216",
+              "meetupLeadinDistanceInMeters": "466.9169921875",
               "name": "Watopia Hilly Route",
               "sports": "1",
               "supportedLaps": "1",
               "supportsTimeTrialMode": "0",
               "workoutRec": "1",
-              "xp": "180",
+              "xp": "175",
               "zwiftEventOnly": "0",
               "signature": "2737483381"
             }
@@ -6241,6 +6926,40 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "52.2837066650",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "5728.5610351562",
+              "duration": "3",
+              "eventOnly": "0",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.0045898436",
+              "freeRideLeadinDistanceInMeters": "51.4199409485",
+              "imageName": "SCOTLAND_Highland_Run",
+              "leadinAscentInMeters": "6.4413671494",
+              "leadinDistanceInMeters": "1138.0936279297",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_SCOTLAND_HIGHLAND_RUN",
+              "map": "SCOTLAND",
+              "meetupLeadinAscentInMeters": "0.0045898436",
+              "meetupLeadinDistanceInMeters": "28.8106555939",
+              "name": "Highland Run",
+              "publishedOn": "2025-10-27",
+              "runRec": "1",
+              "sports": "2",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "115",
+              "zwiftEventOnly": "0",
+              "signature": "2773927650"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "39.4",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -6335,6 +7054,40 @@
               "xp": "385",
               "zwiftEventOnly": "0",
               "signature": "2829629527"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "207.0700225830",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "31228.1328125000",
+              "duration": "3",
+              "eventOnly": "0",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.9928514361",
+              "freeRideLeadinDistanceInMeters": "52.1679077148",
+              "imageName": "LONDON_London_Calling",
+              "leadinAscentInMeters": "4.3915715218",
+              "leadinDistanceInMeters": "462.0547485352",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_LONDON_LONDON_CALLING",
+              "map": "LONDON",
+              "meetupLeadinAscentInMeters": "0.5554394722",
+              "meetupLeadinDistanceInMeters": "34.6026000977",
+              "name": "London Calling",
+              "publishedOn": "2025-10-27",
+              "sports": "7",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "625",
+              "zwiftEventOnly": "0",
+              "signature": "2836167073"
             }
           },
           {
@@ -6561,14 +7314,14 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "87.0853195190",
-              "blockedForClubs": "1",
-              "blockedForMeetups": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
               "blockedForTimeTrial": "1",
-              "difficulty": "0.0",
+              "difficulty": "1",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
               "distanceInMeters": "19388.2890625000",
-              "duration": "0",
-              "eventOnly": "1",
+              "duration": "2",
+              "eventOnly": "0",
               "eventPaddocks": "1,2,3,4",
               "freeRideLeadinAscentInMeters": "0.0703515708",
               "freeRideLeadinDistanceInMeters": "150.1013641357",
@@ -6581,11 +7334,12 @@
               "meetupLeadinAscentInMeters": "0.1312304586",
               "meetupLeadinDistanceInMeters": "166.3374633789",
               "name": "Red Zone Repeats",
+              "publishedOn": "2025-10-27",
               "sports": "7",
               "supportedLaps": "0",
               "supportsTimeTrialMode": "0",
               "xp": "390",
-              "zwiftEventOnly": "1",
+              "zwiftEventOnly": "0",
               "signature": "2892858917"
             }
           },
@@ -6624,8 +7378,42 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
-              "ascentInMeters": "917.7418823242",
+              "ascentInMeters": "200.4643859863",
+              "bikeRec": "1",
               "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "3.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "29532.3671875000",
+              "duration": "3",
+              "eventOnly": "0",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "26.2025489807",
+              "imageName": "NEWYORK_Watts_the_Limit",
+              "leadinAscentInMeters": "18.5500621796",
+              "leadinDistanceInMeters": "1424.1322021484",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_WATTS_THE_LIMIT",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "53.0573577881",
+              "name": "Watts the Limit",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "595",
+              "zwiftEventOnly": "0",
+              "signature": "2898229208"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "917.7418823242",
+              "blockedForClubs": "1",
               "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "distanceBetweenFirstLastLrCPsInMeters": "0.0",
@@ -6779,6 +7567,39 @@
               "xp": "840",
               "zwiftEventOnly": "0",
               "signature": "2947111049"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "19.9716815948",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "3500.3593750000",
+              "duration": "1",
+              "eventOnly": "1",
+              "eventPaddocks": "6,7,8,9",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "117.9782104492",
+              "imageName": "NEWYORK_Times_Square_Circuit_Run",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "22.9232711792",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_TIMES_SQUARE_CIRCUIT_RUN",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "124.7658843994",
+              "name": "Times Square Circuit Run",
+              "publishedOn": "2025-11-24",
+              "sports": "2",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "70",
+              "zwiftEventOnly": "0",
+              "signature": "2949228237"
             }
           },
           {
@@ -7101,8 +7922,8 @@
               "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "98.5367584229",
               "bikeRec": "0",
-              "blockedForClubs": "0",
-              "blockedForMeetups": "0",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "difficulty": "4.0",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
@@ -7125,8 +7946,42 @@
               "supportedLaps": "1",
               "supportsTimeTrialMode": "0",
               "xp": "350",
-              "zwiftEventOnly": "1",
+              "zwiftEventOnly": "0",
               "signature": "3030004732"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "289.7971801758",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "4.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "36223.1328125000",
+              "duration": "3",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "26.1823043823",
+              "imageName": "NEWYORK_The_Greenway",
+              "leadinAscentInMeters": "2.3214917183",
+              "leadinDistanceInMeters": "582.3136596680",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_THE_GREENWAY",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "44.4538955688",
+              "name": "The Greenway",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "805",
+              "zwiftEventOnly": "0",
+              "signature": "3051823795"
             }
           },
           {
@@ -7193,6 +8048,40 @@
               "xp": "410",
               "zwiftEventOnly": "0",
               "signature": "3078665969"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "415.8245239258",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "4.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "31180.7480468750",
+              "duration": "4",
+              "eventOnly": "0",
+              "eventPaddocks": "6,7,8,9",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "31.8051757812",
+              "imageName": "NEWYORK_Stay_Puft_Pursuit",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "22.9387054443",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_STAY_PUFT_PURSUIT",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "46.6083488464",
+              "name": "Stay Puft Pursuit",
+              "publishedOn": "2025-11-03",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "625",
+              "zwiftEventOnly": "0",
+              "signature": "3079921742"
             }
           },
           {
@@ -7588,6 +8477,40 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "155.4237976074",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "4.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "19280.3144531250",
+              "duration": "4",
+              "eventOnly": "0",
+              "eventPaddocks": "6,7,8,9",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "27.71",
+              "imageName": "NEWYORK_Spinfinity",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "22.9232711792",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_SPINFINITY",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "42.67",
+              "name": "Spinfinity",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "390",
+              "zwiftEventOnly": "0",
+              "signature": "3314406972"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "578.4619750977",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -7820,7 +8743,7 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "396.5840454102",
-              "blockedForClubs": "0",
+              "blockedForClubs": "1",
               "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "distanceBetweenFirstLastLrCPsInMeters": "0.0",
@@ -8360,8 +9283,8 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "579.7",
-              "blockedForClubs": "0",
-              "blockedForMeetups": "0",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "difficulty": "3.5",
               "distanceBetweenFirstLastLrCPsInMeters": "0.0",
@@ -8386,26 +9309,65 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
-              "ascentInMeters": "657.0",
+              "ascentInMeters": "327.0883483887",
+              "bikeRec": "1",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
               "blockedForTimeTrial": "0",
+              "difficulty": "3.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "41266.5507812500",
+              "duration": "3",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0.3198046386",
+              "freeRideLeadinDistanceInMeters": "15.5130176544",
+              "imageName": "MAKURIISLANDS_Tropic_Rush",
+              "leadinAscentInMeters": "6.0444369316",
+              "leadinDistanceInMeters": "1605.9002685547",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_MAKURIISLANDS_TROPIC_RUSH",
+              "map": "MAKURIISLANDS",
+              "meetupLeadinAscentInMeters": "0.7580463290",
+              "meetupLeadinDistanceInMeters": "36.3202323914",
+              "name": "Tropic Rush",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "825",
+              "zwiftEventOnly": "0",
+              "signature": "3636436865"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "657.0",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
+              "blockedForTimeTrial": "0",
               "difficulty": "3.5",
               "distanceBetweenFirstLastLrCPsInMeters": "0.0",
-              "distanceInMeters": "36972.6",
+              "distanceInMeters": "36971.2343750000",
               "duration": "4",
               "eventOnly": "1",
               "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0",
+              "freeRideLeadinDistanceInMeters": "21.9228630066",
               "imageName": "INNSBRUCK_Innsbruck_KOM_After_Party",
               "leadinAscentInMeters": "0.8",
-              "leadinDistanceInMeters": "224.3",
+              "leadinDistanceInMeters": "221.5413208008",
               "levelLocked": "0",
               "locKey": "LOC_ROUTE_INNSBRUCK_INNSBRUCK_KOM_AFTER_PARTY_3X",
               "map": "INNSBRUCK",
+              "meetupLeadinAscentInMeters": "0",
+              "meetupLeadinDistanceInMeters": "40.1769905090",
               "name": "Innsbruck KOM After Party",
               "sports": "3",
               "supportedLaps": "0",
               "supportsTimeTrialMode": "0",
+              "xp": "740",
               "zwiftEventOnly": "0",
               "signature": "3649347250"
             }
@@ -8477,7 +9439,7 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
-              "ascentInMeters": "300.1",
+              "ascentInMeters": "295.0039978027",
               "bikeRec": "1",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
@@ -8511,9 +9473,76 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
-              "ascentInMeters": "52.573296",
+              "ascentInMeters": "837.9556884766",
+              "bikeRec": "1",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "5.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "78904.9843750000",
+              "duration": "4",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0.1667211950",
+              "freeRideLeadinDistanceInMeters": "159.0486907959",
+              "imageName": "NEWYORK_Fuhgeddaboudit",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "72.3463211060",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_FUHGEDDABOUDIT",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0.1668090522",
+              "meetupLeadinDistanceInMeters": "161.1562500000",
+              "name": "Fuhgeddaboudit",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "1595",
+              "zwiftEventOnly": "0",
+              "signature": "3678866163"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "136.4929504395",
+              "bikeRec": "1",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
+              "blockedForTimeTrial": "0",
+              "difficulty": "1.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "23622.6445312500",
+              "duration": "2",
+              "eventOnly": "1",
+              "eventPaddocks": "21,22,23,24",
+              "freeRideLeadinAscentInMeters": "33.0630455017",
+              "freeRideLeadinDistanceInMeters": "29.5995960236",
+              "imageName": "WATOPIA_Southern_Coast_Cruise",
+              "leadinAscentInMeters": "10.0624170303",
+              "leadinDistanceInMeters": "2669.1987304688",
+              "levelLocked": "10",
+              "locKey": "LOC_ROUTE_WATOPIA_SOUTHERN_COAST_CRUISE",
+              "map": "WATOPIA",
+              "meetupLeadinAscentInMeters": "33.0630455017",
+              "meetupLeadinDistanceInMeters": "52.5448799133",
+              "name": "Southern Coast Cruise",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "475",
+              "zwiftEventOnly": "1",
+              "signature": "3680493479"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "52.573296",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
               "distanceInMeters": "5180.155273",
@@ -8764,8 +9793,8 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
               "ascentInMeters": "1005.9686889648",
-              "blockedForClubs": "0",
-              "blockedForMeetups": "0",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "difficulty": "4.5",
               "distanceBetweenFirstLastLrCPsInMeters": "0.0",
@@ -8828,22 +9857,26 @@
           {
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0",
-              "ascentInMeters": "27.2",
+              "ascentInMeters": "26.3579025269",
               "blockedForClubs": "0",
               "blockedForMeetups": "0",
               "blockedForTimeTrial": "0",
               "difficulty": "1.0",
               "distanceBetweenFirstLastLrCPsInMeters": "0",
-              "distanceInMeters": "2791.253418",
+              "distanceInMeters": "2790.5041503906",
               "duration": "1",
               "eventOnly": "1",
               "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.5056713820",
+              "freeRideLeadinDistanceInMeters": "15.1797714233",
               "imageName": "NEWYORK_LaGuardia_Loop_Reverse",
-              "leadinAscentInMeters": "20.5",
-              "leadinDistanceInMeters": "2355.643066",
+              "leadinAscentInMeters": "19.6110210419",
+              "leadinDistanceInMeters": "2355.6311035156",
               "levelLocked": "0",
               "locKey": "LOC_ROUTE_NEWYORK_LAGUARDIA_LOOP",
               "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "1.0903345346",
+              "meetupLeadinDistanceInMeters": "30.0301532745",
               "name": "LaGuardia Loop Reverse",
               "sports": "3",
               "supportedLaps": "1",
@@ -8938,6 +9971,40 @@
               "xp": "200",
               "zwiftEventOnly": "0",
               "signature": "3819095753"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "37.3170509338",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "5428.0864257812",
+              "duration": "1",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0.0096240258",
+              "freeRideLeadinDistanceInMeters": "159.5950622559",
+              "imageName": "NEWYORK_Prospect_Park_Loop_Run",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "72.3463211060",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_PROSPECT_PARK_LOOP_RUN",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0.0135424845",
+              "meetupLeadinDistanceInMeters": "160.8423767090",
+              "name": "Prospect Park Loop Run",
+              "publishedOn": "2025-10-27",
+              "runRec": "1",
+              "sports": "2",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "110",
+              "zwiftEventOnly": "0",
+              "signature": "3835625237"
             }
           },
           {
@@ -9066,6 +10133,40 @@
               "xp": "80",
               "zwiftEventOnly": "0",
               "signature": "3866241330"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "21.8800640106",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "6072.8222656250",
+              "duration": "2",
+              "eventOnly": "0",
+              "eventPaddocks": "101,102,103,104",
+              "freeRideLeadinAscentInMeters": "0.4049220383",
+              "freeRideLeadinDistanceInMeters": "49.3489532471",
+              "imageName": "WATOPIA_Track_Meet",
+              "leadinAscentInMeters": "2.5989768505",
+              "leadinDistanceInMeters": "462.1184692383",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_WATOPIA_TRACK_MEET",
+              "map": "WATOPIA",
+              "meetupLeadinAscentInMeters": "0.4044629335",
+              "meetupLeadinDistanceInMeters": "54.2554092407",
+              "name": "Track Meet",
+              "publishedOn": "2025-10-27",
+              "runRec": "1",
+              "sports": "2",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "115",
+              "zwiftEventOnly": "0",
+              "signature": "3871332877"
             }
           },
           {
@@ -9687,14 +10788,14 @@
             "$": {
               "ascentBetweenFirstLastLrCPsInMeters": "0.0",
               "ascentInMeters": "11.438",
-              "blockedForClubs": "0",
-              "blockedForMeetups": "0",
+              "blockedForClubs": "1",
+              "blockedForMeetups": "1",
               "blockedForTimeTrial": "0",
               "difficulty": "1.0",
               "distanceBetweenFirstLastLrCPsInMeters": "0.0",
               "distanceInMeters": "2469.0342",
               "duration": "1",
-              "eventOnly": "0",
+              "eventOnly": "1",
               "eventPaddocks": "1,2,3,4",
               "freeRideLeadinAscentInMeters": "0.0",
               "freeRideLeadinDistanceInMeters": "18.381142",
@@ -9711,7 +10812,7 @@
               "supportedLaps": "0",
               "supportsTimeTrialMode": "0",
               "xp": "480",
-              "zwiftEventOnly": "1",
+              "zwiftEventOnly": "0",
               "signature": "4149936043"
             }
           },
@@ -9840,6 +10941,74 @@
               "xp": "810",
               "zwiftEventOnly": "0",
               "signature": "4210048937"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "189.3475952148",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "4",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "13634.4042968750",
+              "duration": "2",
+              "eventOnly": "0",
+              "eventPaddocks": "1,2,3,4",
+              "freeRideLeadinAscentInMeters": "0.0045898436",
+              "freeRideLeadinDistanceInMeters": "42.6634025574",
+              "imageName": "SCOTLAND_Scotland_After_Party",
+              "leadinAscentInMeters": "6.3560400009",
+              "leadinDistanceInMeters": "1138.3177490234",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_SCOTLAND_SCOTLAND_AFTER_PARTY",
+              "map": "SCOTLAND",
+              "meetupLeadinAscentInMeters": "0.0045898436",
+              "meetupLeadinDistanceInMeters": "42.9303932190",
+              "name": "Scotland After Party",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "0",
+              "supportsTimeTrialMode": "0",
+              "xp": "275",
+              "zwiftEventOnly": "0",
+              "signature": "4227232797"
+            }
+          },
+          {
+            "$": {
+              "ascentBetweenFirstLastLrCPsInMeters": "0",
+              "ascentInMeters": "52.8133621216",
+              "bikeRec": "1",
+              "blockedForClubs": "0",
+              "blockedForMeetups": "0",
+              "blockedForTimeTrial": "0",
+              "difficulty": "2.0",
+              "distanceBetweenFirstLastLrCPsInMeters": "0",
+              "distanceInMeters": "10216.3515625000",
+              "duration": "2",
+              "eventOnly": "0",
+              "eventPaddocks": "11,12,13,14",
+              "freeRideLeadinAscentInMeters": "0.0056542964",
+              "freeRideLeadinDistanceInMeters": "15.7341403961",
+              "imageName": "NEWYORK_Toefield_Tornado",
+              "leadinAscentInMeters": "0",
+              "leadinDistanceInMeters": "72.3463211060",
+              "levelLocked": "0",
+              "locKey": "LOC_ROUTE_NEWYORK_TOEFIELD_TORNADO",
+              "map": "NEWYORK",
+              "meetupLeadinAscentInMeters": "0.0132641587",
+              "meetupLeadinDistanceInMeters": "30.8607654572",
+              "name": "Toefield Tornado",
+              "publishedOn": "2025-10-27",
+              "sports": "1",
+              "supportedLaps": "1",
+              "supportsTimeTrialMode": "0",
+              "xp": "205",
+              "zwiftEventOnly": "0",
+              "signature": "4232620535"
             }
           },
           {
@@ -10065,6 +11234,21 @@
           },
           {
             "$": {
+              "archFriendlyFemaleNameR": "Prospect Park Lap",
+              "archFriendlyNameR": "Prospect Park Lap",
+              "archId": "0",
+              "direction": "reverse",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
+              "jerseyName": "Prospect Park Lap",
+              "name": "Prospect Park Lap",
+              "roadId": "215",
+              "roadTime": "0.1200000000",
+              "world": "4",
+              "signature": "-9223372035819261061"
+            }
+          },
+          {
+            "$": {
               "archFriendlyFemaleNameR": "Stoneway Sprint",
               "archFriendlyNameR": "Stoneway Sprint",
               "archId": "71",
@@ -10177,11 +11361,27 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
               "jerseyName": "Jarvis KOM",
               "name": "Jarvis KOM",
-              "onRoutes": "454871454,3378411990,2644664789,3030004732,1724903700,1201172818",
+              "onRoutes": "454871454,3378411990,2644664789,3030004732,1724903700,1201172818,2661047295",
               "roadId": "192",
               "roadTime": "0.4040033757",
               "world": "1",
               "signature": "-9223372035801032312"
+            }
+          },
+          {
+            "$": {
+              "archFriendlyFemaleNameR": "Center Sprint Reverse",
+              "archFriendlyNameR": "Center Sprint Reverse",
+              "archId": "14",
+              "direction": "reverse",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
+              "jerseyName": "Center Dr.",
+              "name": "Center Sprint",
+              "onRoutes": "3051823795",
+              "roadId": "346",
+              "roadTime": "0.5502294422",
+              "world": "4",
+              "signature": "-9223372035799170891"
             }
           },
           {
@@ -10201,6 +11401,22 @@
           },
           {
             "$": {
+              "archFriendlyFemaleNameR": "Times Square Reverse",
+              "archFriendlyNameR": "Times Square Reverse",
+              "archId": "0",
+              "direction": "reverse",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
+              "jerseyName": "Times Square Circuit",
+              "name": "Times Square",
+              "onRoutes": "1942591558,3314406972,730052368",
+              "roadId": "230",
+              "roadTime": "0.5000000000",
+              "world": "4",
+              "signature": "-9223372035797073002"
+            }
+          },
+          {
+            "$": {
               "archId": "0",
               "direction": "reverse",
               "name": "none",
@@ -10213,6 +11429,22 @@
           },
           {
             "$": {
+              "archFriendlyFemaleNameR": "The Peristyle Sprint Reverse",
+              "archFriendlyNameR": "The Peristyle Sprint Reverse",
+              "archId": "12",
+              "direction": "reverse",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
+              "jerseyName": "The Peristyle Sprint",
+              "name": "The Peristyle Sprint",
+              "onRoutes": "4232620535,975408707,112312944,494933300,1472166107,1671282746",
+              "roadId": "215",
+              "roadTime": "0.5905689708",
+              "world": "4",
+              "signature": "-9223372035796501639"
+            }
+          },
+          {
+            "$": {
               "archFriendlyFemaleNameR": "Sasquatch Sprint",
               "archFriendlyNameR": "Sasquatch Sprint",
               "archId": "73",
@@ -10220,7 +11452,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "Sasquatch Sprint",
               "name": "Sasquatch Sprint",
-              "onRoutes": "2595459121,2569385980,1656629976,1115260805,1635842477,762151244,4009130866,3558689342,806114032,2333249368,4131664304,183635628",
+              "onRoutes": "2595459121,2569385980,1656629976,1115260805,1635842477,762151244,4009130866,3558689342,806114032,2333249368,4131664304,183635628,3680493479",
               "roadId": "149",
               "roadTime": "0.5829928492",
               "world": "1",
@@ -10262,7 +11494,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "Jarvis Sprint",
               "name": "Jarvis Sprint",
-              "onRoutes": "454871454,3378411990,2644664789,3030004732,1724903700,1201172818",
+              "onRoutes": "454871454,3378411990,2644664789,3030004732,1724903700,1201172818,2661047295",
               "roadId": "192",
               "roadTime": "0.7267690045",
               "world": "1",
@@ -10278,7 +11510,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "Woodland Sprint",
               "name": "Woodland Sprint",
-              "onRoutes": "2595459121,2569385980,1656629976,1115260805,1635842477,762151244,4009130866,3558689342,806114032,2333249368,4131664304,183635628",
+              "onRoutes": "2595459121,2569385980,1656629976,1115260805,1635842477,762151244,4009130866,3558689342,806114032,2333249368,4131664304,183635628,3680493479",
               "roadId": "149",
               "roadTime": "0.8205878677",
               "world": "1",
@@ -10421,7 +11653,8 @@
               "archId": "0",
               "direction": "reverse",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
-              "name": "none",
+              "jerseyName": "CENTRAL PARK LOOP",
+              "name": "CENTRAL PARK LOOP",
               "onRoutes": "2202609830",
               "roadId": "4",
               "roadTime": "0.1687163593",
@@ -10468,7 +11701,7 @@
               "direction": "reverse",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "name": "Sprint Forward End",
-              "onRoutes": "3382019812,2494975884,263936293,553661379,242381847,1475638265,107363867,3811569265,3454338139,3312037616,3023359358,2900074211,3453194200,243949867,762151244,3324272424,1696938496,2644664789,2888820995,1201172818",
+              "onRoutes": "3382019812,2494975884,263936293,553661379,242381847,1475638265,107363867,3811569265,3454338139,3312037616,3023359358,2900074211,3453194200,243949867,762151244,3324272424,1696938496,2644664789,2888820995,1201172818,979250573,2661047295",
               "roadId": "0",
               "roadTime": "0.6042982501",
               "world": "1",
@@ -10512,8 +11745,9 @@
               "archId": "1",
               "direction": "reverse",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
-              "name": "none",
-              "onRoutes": "3078665969,5103974,1509089537,3687251774,1327665278,711818913,2202609830,3774003351,2001106885,352245150,2372883204",
+              "jerseyName": "NY SPRINT",
+              "name": "NY SPRINT",
+              "onRoutes": "3078665969,5103974,1509089537,3687251774,1327665278,711818913,2202609830,3774003351,2001106885,352245150,2372883204,3079921742",
               "roadId": "4",
               "roadTime": "0.9098000000",
               "world": "4",
@@ -10544,7 +11778,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
               "jerseyName": "Sgurr Summit",
               "name": "Sgurr Summit",
-              "onRoutes": "4107749591,3662705581",
+              "onRoutes": "4107749591,3662705581,4227232797",
               "roadId": "3",
               "roadTime": "0.3606309670",
               "world": "13",
@@ -10573,8 +11807,9 @@
               "archId": "2",
               "direction": "reverse",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJerseyW_Icon.tga",
-              "name": "none",
-              "onRoutes": "3078665969,1763213625,5103974,3872978134,2945813240,1327665278,2001106885,1378559127,3669622170",
+              "jerseyName": "NEW YORK KOM",
+              "name": "NEW YORK KOM",
+              "onRoutes": "3078665969,1763213625,5103974,3872978134,2945813240,1327665278,2001106885,1378559127,3669622170,3079921742,3678866163",
               "roadId": "24",
               "roadTime": "0.5492857388",
               "world": "4",
@@ -10635,7 +11870,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
               "jerseyName": "The Clyde Kicker",
               "name": "The Clyde Kicker",
-              "onRoutes": "1258415487",
+              "onRoutes": "1258415487,2312882507,2773927650,4227232797",
               "roadId": "9",
               "roadTime": "0.4820664593",
               "world": "13",
@@ -10696,7 +11931,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
               "jerseyName": "Breakaway Brae",
               "name": "Breakaway Brae",
-              "onRoutes": "46799750,742057576,3662705581,1384155764,172610229",
+              "onRoutes": "46799750,742057576,3662705581,1384155764,172610229,2312882507",
               "roadId": "2",
               "roadTime": "0.2468000000",
               "world": "13",
@@ -10724,6 +11959,7 @@
               "archFriendlyNameR": "Volcano",
               "archId": "4",
               "direction": "reverse",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/Badge_Volcano.tga",
               "name": "Volcano Lap",
               "onRoutes": "3866241330,2681889340",
               "roadId": "23",
@@ -10756,7 +11992,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "TOWER SPRINT",
               "name": "TOWER_SPRINT",
-              "onRoutes": "3356878261,3914529041,2866480562,910684583,2927651296,1367364772,2892858917",
+              "onRoutes": "3356878261,3914529041,2866480562,910684583,2927651296,1367364772,2892858917,152965568,3636436865",
               "roadId": "6",
               "roadTime": "0.2130466684",
               "world": "9",
@@ -10788,11 +12024,27 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "ALLEY SPRINT",
               "name": "ALLEY_SPRINT",
-              "onRoutes": "3356878261,3914529041,1127056801,2866480562,910684583,4258943387,3330165223,2927651296,186601870,1367364772,2892858917",
+              "onRoutes": "3356878261,3914529041,1127056801,2866480562,910684583,4258943387,3330165223,2927651296,186601870,1367364772,2892858917,152965568,3636436865",
               "roadId": "4",
               "roadTime": "0.7269605643",
               "world": "9",
               "signature": "-9223371992844330474"
+            }
+          },
+          {
+            "$": {
+              "archFriendlyFemaleNameR": "Manhattan Sprint",
+              "archFriendlyNameR": "Manhattan Sprint",
+              "archId": "11",
+              "direction": "reverse",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
+              "jerseyName": "Manhattan Sprint",
+              "name": "Manhattan Sprint",
+              "onRoutes": "2898229208,1099226581,1178708985,2101060245,3079921742,3678866163,3314406972,1552189318,730052368,3051823795,1671282746",
+              "roadId": "220",
+              "roadTime": "0.4380000000",
+              "world": "4",
+              "signature": "-9223371988555855299"
             }
           },
           {
@@ -10804,7 +12056,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "CASTLE PARK SPRINT",
               "name": "CASTLE_PARK_SPRINT",
-              "onRoutes": "3356878261,1453570384,3302953739,1127056801,3330165223,1367364772",
+              "onRoutes": "3356878261,1453570384,3302953739,1127056801,3330165223,1367364772,152965568",
               "roadId": "18",
               "roadTime": "0.6855761013",
               "world": "9",
@@ -10851,7 +12103,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "SHISA SPRINT",
               "name": "SHISA_SPRINT",
-              "onRoutes": "2140131142,211138252,576953930,4258943387,3330165223,2927651296",
+              "onRoutes": "2140131142,211138252,576953930,4258943387,3330165223,2927651296,3636436865",
               "roadId": "134",
               "roadTime": "0.6923000000",
               "world": "9",
@@ -10970,7 +12222,7 @@
               "archId": "2",
               "direction": "reverse",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
-              "name": "none",
+              "name": "Prime",
               "onRoutes": "2875658892",
               "roadId": "0",
               "roadTime": "0.1961382481",
@@ -10985,7 +12237,7 @@
               "archId": "0",
               "direction": "reverse",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
-              "name": "none",
+              "name": "Crit City",
               "onRoutes": "2875658892",
               "roadId": "0",
               "roadTime": "0.6098652289",
@@ -11048,7 +12300,7 @@
               "archId": "0",
               "direction": "forward",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
-              "name": "none",
+              "name": "Crit City",
               "onRoutes": "947394567",
               "roadId": "0",
               "roadTime": "0.6098652289",
@@ -11063,7 +12315,7 @@
               "archId": "2",
               "direction": "forward",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
-              "name": "none",
+              "name": "Prime",
               "onRoutes": "947394567",
               "roadId": "0",
               "roadTime": "0.1961382481",
@@ -11172,6 +12424,22 @@
           },
           {
             "$": {
+              "archFriendlyFemaleName": "⚡ 10 Sec",
+              "archFriendlyName": "⚡ 10 Sec",
+              "archId": "5",
+              "direction": "forward",
+              "isPowerArch": "1",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PurpleJersey_Icon.tga",
+              "jerseyName": "⚡ 10 Sec",
+              "name": "⚡ 10 Sec",
+              "roadId": "219",
+              "roadTime": "0.7010000000",
+              "world": "4",
+              "signature": "26822091729"
+            }
+          },
+          {
+            "$": {
               "archFriendlyFemaleName": "Village Sprint",
               "archFriendlyName": "Village Sprint",
               "archId": "4",
@@ -11195,7 +12463,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/DesertJersey_Icon.tga",
               "jerseyName": "Fuego Flats ",
               "name": "Fuego Flats",
-              "onRoutes": "2139708890,3366225080,2748657713,1475638265,2128890027,1064303857,604330868,3921412335,2207442179,3368626651,2900074211,1327147942,3453194200,2746475460,1656629976,1917017591,806114032,1258526800",
+              "onRoutes": "2139708890,3366225080,2748657713,1475638265,2128890027,1064303857,604330868,3921412335,2207442179,3368626651,2900074211,1327147942,3453194200,2746475460,1656629976,1917017591,806114032,1258526800,979250573",
               "roadId": "81",
               "roadTime": "0.0256000000",
               "world": "1",
@@ -11231,6 +12499,22 @@
               "roadTime": "0.7578240454",
               "world": "10",
               "signature": "1034851390"
+            }
+          },
+          {
+            "$": {
+              "archFriendlyFemaleName": "Prospect Park Lap",
+              "archFriendlyName": "Prospect Park Lap",
+              "archId": "0",
+              "direction": "forward",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
+              "jerseyName": "Prospect Park Lap",
+              "name": "Prospect Park Lap",
+              "onRoutes": "22757204,3835625237",
+              "roadId": "215",
+              "roadTime": "0.1200000000",
+              "world": "4",
+              "signature": "1035514747"
             }
           },
           {
@@ -11424,11 +12708,27 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
               "jerseyName": "Jarvis KOM",
               "name": "Jarvis KOM",
-              "onRoutes": "1092181131,2698009951,4199497144,3068694512",
+              "onRoutes": "1092181131,2698009951,4199497144,3068694512,979250573,2251715424",
               "roadId": "192",
               "roadTime": "0.4040033757",
               "world": "1",
               "signature": "1053743496"
+            }
+          },
+          {
+            "$": {
+              "archFriendlyFemaleName": "Center Sprint",
+              "archFriendlyName": "Center  Sprint",
+              "archId": "14",
+              "direction": "forward",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
+              "jerseyName": "Center Dr.",
+              "name": "Center Sprint",
+              "onRoutes": "4232620535,975408707,112312944,494933300,1472166107,1671282746",
+              "roadId": "346",
+              "roadTime": "0.5502294422",
+              "world": "4",
+              "signature": "1055604917"
             }
           },
           {
@@ -11460,6 +12760,22 @@
           },
           {
             "$": {
+              "archFriendlyFemaleName": "Brooklyn Bridge QOM",
+              "archFriendlyName": "Brooklyn Bridge KOM",
+              "archId": "10",
+              "direction": "forward",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
+              "jerseyName": "Brooklyn Bridge",
+              "name": "Brooklyn Bridge KOM",
+              "onRoutes": "1099226581,1178708985,3079921742,3678866163,3314406972,1552189318,730052368,3051823795",
+              "roadId": "1",
+              "roadTime": "0.5560000000",
+              "world": "4",
+              "signature": "1057289440"
+            }
+          },
+          {
+            "$": {
               "archId": "0",
               "direction": "forward",
               "name": "Grade05",
@@ -11468,6 +12784,22 @@
               "roadTime": "0.4418663604",
               "world": "1",
               "signature": "1057403090"
+            }
+          },
+          {
+            "$": {
+              "archFriendlyFemaleName": "Times Square",
+              "archFriendlyName": "Times Square",
+              "archId": "0",
+              "direction": "forward",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
+              "jerseyName": "Times Square Circuit",
+              "name": "Times Square",
+              "onRoutes": "1671282746",
+              "roadId": "230",
+              "roadTime": "0.5000000000",
+              "world": "4",
+              "signature": "1057702806"
             }
           },
           {
@@ -11495,6 +12827,22 @@
           },
           {
             "$": {
+              "archFriendlyFemaleName": "The Peristyle Sprint",
+              "archFriendlyName": "The Peristyle Sprint",
+              "archId": "12",
+              "direction": "forward",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
+              "jerseyName": "The Peristyle Sprint",
+              "name": "The Peristyle Sprint",
+              "onRoutes": "22757204,1178708985,2101060245,3678866163,3835625237",
+              "roadId": "215",
+              "roadTime": "0.5905689708",
+              "world": "4",
+              "signature": "1058274169"
+            }
+          },
+          {
+            "$": {
               "archId": "0",
               "direction": "forward",
               "name": "Grade06",
@@ -11514,7 +12862,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "Sasquatch Sprint",
               "name": "Sasquatch Sprint",
-              "onRoutes": "2569385980,2328501978,240388043,270817258,806114032,3961473046",
+              "onRoutes": "2569385980,2328501978,240388043,270817258,806114032,3961473046,3680493479",
               "roadId": "149",
               "roadTime": "0.5829928492",
               "world": "1",
@@ -11617,7 +12965,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "Jarvis Sprint",
               "name": "Jarvis Sprint",
-              "onRoutes": "1092181131,2698009951,4199497144,3068694512",
+              "onRoutes": "1092181131,2698009951,4199497144,3068694512,979250573",
               "roadId": "192",
               "roadTime": "0.7267690045",
               "world": "1",
@@ -11685,7 +13033,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "Woodland Sprint",
               "name": "Woodland Sprint",
-              "onRoutes": "2569385980,2328501978,240388043,270817258,806114032,4199497144",
+              "onRoutes": "2569385980,2328501978,240388043,270817258,806114032,4199497144,3680493479",
               "roadId": "149",
               "roadTime": "0.8205878677",
               "world": "1",
@@ -11844,6 +13192,22 @@
           },
           {
             "$": {
+              "archFriendlyFemaleName": "The Hill KOM",
+              "archFriendlyName": "The Hill KOM",
+              "archId": "13",
+              "direction": "forward",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
+              "jerseyName": "The Hill KOM",
+              "name": "The Hill KOM",
+              "onRoutes": "22757204,1178708985,2101060245,3678866163,3835625237,4232620535,112312944,1472166107,1671282746",
+              "roadId": "215",
+              "roadTime": "0.9356112714",
+              "world": "4",
+              "signature": "1064272952"
+            }
+          },
+          {
+            "$": {
               "archId": "0",
               "direction": "forward",
               "name": "Ventoux_08",
@@ -11952,6 +13316,22 @@
               "roadTime": "0.0001000000",
               "world": "7",
               "signature": "1392163161"
+            }
+          },
+          {
+            "$": {
+              "archFriendlyFemaleNameR": "⚡ 10 Sec",
+              "archFriendlyNameR": "⚡ 10 Sec",
+              "archId": "8",
+              "direction": "reverse",
+              "isPowerArch": "1",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PurpleJersey_Icon.tga",
+              "jerseyName": "⚡ 10 Sec",
+              "name": "⚡ 10 Sec",
+              "roadId": "217",
+              "roadTime": "0.2450000000",
+              "world": "4",
+              "signature": "26822091729"
             }
           },
           {
@@ -12213,12 +13593,76 @@
               "archId": "7",
               "direction": "forward",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJerseyAlpez_Icon.tga",
-              "name": "none",
+              "name": "Alpe du Zwift",
               "onRoutes": "1766405776,2878180967,2663908549,1475638265,2969952077,1115260805",
               "roadId": "43",
               "roadTime": "0.9682330000",
               "world": "1",
               "signature": "2233445522"
+            }
+          },
+          {
+            "$": {
+              "archFriendlyFemaleName": "⚡ 20 Sec",
+              "archFriendlyName": "⚡ 20 Sec",
+              "archId": "9",
+              "direction": "forward",
+              "isPowerArch": "1",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PurpleJersey_Icon.tga",
+              "jerseyName": "⚡ 20 Sec",
+              "name": "⚡ 20 Sec",
+              "roadId": "223",
+              "roadTime": "0.5390000000",
+              "world": "4",
+              "signature": "22532457188"
+            }
+          },
+          {
+            "$": {
+              "archFriendlyFemaleNameR": "⚡ 5 Sec",
+              "archFriendlyNameR": "⚡ 5 Sec",
+              "archId": "7",
+              "direction": "reverse",
+              "isPowerArch": "1",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PurpleJersey_Icon.tga",
+              "jerseyName": "⚡ 5 Sec",
+              "name": "⚡ 5 Sec",
+              "roadId": "254",
+              "roadTime": "0.2140000000",
+              "world": "4",
+              "signature": "39700865272"
+            }
+          },
+          {
+            "$": {
+              "archFriendlyFemaleNameR": "⚡ 5 Sec",
+              "archFriendlyNameR": "⚡ 5 Sec",
+              "archId": "4",
+              "direction": "reverse",
+              "isPowerArch": "1",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PurpleJersey_Icon.tga",
+              "jerseyName": "⚡ 5 Sec",
+              "name": "⚡ 5 Sec",
+              "roadId": "231",
+              "roadTime": "0.4530000000",
+              "world": "4",
+              "signature": "39700865272"
+            }
+          },
+          {
+            "$": {
+              "archFriendlyFemaleName": "⚡ 20 Sec",
+              "archFriendlyName": "⚡ 20 Sec",
+              "archId": "6",
+              "direction": "forward",
+              "isPowerArch": "1",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PurpleJersey_Icon.tga",
+              "jerseyName": "⚡ 20 Sec",
+              "name": "⚡ 20 Sec",
+              "roadId": "251",
+              "roadTime": "0.7180000000",
+              "world": "4",
+              "signature": "22532457188"
             }
           },
           {
@@ -12243,8 +13687,9 @@
               "archId": "0",
               "direction": "forward",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/OrangeJersey_Icon.tga",
-              "name": "none",
-              "onRoutes": "1919980508,3872978134,1509089537,2954366662,274639515,352245150",
+              "jerseyName": "CENTRAL PARK LOOP",
+              "name": "CENTRAL PARK LOOP",
+              "onRoutes": "1919980508,3872978134,2954366662,274639515,352245150",
               "roadId": "4",
               "roadTime": "0.1687163593",
               "world": "4",
@@ -12290,7 +13735,7 @@
               "direction": "forward",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "name": "none",
-              "onRoutes": "4012646479,163688809,1880443431,1230300449,3599973269,3569674525",
+              "onRoutes": "4012646479,163688809,1880443431,1230300449,3599973269,3569674525,2836167073",
               "roadId": "0",
               "roadTime": "0.5277928597",
               "world": "3",
@@ -12349,8 +13794,9 @@
               "archId": "1",
               "direction": "forward",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
-              "name": "none",
-              "onRoutes": "1919980508,2954366662,2945813240,1327665278,2422779354,480315274,2436095601,3669622170",
+              "jerseyName": "NY SPRINT",
+              "name": "NY SPRINT",
+              "onRoutes": "1919980508,2954366662,2945813240,1327665278,2422779354,480315274,2436095601,3669622170,2898229208,2101060245,3678866163",
               "roadId": "4",
               "roadTime": "0.9098000000",
               "world": "4",
@@ -12381,7 +13827,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "Champion's Sprint",
               "name": "Champion's Sprint",
-              "onRoutes": "3765339356,3662705581,3351665212,377566656,2826340040,172610229",
+              "onRoutes": "3765339356,3662705581,3351665212,377566656,2826340040,172610229,79243399",
               "roadId": "9",
               "roadTime": "0.9969000000",
               "world": "13",
@@ -12412,7 +13858,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
               "jerseyName": "Sgurr Summit",
               "name": "Sgurr Summit",
-              "onRoutes": "4107749591,3662705581,377566656",
+              "onRoutes": "4107749591,3662705581,377566656,2312882507",
               "roadId": "3",
               "roadTime": "0.3606309670",
               "world": "13",
@@ -12441,8 +13887,9 @@
               "archId": "2",
               "direction": "forward",
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJerseyW_Icon.tga",
-              "name": "none",
-              "onRoutes": "3078665969,1732356505,2954366662,3687251774,1327665278,2372883204,2436095601",
+              "jerseyName": "NEW YORK KOM",
+              "name": "NEW YORK KOM",
+              "onRoutes": "3078665969,1732356505,2954366662,3687251774,1327665278,2372883204,2436095601,3079921742,1671282746",
               "roadId": "24",
               "roadTime": "0.5492857388",
               "world": "4",
@@ -12576,7 +14023,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
               "jerseyName": "The Clyde Kicker",
               "name": "The Clyde Kicker",
-              "onRoutes": "3765339356,3662705581,3351665212,377566656,2826340040,172610229",
+              "onRoutes": "3765339356,3662705581,3351665212,377566656,2826340040,172610229,79243399",
               "roadId": "9",
               "roadTime": "0.4820664593",
               "world": "13",
@@ -12624,7 +14071,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
               "jerseyName": "Breakaway Brae",
               "name": "Breakaway Brae",
-              "onRoutes": "3662705581,377566656,2826340040",
+              "onRoutes": "3662705581,377566656,2826340040,2773927650",
               "roadId": "2",
               "roadTime": "0.2468000000",
               "world": "13",
@@ -12652,8 +14099,9 @@
               "archFriendlyName": "Volcano",
               "archId": "4",
               "direction": "forward",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/Badge_Volcano.tga",
               "name": "Volcano Lap",
-              "onRoutes": "686828068,3368626651,1327147942",
+              "onRoutes": "686828068,3368626651,1327147942,2251715424",
               "roadId": "23",
               "roadTime": "0.7861780000",
               "world": "1",
@@ -12715,7 +14163,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
               "jerseyName": "ROOFTOP KOM",
               "name": "ROOFTOP_KOM",
-              "onRoutes": "3565430790,1453570384,2896159042,1367364772",
+              "onRoutes": "3565430790,1453570384,2896159042,1367364772,3636436865,65777922",
               "roadId": "70",
               "roadTime": "0.6506578889",
               "world": "9",
@@ -12731,7 +14179,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "RAILWAY SPRINT",
               "name": "RAILWAY_SPRINT",
-              "onRoutes": "246712730,3356878261,2866480562,3330165223",
+              "onRoutes": "246712730,3356878261,2866480562,3330165223,3636436865",
               "roadId": "19",
               "roadTime": "0.9048543585",
               "world": "9",
@@ -12763,7 +14211,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/NationalForest_Jersey_Icon.tga",
               "jerseyName": "Titans Grove KOM",
               "name": "Titans Grove KOM End",
-              "onRoutes": "604330868,3921412335,2900074211,2627606248,2746475460,762151244,2888820995",
+              "onRoutes": "604330868,3921412335,2900074211,2627606248,2746475460,762151244,2888820995,979250573",
               "roadId": "81",
               "roadTime": "0.5562000000",
               "world": "1",
@@ -12803,6 +14251,22 @@
           },
           {
             "$": {
+              "archFriendlyFemaleName": "Manhattan Sprint",
+              "archFriendlyName": "Manhattan Sprint",
+              "archId": "11",
+              "direction": "forward",
+              "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
+              "jerseyName": "Manhattan Sprint",
+              "name": "Manhattan Sprint",
+              "onRoutes": "2898229208,2101060245,3678866163,730052368,3051823795",
+              "roadId": "220",
+              "roadTime": "0.4380000000",
+              "world": "4",
+              "signature": "48298920509"
+            }
+          },
+          {
+            "$": {
               "archFriendlyFemaleName": "CASTLE PARK SPRINT",
               "archFriendlyName": "CASTLE PARK SPRINT",
               "archId": "11",
@@ -12810,7 +14274,7 @@
               "jerseyIconPath": "UI/WhiteOrangeTheme/HUD/GreenJersey_Icon.tga",
               "jerseyName": "CASTLE PARK SPRINT",
               "name": "CASTLE_PARK_SPRINT",
-              "onRoutes": "3407362320,1453570384,3742187716,890800649",
+              "onRoutes": "3407362320,1453570384,3742187716,890800649,3636436865,65777922",
               "roadId": "18",
               "roadTime": "0.6855761013",
               "world": "9",
@@ -12903,7 +14367,7 @@
           {
             "$": {
               "imageName": "ZwiftLongDistanceRiders2025_thumb",
-              "name": "LOC_CYCLING_JERSEY_ZWIFTLONGDISTANCERIDERS2025",
+              "name": "Zwift Long Distance Riders",
               "signature": "1204170"
             }
           },
@@ -13073,6 +14537,13 @@
               "imageName": "SLT2024Purple_thumb",
               "name": "supertri.e kit [Purple]",
               "signature": "103107648"
+            }
+          },
+          {
+            "$": {
+              "imageName": "Basecamp2025_thumb",
+              "name": "BaseCamp 2025",
+              "signature": "106189863"
             }
           },
           {
@@ -13539,6 +15010,13 @@
           },
           {
             "$": {
+              "imageName": "SharkWorx2025_thumb",
+              "name": "SharkWorx 2025",
+              "signature": "346829257"
+            }
+          },
+          {
+            "$": {
               "imageName": "Zwift_02_thumb",
               "name": "Zwift",
               "signature": "351896555"
@@ -13640,6 +15118,13 @@
               "imageName": "TdFFaZ2025_thumb",
               "name": "2025 Watch the Femmes Fietsvrouwen",
               "signature": "396924038"
+            }
+          },
+          {
+            "$": {
+              "imageName": "NoLimitCC2025_thumb",
+              "name": "No Limit CC",
+              "signature": "400298644"
             }
           },
           {
@@ -13896,6 +15381,13 @@
           },
           {
             "$": {
+              "imageName": "CoachNorth2025_thumb",
+              "name": "Coach North",
+              "signature": "503537454"
+            }
+          },
+          {
+            "$": {
               "imageName": "Saxo_thumb",
               "name": "Saxo",
               "signature": "513440680"
@@ -13927,6 +15419,13 @@
               "imageName": "EvoCyclingClub2020_thumb",
               "name": "Evo Cycling Club 2020",
               "signature": "528534981"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RaphaFestive5002025_thumb",
+              "name": "2025 Rapha Festive 500",
+              "signature": "531554438"
             }
           },
           {
@@ -14274,6 +15773,13 @@
           },
           {
             "$": {
+              "imageName": "ZwiftCampBuild2025_thumb",
+              "name": "Zwift Camp: Build",
+              "signature": "691394223"
+            }
+          },
+          {
+            "$": {
               "imageName": "SLT2024Green_thumb",
               "name": "supertri.e kit [Green]",
               "signature": "700242404"
@@ -14361,6 +15867,13 @@
               "imageName": "SROZ2025_thumb",
               "name": "SROZ",
               "signature": "735858779"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RideClubFinland2025_thumb",
+              "name": "Ride Club Finland",
+              "signature": "745543387"
             }
           },
           {
@@ -14718,6 +16231,13 @@
               "imageName": "DimensionDataUKChamp_thumb",
               "name": "DD UK Champ",
               "signature": "908866226"
+            }
+          },
+          {
+            "$": {
+              "imageName": "KilometerFurKinder2025_thumb",
+              "name": "Kilometer Für Kinder",
+              "signature": "919642416"
             }
           },
           {
@@ -15618,6 +17138,13 @@
           },
           {
             "$": {
+              "imageName": "DZR2025_thumb",
+              "name": "DZR 2025",
+              "signature": "1381648520"
+            }
+          },
+          {
+            "$": {
               "imageName": "DempeyChallenge2021_thumb",
               "name": "Dempsey Challenge 2021",
               "signature": "1383009663"
@@ -15768,6 +17295,13 @@
               "imageName": "ZwiftZFondoJan2019_thumb",
               "name": "Zwift zFondo January 2019",
               "signature": "1464573843"
+            }
+          },
+          {
+            "$": {
+              "imageName": "WattsUp2025_thumb",
+              "name": "Watts Up",
+              "signature": "1469433270"
             }
           },
           {
@@ -15954,6 +17488,13 @@
           },
           {
             "$": {
+              "imageName": "FasCatCoaching2025_thumb",
+              "name": "FasCat Coaching",
+              "signature": "1593548825"
+            }
+          },
+          {
+            "$": {
               "imageName": "CoalitionAlphaWmn2023_thumb",
               "name": "Coalition Alpha Women",
               "signature": "1595151118"
@@ -16013,6 +17554,13 @@
               "imageName": "NZBro2023_thumb",
               "name": "NZBro",
               "signature": "1612707188"
+            }
+          },
+          {
+            "$": {
+              "imageName": "WattsMore2025_thumb",
+              "name": "Watts More",
+              "signature": "1616684966"
             }
           },
           {
@@ -16234,6 +17782,13 @@
           },
           {
             "$": {
+              "imageName": "TheFeed2025_thumb",
+              "name": "The Feed 2025",
+              "signature": "1722503757"
+            }
+          },
+          {
+            "$": {
               "imageName": "UCIBlackHK2022_thumb",
               "name": "Hong Kong Federation Elite 2022",
               "signature": "1727340017"
@@ -16335,6 +17890,13 @@
               "imageName": "TrekSegafredoTrain2022_thumb",
               "name": "Trek Segafredo Training",
               "signature": "1776034995"
+            }
+          },
+          {
+            "$": {
+              "imageName": "Power2Tri2025_thumb",
+              "name": "Power2Tri Endurance Coaching",
+              "signature": "1781001662"
             }
           },
           {
@@ -16808,6 +18370,13 @@
           },
           {
             "$": {
+              "imageName": "RideWithJames2025_thumb",
+              "name": "Ride with James",
+              "signature": "2052385530"
+            }
+          },
+          {
+            "$": {
               "imageName": "Zwift_LVL30_thumb",
               "name": "Level 30",
               "signature": "2053768111"
@@ -16955,6 +18524,13 @@
           },
           {
             "$": {
+              "imageName": "CDPerformance2025_thumb",
+              "name": "CD Performance Coaching",
+              "signature": "2148742360"
+            }
+          },
+          {
+            "$": {
               "imageName": "Sugoi2018_thumb",
               "name": "Sugoi",
               "signature": "2150370418"
@@ -17098,6 +18674,13 @@
               "imageName": "Zwift_zFondo_Mar_thumb",
               "name": "Zwift zFondo March",
               "signature": "2262974117"
+            }
+          },
+          {
+            "$": {
+              "imageName": "BridgwaterCyclingClub2025_thumb",
+              "name": "Bridgwater Cycling Club",
+              "signature": "2265886962"
             }
           },
           {
@@ -17830,6 +19413,13 @@
           },
           {
             "$": {
+              "imageName": "WattFabrik2025_thumb",
+              "name": "WATTFabrik 2025",
+              "signature": "2695424189"
+            }
+          },
+          {
+            "$": {
               "imageName": "WorldCancerDay2021_thumb",
               "name": "World Cancer Day",
               "signature": "2697671308"
@@ -18216,7 +19806,7 @@
           {
             "$": {
               "imageName": "DadBodCyclingInc2025_thumb",
-              "name": "LOC_CYCLING_JERSEY_DADBODCYCLINGINC2025",
+              "name": "Dad Bod Cycling",
               "signature": "2856359988"
             }
           },
@@ -18537,6 +20127,13 @@
           },
           {
             "$": {
+              "imageName": "Velos2025_thumb",
+              "name": "Velos 2025",
+              "signature": "3037042645"
+            }
+          },
+          {
+            "$": {
               "imageName": "SLT2022red_thumb",
               "name": "Super League Tri Arena Games - Red Jersey",
               "signature": "3053089758"
@@ -18810,6 +20407,13 @@
           },
           {
             "$": {
+              "imageName": "SKBRacing2025_thumb",
+              "name": "SKB Racing",
+              "signature": "3204872546"
+            }
+          },
+          {
+            "$": {
               "imageName": "BritishTriathlonMember2018_thumb",
               "name": "British Triathlon Member",
               "signature": "3206315444"
@@ -18824,9 +20428,23 @@
           },
           {
             "$": {
+              "imageName": "DragonsRacing2025_thumb",
+              "name": "Dragons Racing Team",
+              "signature": "3216791291"
+            }
+          },
+          {
+            "$": {
               "imageName": "KZRnavy_thumb",
               "name": "KZR navy",
               "signature": "3219469326"
+            }
+          },
+          {
+            "$": {
+              "imageName": "TeamUkraine2025_thumb",
+              "name": "Team Ukraine",
+              "signature": "3224005943"
             }
           },
           {
@@ -18883,6 +20501,13 @@
               "imageName": "Zwift_eFondo_thumb",
               "name": "Zwift eFondo",
               "signature": "3252508495"
+            }
+          },
+          {
+            "$": {
+              "imageName": "BlackWatts2025_thumb",
+              "name": "Black Watts",
+              "signature": "3257531987"
             }
           },
           {
@@ -19027,6 +20652,13 @@
           },
           {
             "$": {
+              "imageName": "CastelliStratus2025_thumb",
+              "name": "LOC_CYCLING_JERSEY_CASTELLISTRATUS2025",
+              "signature": "3347131272"
+            }
+          },
+          {
+            "$": {
               "imageName": "ZFondo2021Feb_thumb",
               "name": "zFondo Feb 2021",
               "signature": "3348192842"
@@ -19065,6 +20697,13 @@
               "imageName": "ZFondo202201_thumb",
               "name": "ZFondo January 2022",
               "signature": "3361977988"
+            }
+          },
+          {
+            "$": {
+              "imageName": "TeamBVCK2025_thumb",
+              "name": "BVCK",
+              "signature": "3363126442"
             }
           },
           {
@@ -19296,6 +20935,13 @@
               "imageName": "TeamCryo2019_thumb",
               "name": "Team Cryo",
               "signature": "3440237765"
+            }
+          },
+          {
+            "$": {
+              "imageName": "NorwegianWattsClub2025_thumb",
+              "name": "Norwegian Watts",
+              "signature": "3445036258"
             }
           },
           {
@@ -20682,6 +22328,13 @@
               "imageName": "WorldBikeRelief2015_thumb",
               "name": "World Bicycle Relief 2015",
               "signature": "4095063053"
+            }
+          },
+          {
+            "$": {
+              "imageName": "OffTheMAAP2025_thumb",
+              "name": "2025 Off the MAAP",
+              "signature": "4096405368"
             }
           },
           {
@@ -22200,6 +23853,13 @@
               "imageName": "HolidayHeat2019_thumb",
               "name": "Holiday Heat",
               "signature": "3787396827"
+            }
+          },
+          {
+            "$": {
+              "imageName": "NobleProRunningClub2025_thumb",
+              "name": "NoblePro Running Club",
+              "signature": "3812261854"
             }
           },
           {
@@ -25594,6 +27254,22 @@
           {
             "$": {
               "bikeClass": "HIGH_END",
+              "brand": "Canyon",
+              "isTT": "0",
+              "lvId": "4169711732",
+              "modelYear": "2025",
+              "name": "Canyon MyCanyon Opus - Felipe Pantone",
+              "price0": "100000",
+              "price1": "200000",
+              "price2": "350000",
+              "price3": "500000",
+              "price4": "750000",
+              "signature": "1939788651"
+            }
+          },
+          {
+            "$": {
+              "bikeClass": "HIGH_END",
               "brand": "Pinarello",
               "isTT": "0",
               "lvId": "4169711732",
@@ -25881,6 +27557,22 @@
           },
           {
             "$": {
+              "bikeClass": "HIGH_END",
+              "brand": "Canyon",
+              "isTT": "0",
+              "lvId": "4169711732",
+              "modelYear": "2025",
+              "name": "Canyon MyCanyon Opus - Elena Salmistraro",
+              "price0": "100000",
+              "price1": "200000",
+              "price2": "350000",
+              "price3": "500000",
+              "price4": "750000",
+              "signature": "2423170066"
+            }
+          },
+          {
+            "$": {
               "bikeClass": "ENTRY",
               "brand": "Chapter2",
               "isTT": "0",
@@ -26077,6 +27769,22 @@
               "brand": "Canyon",
               "isTT": "0",
               "lvId": "4169711732",
+              "modelYear": "2025",
+              "name": "Canyon MyCanyon Fabrio - Gold Dust",
+              "price0": "100000",
+              "price1": "200000",
+              "price2": "350000",
+              "price3": "500000",
+              "price4": "750000",
+              "signature": "2830355374"
+            }
+          },
+          {
+            "$": {
+              "bikeClass": "HIGH_END",
+              "brand": "Canyon",
+              "isTT": "0",
+              "lvId": "4169711732",
               "modelYear": "2022",
               "name": "Canyon Ultimate Generation",
               "price0": "100000",
@@ -26154,11 +27862,11 @@
           {
             "$": {
               "bikeClass": "ENTRY",
-              "brand": "Zwift",
+              "brand": "Brompton",
               "isTT": "0",
               "lvId": "28476688",
               "modelYear": "2025",
-              "name": "Zwift Brompton P Line",
+              "name": "Brompton Brompton P Line",
               "price0": "25000",
               "price1": "50000",
               "price2": "75000",
@@ -26437,6 +28145,22 @@
               "price3": "200000",
               "price4": "250000",
               "signature": "3583022399"
+            }
+          },
+          {
+            "$": {
+              "bikeClass": "HIGH_END",
+              "brand": "Canyon",
+              "isTT": "0",
+              "lvId": "4169711732",
+              "modelYear": "2025",
+              "name": "Canyon MyCanyon Mano - Carina Red",
+              "price0": "100000",
+              "price1": "200000",
+              "price2": "350000",
+              "price3": "500000",
+              "price4": "750000",
+              "signature": "3595208950"
             }
           },
           {
@@ -27053,7 +28777,7 @@
           },
           {
             "$": {
-              "name": "Zwift BromptonPLine2025-Default",
+              "name": "Brompton BromptonPLine2025-Default",
               "signature": "674138548"
             }
           },
@@ -27155,6 +28879,12 @@
           },
           {
             "$": {
+              "name": "Canyon CanyonAeroadPantone2025-CanyonAeroad2025 Pantone",
+              "signature": "1018505599"
+            }
+          },
+          {
+            "$": {
               "name": "Canyon Aeroad 2021-Zwift Academy 2023",
               "signature": "1032098364"
             }
@@ -27205,6 +28935,12 @@
             "$": {
               "name": "Zwift Carbon-Astana",
               "signature": "1208416225"
+            }
+          },
+          {
+            "$": {
+              "name": "Canyon CanyonAeroadFabrio2025-CanyonAeroad2025 Fabrio",
+              "signature": "1209886555"
             }
           },
           {
@@ -27385,6 +29121,12 @@
             "$": {
               "name": "Felt AR-Felt AR 2018 Blue",
               "signature": "1836980898"
+            }
+          },
+          {
+            "$": {
+              "name": "Canyon CanyonAeroadSalmistraro2025-CanyonAeroad2025 Salmistraro",
+              "signature": "1882405181"
             }
           },
           {
@@ -27659,6 +29401,12 @@
           },
           {
             "$": {
+              "name": "Canyon CanyonAeroadMano2025-CanyonAeroad2025 Mano",
+              "signature": "2701915750"
+            }
+          },
+          {
+            "$": {
               "name": "Scott Spark RC-Cape Epic",
               "signature": "2704151007"
             }
@@ -27667,6 +29415,12 @@
             "$": {
               "name": "Zwift Buffalo Fahrrad-Buffalo Fahrrad",
               "signature": "2730699339"
+            }
+          },
+          {
+            "$": {
+              "name": "Brompton BromptonPLine2025-TdF2025",
+              "signature": "2745763723"
             }
           },
           {
@@ -28152,6 +29906,13 @@
               "imageName": "SpecializedMixTape2019",
               "name": "Specialized Mix Tape",
               "signature": "474850163"
+            }
+          },
+          {
+            "$": {
+              "imageName": "SocksZwiftCampBuild2025",
+              "name": "Zwift Camp: Build",
+              "signature": "483854767"
             }
           },
           {
@@ -28824,6 +30585,13 @@
               "imageName": "Socks_Party02",
               "name": "Party Orange",
               "signature": "3560570028"
+            }
+          },
+          {
+            "$": {
+              "imageName": "SocksOffTheMAAP2025",
+              "name": "2025 Off the MAAP",
+              "signature": "3606966457"
             }
           },
           {
@@ -30089,6 +31857,13 @@
               "imageName": "RcZRSCiele2020_thumb",
               "name": "ZRS Ciele",
               "signature": "3291118897"
+            }
+          },
+          {
+            "$": {
+              "imageName": "HeadphonesZwiftCampBuild2025_thumb",
+              "name": "Zwift Camp: Build",
+              "signature": "3306100355"
             }
           },
           {
@@ -32944,6 +34719,303 @@
               "sport": "0",
               "signature": "303"
             }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "WATTS OF THE WILD",
+              "routeSignature": "979250573",
+              "sport": "0",
+              "signature": "304"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "TROPIC RUSH",
+              "routeSignature": "3636436865",
+              "sport": "0",
+              "signature": "305"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "LONDON CALLING",
+              "routeSignature": "2836167073",
+              "sport": "0",
+              "signature": "306"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "DÙN DASH",
+              "routeSignature": "2312882507",
+              "sport": "0",
+              "signature": "307"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "ELECTRIC BREAK",
+              "routeSignature": "65777922",
+              "sport": "0",
+              "signature": "308"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "SCOTLAND AFTER PARTY",
+              "routeSignature": "4227232797",
+              "sport": "0",
+              "signature": "309"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "HIGHLAND RUN",
+              "routeSignature": "2773927650",
+              "sport": "1",
+              "signature": "310"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "TRACK MEET",
+              "routeSignature": "3871332877",
+              "sport": "1",
+              "signature": "311"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "YORU RUN",
+              "routeSignature": "152965568",
+              "sport": "1",
+              "signature": "312"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "GLASGOW CRIT SIX",
+              "routeSignature": "79243399",
+              "sport": "0",
+              "signature": "313"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "HOT LAPS",
+              "routeSignature": "2251715424",
+              "sport": "0",
+              "signature": "314"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "WATTS THE LIMIT",
+              "routeSignature": "2898229208",
+              "sport": "0",
+              "signature": "315"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "TIMES SQUARE CIRCUIT",
+              "routeSignature": "1942591558",
+              "sport": "0",
+              "signature": "316"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "DOUBLE SPAN SPIN",
+              "routeSignature": "1099226581",
+              "sport": "0",
+              "signature": "317"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "PROSPECT PARK LOOP",
+              "routeSignature": "22757204",
+              "sport": "0",
+              "signature": "318"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "GREEN TO SCREEN",
+              "routeSignature": "1178708985",
+              "sport": "0",
+              "signature": "319"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "NO SLEEP TILL BROOKLYN",
+              "routeSignature": "104170948",
+              "sport": "0",
+              "signature": "320"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "DOUBLE PARKED",
+              "routeSignature": "2101060245",
+              "sport": "0",
+              "signature": "321"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "STAY PUFT PURSUIT",
+              "routeSignature": "3079921742",
+              "sport": "0",
+              "signature": "322"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "FUHGEDDABOUDIT",
+              "routeSignature": "3678866163",
+              "sport": "0",
+              "signature": "323"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "SPINFINITY",
+              "routeSignature": "3314406972",
+              "sport": "0",
+              "signature": "324"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "THE DOUBLE BOROUGH",
+              "routeSignature": "1552189318",
+              "sport": "0",
+              "signature": "325"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "SPINFINITY ULTRA",
+              "routeSignature": "730052368",
+              "sport": "0",
+              "signature": "326"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "THE GREENWAY",
+              "routeSignature": "3051823795",
+              "sport": "0",
+              "signature": "327"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "TOEFIELD TORNADO",
+              "routeSignature": "4232620535",
+              "sport": "0",
+              "signature": "328"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "AVON FLYER",
+              "routeSignature": "975408707",
+              "sport": "0",
+              "signature": "329"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "ISSENDORF EXPRESS",
+              "routeSignature": "112312944",
+              "sport": "0",
+              "signature": "330"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "PROSPECT PARK LOOP RUN",
+              "routeSignature": "3835625237",
+              "sport": "1",
+              "signature": "331"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "TIMES SQUARE CIRCUIT RUN",
+              "routeSignature": "2949228237",
+              "sport": "1",
+              "signature": "332"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "TOEFIELD TORNADO RUN",
+              "routeSignature": "1472166107",
+              "sport": "1",
+              "signature": "333"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "AVON FLYER RUN",
+              "routeSignature": "494933300",
+              "sport": "1",
+              "signature": "334"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "INNSBRUCK KOM AFTER PARTY",
+              "routeSignature": "3649347250",
+              "sport": "0",
+              "signature": "335"
+            }
+          },
+          {
+            "$": {
+              "imageName": "RouteComplete",
+              "name": "RICHMOND ROLLERCOASTER",
+              "routeSignature": "948831673",
+              "sport": "0",
+              "signature": "336"
+            }
           }
         ]
       }
@@ -33108,7 +35180,7 @@
           {
             "$": {
               "imageName": "NEW_POWER_PR",
-              "name": "NEW POWER PR:",
+              "name": "PR:",
               "priority": "16",
               "signature": "35"
             }
@@ -33980,6 +36052,35 @@
               "difficulty_levels": "050,075,100,125",
               "name": "Col du Rosier",
               "signature": "10023"
+            }
+          },
+          {
+            "$": {
+              "ArchFemaleName": "Passo dello Stelvio",
+              "ArchFriendlyName": "Passo dello Stelvio",
+              "ArchID": "2",
+              "AverageSlope": "6.4840755463",
+              "CourseAscentF": "159615.6093750000",
+              "CourseAscentR": "-1.0000000000",
+              "CourseLength": "2336206.0000000000",
+              "Description": "Passo dello Stelvio",
+              "Duration": "99",
+              "Effort": "5.0000000000",
+              "Hash": "10024",
+              "InternalName": "Passo dello Stelvio",
+              "JerseyFemaleHash": "1832490174",
+              "JerseyHash": "2498899049",
+              "JerseyIconPath": "UI/WhiteOrangeTheme/HUD/PolkaJersey_Icon.tga",
+              "JerseyPath": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_01.tgax",
+              "JerseyPathFemale": "Humans/Jerseys/Originals/Zwift_Orange_Jersey_Female.tgax",
+              "LeaderJerseyName": "Climb Champion",
+              "MinCompletionTime": "101.0000000000",
+              "MinimapIconPath": "UI/minimap/map_arch_start_watopia.tga",
+              "PinIconPath": "UI/WhiteOrangeTheme/HUD/Marker_Crown.tga",
+              "UserFacingName": "Passo dello Stelvio",
+              "difficulty_levels": "050,075,100,125",
+              "name": "Passo dello Stelvio",
+              "signature": "10024"
             }
           },
           {

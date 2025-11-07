@@ -1448,5 +1448,170 @@
     "id": 303,
     "name": "FLAT OUT FAST",
     "imageName": "RouteComplete"
+  },
+  {
+    "id": 304,
+    "name": "WATTS OF THE WILD",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 305,
+    "name": "TROPIC RUSH",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 306,
+    "name": "LONDON CALLING",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 307,
+    "name": "DÙN DASH",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 308,
+    "name": "ELECTRIC BREAK",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 309,
+    "name": "SCOTLAND AFTER PARTY",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 310,
+    "name": "HIGHLAND RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 311,
+    "name": "TRACK MEET",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 312,
+    "name": "YORU RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 313,
+    "name": "GLASGOW CRIT SIX",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 314,
+    "name": "HOT LAPS",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 315,
+    "name": "WATTS THE LIMIT",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 316,
+    "name": "TIMES SQUARE CIRCUIT",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 317,
+    "name": "DOUBLE SPAN SPIN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 318,
+    "name": "PROSPECT PARK LOOP",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 319,
+    "name": "GREEN TO SCREEN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 320,
+    "name": "NO SLEEP TILL BROOKLYN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 321,
+    "name": "DOUBLE PARKED",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 322,
+    "name": "STAY PUFT PURSUIT",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 323,
+    "name": "FUHGEDDABOUDIT",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 324,
+    "name": "SPINFINITY",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 325,
+    "name": "THE DOUBLE BOROUGH",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 326,
+    "name": "SPINFINITY ULTRA",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 327,
+    "name": "THE GREENWAY",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 328,
+    "name": "TOEFIELD TORNADO",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 329,
+    "name": "AVON FLYER",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 330,
+    "name": "ISSENDORF EXPRESS",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 331,
+    "name": "PROSPECT PARK LOOP RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 332,
+    "name": "TIMES SQUARE CIRCUIT RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 333,
+    "name": "TOEFIELD TORNADO RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 334,
+    "name": "AVON FLYER RUN",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 335,
+    "name": "INNSBRUCK KOM AFTER PARTY",
+    "imageName": "RouteComplete"
+  },
+  {
+    "id": 336,
+    "name": "RICHMOND ROLLERCOASTER",
+    "imageName": "RouteComplete"
   }
 ]

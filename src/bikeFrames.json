@@ -371,6 +371,12 @@
     "isTT": false
   },
   {
+    "id": 1939788651,
+    "name": "Canyon MyCanyon Opus - Felipe Pantone",
+    "modelYear": 2025,
+    "isTT": false
+  },
+  {
     "id": 1950596038,
     "name": "Pinarello Dogma F 2024",
     "modelYear": 2024,
@@ -477,6 +483,12 @@
     "isTT": false
   },
   {
+    "id": 2423170066,
+    "name": "Canyon MyCanyon Opus - Elena Salmistraro",
+    "modelYear": 2025,
+    "isTT": false
+  },
+  {
     "id": 2439776613,
     "name": "Chapter2 Tere",
     "modelYear": 2019,
@@ -548,6 +560,12 @@
     "isTT": false
   },
   {
+    "id": 2830355374,
+    "name": "Canyon MyCanyon Fabrio - Gold Dust",
+    "modelYear": 2025,
+    "isTT": false
+  },
+  {
     "id": 2884593499,
     "name": "Canyon Ultimate Generation",
     "modelYear": 2022,
@@ -579,7 +597,7 @@
   },
   {
     "id": 3017804836,
-    "name": "Zwift Brompton P Line",
+    "name": "Brompton Brompton P Line",
     "modelYear": 2025,
     "isTT": false
   },
@@ -679,6 +697,12 @@
     "id": 3583022399,
     "name": "Cervelo Aspero",
     "modelYear": 2020,
+    "isTT": false
+  },
+  {
+    "id": 3595208950,
+    "name": "Canyon MyCanyon Mano - Carina Red",
+    "modelYear": 2025,
     "isTT": false
   },
   {

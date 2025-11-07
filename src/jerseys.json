@@ -1,7 +1,7 @@
 [
   {
     "id": 1204170,
-    "name": "LOC_CYCLING_JERSEY_ZWIFTLONGDISTANCERIDERS2025",
+    "name": "Zwift Long Distance Riders",
     "imageName": "ZwiftLongDistanceRiders2025_thumb"
   },
   {
@@ -123,6 +123,11 @@
     "id": 103107648,
     "name": "supertri.e kit [Purple]",
     "imageName": "SLT2024Purple_thumb"
+  },
+  {
+    "id": 106189863,
+    "name": "BaseCamp 2025",
+    "imageName": "Basecamp2025_thumb"
   },
   {
     "id": 114907065,
@@ -455,6 +460,11 @@
     "imageName": "TdFFaZ2025_thumb"
   },
   {
+    "id": 346829257,
+    "name": "SharkWorx 2025",
+    "imageName": "SharkWorx2025_thumb"
+  },
+  {
     "id": 351896555,
     "name": "Zwift",
     "imageName": "Zwift_02_thumb"
@@ -528,6 +538,11 @@
     "id": 396924038,
     "name": "2025 Watch the Femmes Fietsvrouwen",
     "imageName": "TdFFaZ2025_thumb"
+  },
+  {
+    "id": 400298644,
+    "name": "No Limit CC",
+    "imageName": "NoLimitCC2025_thumb"
   },
   {
     "id": 405683158,
@@ -710,6 +725,11 @@
     "imageName": "SLT2022white_thumb"
   },
   {
+    "id": 503537454,
+    "name": "Coach North",
+    "imageName": "CoachNorth2025_thumb"
+  },
+  {
     "id": 513440680,
     "name": "Saxo",
     "imageName": "Saxo_thumb"
@@ -733,6 +753,11 @@
     "id": 528534981,
     "name": "Evo Cycling Club 2020",
     "imageName": "EvoCyclingClub2020_thumb"
+  },
+  {
+    "id": 531554438,
+    "name": "2025 Rapha Festive 500",
+    "imageName": "RaphaFestive5002025_thumb"
   },
   {
     "id": 532913371,
@@ -980,6 +1005,11 @@
     "imageName": "TDFFaZCANYONSRAM2023_thumb"
   },
   {
+    "id": 691394223,
+    "name": "Zwift Camp: Build",
+    "imageName": "ZwiftCampBuild2025_thumb"
+  },
+  {
     "id": 700242404,
     "name": "supertri.e kit [Green]",
     "imageName": "SLT2024Green_thumb"
@@ -1043,6 +1073,11 @@
     "id": 735858779,
     "name": "SROZ",
     "imageName": "SROZ2025_thumb"
+  },
+  {
+    "id": 745543387,
+    "name": "Ride Club Finland",
+    "imageName": "RideClubFinland2025_thumb"
   },
   {
     "id": 750929824,
@@ -1298,6 +1333,11 @@
     "id": 908866226,
     "name": "DD UK Champ",
     "imageName": "DimensionDataUKChamp_thumb"
+  },
+  {
+    "id": 919642416,
+    "name": "Kilometer Für Kinder",
+    "imageName": "KilometerFurKinder2025_thumb"
   },
   {
     "id": 920337189,
@@ -1940,6 +1980,11 @@
     "imageName": "AHDRAmericas2023_thumb"
   },
   {
+    "id": 1381648520,
+    "name": "DZR 2025",
+    "imageName": "DZR2025_thumb"
+  },
+  {
     "id": 1383009663,
     "name": "Dempsey Challenge 2021",
     "imageName": "DempeyChallenge2021_thumb"
@@ -2048,6 +2093,11 @@
     "id": 1464573843,
     "name": "Zwift zFondo January 2019",
     "imageName": "ZwiftZFondoJan2019_thumb"
+  },
+  {
+    "id": 1469433270,
+    "name": "Watts Up",
+    "imageName": "WattsUp2025_thumb"
   },
   {
     "id": 1482458261,
@@ -2180,6 +2230,11 @@
     "imageName": "BIGLA2019UCI_thumb"
   },
   {
+    "id": 1593548825,
+    "name": "FasCat Coaching",
+    "imageName": "FasCatCoaching2025_thumb"
+  },
+  {
     "id": 1595151118,
     "name": "Coalition Alpha Women",
     "imageName": "CoalitionAlphaWmn2023_thumb"
@@ -2223,6 +2278,11 @@
     "id": 1612707188,
     "name": "NZBro",
     "imageName": "NZBro2023_thumb"
+  },
+  {
+    "id": 1616684966,
+    "name": "Watts More",
+    "imageName": "WattsMore2025_thumb"
   },
   {
     "id": 1617481982,
@@ -2380,6 +2440,11 @@
     "imageName": "ZATri2021_thumb"
   },
   {
+    "id": 1722503757,
+    "name": "The Feed 2025",
+    "imageName": "TheFeed2025_thumb"
+  },
+  {
     "id": 1727340017,
     "name": "Hong Kong Federation Elite 2022",
     "imageName": "UCIBlackHK2022_thumb"
@@ -2453,6 +2518,11 @@
     "id": 1776034995,
     "name": "Trek Segafredo Training",
     "imageName": "TrekSegafredoTrain2022_thumb"
+  },
+  {
+    "id": 1781001662,
+    "name": "Power2Tri Endurance Coaching",
+    "imageName": "Power2Tri2025_thumb"
   },
   {
     "id": 1801600368,
@@ -2790,6 +2860,11 @@
     "imageName": "Scott2020_thumb"
   },
   {
+    "id": 2052385530,
+    "name": "Ride with James",
+    "imageName": "RideWithJames2025_thumb"
+  },
+  {
     "id": 2053768111,
     "name": "Level 30",
     "imageName": "Zwift_LVL30_thumb"
@@ -2895,6 +2970,11 @@
     "imageName": "WTRL2022_thumb"
   },
   {
+    "id": 2148742360,
+    "name": "CD Performance Coaching",
+    "imageName": "CDPerformance2025_thumb"
+  },
+  {
     "id": 2150370418,
     "name": "Sugoi",
     "imageName": "Sugoi2018_thumb"
@@ -2998,6 +3078,11 @@
     "id": 2262974117,
     "name": "Zwift zFondo March",
     "imageName": "Zwift_zFondo_Mar_thumb"
+  },
+  {
+    "id": 2265886962,
+    "name": "Bridgwater Cycling Club",
+    "imageName": "BridgwaterCyclingClub2025_thumb"
   },
   {
     "id": 2266547073,
@@ -3520,6 +3605,11 @@
     "imageName": "ODZ_thumb"
   },
   {
+    "id": 2695424189,
+    "name": "WATTFabrik 2025",
+    "imageName": "WattFabrik2025_thumb"
+  },
+  {
     "id": 2697671308,
     "name": "World Cancer Day",
     "imageName": "WorldCancerDay2021_thumb"
@@ -3796,7 +3886,7 @@
   },
   {
     "id": 2856359988,
-    "name": "LOC_CYCLING_JERSEY_DADBODCYCLINGINC2025",
+    "name": "Dad Bod Cycling",
     "imageName": "DadBodCyclingInc2025_thumb"
   },
   {
@@ -4025,6 +4115,11 @@
     "imageName": "PrideOn2023_thumb"
   },
   {
+    "id": 3037042645,
+    "name": "Velos 2025",
+    "imageName": "Velos2025_thumb"
+  },
+  {
     "id": 3053089758,
     "name": "Super League Tri Arena Games - Red Jersey",
     "imageName": "SLT2022red_thumb"
@@ -4220,6 +4315,11 @@
     "imageName": "ZwiftNationalChampions_thumb"
   },
   {
+    "id": 3204872546,
+    "name": "SKB Racing",
+    "imageName": "SKBRacing2025_thumb"
+  },
+  {
     "id": 3206315444,
     "name": "British Triathlon Member",
     "imageName": "BritishTriathlonMember2018_thumb"
@@ -4230,9 +4330,19 @@
     "imageName": "AustraliaElite2020_thumb"
   },
   {
+    "id": 3216791291,
+    "name": "Dragons Racing Team",
+    "imageName": "DragonsRacing2025_thumb"
+  },
+  {
     "id": 3219469326,
     "name": "KZR navy",
     "imageName": "KZRnavy_thumb"
+  },
+  {
+    "id": 3224005943,
+    "name": "Team Ukraine",
+    "imageName": "TeamUkraine2025_thumb"
   },
   {
     "id": 3235061071,
@@ -4273,6 +4383,11 @@
     "id": 3252508495,
     "name": "Zwift eFondo",
     "imageName": "Zwift_eFondo_thumb"
+  },
+  {
+    "id": 3257531987,
+    "name": "Black Watts",
+    "imageName": "BlackWatts2025_thumb"
   },
   {
     "id": 3258262470,
@@ -4375,6 +4490,11 @@
     "imageName": "GiroDeRigo2020_thumb"
   },
   {
+    "id": 3347131272,
+    "name": "LOC_CYCLING_JERSEY_CASTELLISTRATUS2025",
+    "imageName": "CastelliStratus2025_thumb"
+  },
+  {
     "id": 3348192842,
     "name": "zFondo Feb 2021",
     "imageName": "ZFondo2021Feb_thumb"
@@ -4403,6 +4523,11 @@
     "id": 3361977988,
     "name": "ZFondo January 2022",
     "imageName": "ZFondo202201_thumb"
+  },
+  {
+    "id": 3363126442,
+    "name": "BVCK",
+    "imageName": "TeamBVCK2025_thumb"
   },
   {
     "id": 3365175761,
@@ -4568,6 +4693,11 @@
     "id": 3440237765,
     "name": "Team Cryo",
     "imageName": "TeamCryo2019_thumb"
+  },
+  {
+    "id": 3445036258,
+    "name": "Norwegian Watts",
+    "imageName": "NorwegianWattsClub2025_thumb"
   },
   {
     "id": 3446412723,
@@ -5558,6 +5688,11 @@
     "id": 4095063053,
     "name": "World Bicycle Relief 2015",
     "imageName": "WorldBikeRelief2015_thumb"
+  },
+  {
+    "id": 4096405368,
+    "name": "2025 Off the MAAP",
+    "imageName": "OffTheMAAP2025_thumb"
   },
   {
     "id": 4099535182,
