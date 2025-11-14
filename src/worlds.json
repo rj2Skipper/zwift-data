@@ -1,50 +1,86 @@
 [
   {
     "gameDictionary": "WATOPIA",
-    "slug": "watopia"
+    "id": 1,
+    "name": "Watopia",
+    "slug": "watopia",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Watopia_2.png"
   },
   {
     "gameDictionary": "NEWYORK",
-    "slug": "new-york"
+    "id": 4,
+    "name": "New York",
+    "slug": "new-york",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_NewYork_2.png"
   },
   {
     "gameDictionary": "RICHMOND",
-    "slug": "richmond"
+    "slug": "richmond",
+    "id": 2,
+    "name": "Richmond",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Richmond.png"
   },
   {
     "gameDictionary": "LONDON",
-    "slug": "london"
+    "id": 3,
+    "name": "London",
+    "slug": "london",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_London.png"
   },
   {
     "gameDictionary": "INNSBRUCK",
-    "slug": "innsbruck"
+    "id": 5,
+    "name": "Innsbruck",
+    "slug": "innsbruck",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Innsbruck.png"
   },
   {
     "gameDictionary": "BOLOGNATT",
-    "slug": "bologna"
+    "id": 6,
+    "name": "Bologna",
+    "slug": "bologna",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Bologna.png"
   },
   {
     "gameDictionary": "YORKSHIRE",
-    "slug": "yorkshire"
+    "id": 7,
+    "name": "Yorkshire",
+    "slug": "yorkshire",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Yorkshire.png"
   },
   {
     "gameDictionary": "CRITCITY",
-    "slug": "crit-city"
+    "id": 8,
+    "name": "Crit City",
+    "slug": "crit-city",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_CritCity.png"
   },
   {
     "gameDictionary": "PARIS",
-    "slug": "paris"
+    "id": 11,
+    "name": "Paris",
+    "slug": "paris",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Champs.png"
   },
   {
     "gameDictionary": "MAKURIISLANDS",
-    "slug": "makuri-islands"
+    "id": 9,
+    "name": "Makuri Islands",
+    "slug": "makuri-islands",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Japan.png"
   },
   {
     "gameDictionary": "FRANCE",
-    "slug": "france"
+    "id": 10,
+    "name": "France",
+    "slug": "france",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_France.png"
   },
   {
     "gameDictionary": "SCOTLAND",
-    "slug": "scotland"
+    "id": 13,
+    "name": "Scotland",
+    "slug": "scotland",
+    "imageUrl": "https://cdn.zwift.com/static/images/maps/MiniMap_Scotland.png"
   }
 ]
